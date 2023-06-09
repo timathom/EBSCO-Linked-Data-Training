@@ -1,10 +1,11 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb.social\]]
+author: [EBSCO Information Services, Timothy A. Thompson :: @timathom, @timathom@indieweb.social]
 ---
 
 # Domain and Range: Examples
 
 |**Domain**|**Property**|**Range**|
+|----------|------------|---------|
 |Contribution|role|Agent
 
  -   Meeting

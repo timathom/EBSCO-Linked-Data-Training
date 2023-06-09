@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb.social\], timothy.thompson@yale.edu]
+author: [EBSCO Information Services, Timothy A. Thompson :: @timathom, @timathom@indieweb.social, timothy.thompson@yale.edu]
 ---
 
 # BIBFRAME in the Metadata Landscape

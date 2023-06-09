@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb.social\]]
+author: [EBSCO Information Services, Timothy A. Thompson :: @timathom, @timathom@indieweb.social]
 ---
 
 # Domain and Range
@@ -12,7 +12,7 @@ author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb
 
 ## Summary
 
-The **domain**and **range**of a property can also be defined.
+The **domain** and **range** of a property can also be defined.
 
 > A property domain limits the individuals that property can apply to.
 

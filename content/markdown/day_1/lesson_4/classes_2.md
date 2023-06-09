@@ -1,9 +1,11 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb.social\]]
+author: [EBSCO Information Services, Timothy A. Thompson :: @timathom, @timathom@indieweb.social]
 ---
 
 # Classes: Examples
 
+|Class|
+|-----|
 |**Contribution**|
 |**Item**|
 |**Organization**|

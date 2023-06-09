@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb.social\], timothy.thompson@yale.edu]
+author: [EBSCO Information Services, Timothy A. Thompson :: @timathom, @timathom@indieweb.social, timothy.thompson@yale.edu]
 ---
 
 # Showcase of Tools
@@ -7,6 +7,7 @@ author: [EBSCO Information Services, Timothy A. Thompson \| @timathom\[@indieweb
 Debugging
 
 |**Tool**|**Free and Open Source?**|
+|--------|-------------------------|
 |[TARQL](https://github.com/tarql/tarql) \(SPARQL for Tables\)|Yes|
 |ChatGPT \(for data conversion\)|No|
 |marc2bibframe2 \([hosted](https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt) \| also available as a Metaproxy Z39.50 plugin\)|Yes|
