@@ -4,7 +4,7 @@ Reusable training modules to promote linked data and BIBFRAME adoption among lib
 The content of these training modules was originally developed for the workshop "Empowering Global Leaders: A Linked Data Training Program for Library Innovation," held May 10-12, 2023.
 
 ## Content
-These training modules have been developed using the Learning and Training Specialization of the Darwin Information Typing Architecture (DITA). As an XML format, DITA lends itself to reuse, translation, and reformatting.
+These training modules have been developed using the Learning and Training Specialization of the [Darwin Information Typing Architecture](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) (DITA). As an XML format, DITA lends itself to reuse, translation, and reformatting.
 
 The content is also available as Markdown and could be transformed to other formats as needed.
 
