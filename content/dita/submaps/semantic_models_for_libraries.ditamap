@@ -3,7 +3,6 @@
 <learningGroupMap>
     <topicmeta>
         <navtitle>Semantic Models for Libraries</navtitle>
-        <author type="contributor">timothy.thompson@yale.edu</author>
         <critdates>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-05-04"/>
@@ -11,6 +10,8 @@
             <revised modified="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
         </critdates>
     </topicmeta>
     <learningGroup>

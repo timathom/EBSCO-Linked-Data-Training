@@ -15,8 +15,14 @@
     <learningContentbody>
         <lcInstruction>
             <table id="table_dtj_tcn_sxb">
+                <title>Example BIBFRAME Classes</title>
                 <tgroup cols="1">
                     <colspec colnum="1" colwidth="760px" colname="col1"/>
+                    <thead>
+                        <row>
+                            <entry>Class</entry>
+                        </row>
+                    </thead>
                     <tbody>
                         <row>
                             <entry dir="ltr"><b>Contribution</b></entry>
@@ -36,6 +42,8 @@
                     </tbody>
                 </tgroup>
             </table>
+          
+            
         </lcInstruction>
     </learningContentbody>
 

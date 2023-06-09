@@ -15,8 +15,14 @@
     <learningContentbody>
         <lcInstruction>
             <table id="table_jxh_ddn_sxb">
+                <title>Example BIBFRAME Properties</title>
                 <tgroup cols="1">
                     <colspec colnum="1" colwidth="760px" colname="col1"/>
+                    <thead>
+                        <row>
+                            <entry>Property</entry>
+                        </row>
+                    </thead>
                     <tbody>
                         <row>
                             <entry dir="ltr"><b>agent</b></entry>

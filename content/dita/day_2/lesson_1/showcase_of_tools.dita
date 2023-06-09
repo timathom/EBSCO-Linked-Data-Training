@@ -4,7 +4,6 @@
     <title>Showcase of Tools</title>
     <shortdesc>Debugging</shortdesc>
     <prolog>
-        <author type="creator">timothy.thompson@yale.edu</author>
         <critdates>
             <created date="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->
@@ -17,11 +16,13 @@
                 <tgroup cols="2">
                     <colspec colnum="1" colwidth="380px" colname="col1"/>
                     <colspec colnum="2" colwidth="380px" colname="col2"/>
-                    <tbody>
+                    <thead>
                         <row>
                             <entry dir="ltr"><b>Tool</b></entry>
                             <entry dir="ltr"><b>Free and Open Source?</b></entry>
                         </row>
+                    </thead>
+                    <tbody>                        
                         <row>
                             <entry dir="ltr"><xref href="https://github.com/tarql/tarql"
                                     format="html" scope="external"><u>TARQL</u></xref> (SPARQL for

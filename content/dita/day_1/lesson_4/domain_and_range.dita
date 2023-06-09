@@ -8,6 +8,8 @@
             <created date="2023-06-07"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
         </critdates>
     </prolog>
     <learningContentbody>
@@ -19,7 +21,7 @@
         <title>Summary</title>
         <learningSummarybody>
             <lcReview id="lcReview_qgf_l2n_sxb">
-                <p dir="ltr">The <b>domain </b>and <b>range </b>of a property can also be defined. <lq>
+                <p dir="ltr">The <b>domain</b> and <b>range</b> of a property can also be defined. <lq>
                         <p>A property domain limits the individuals that property can apply to.</p>
                         <p>The range of a property limits the individuals it can take as its
                             object. (<xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1"

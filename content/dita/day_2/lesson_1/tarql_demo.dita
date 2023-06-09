@@ -4,7 +4,6 @@
     <title>Tarql Demo: From Spreadsheets to Triples</title>
     <shortdesc>Debugging</shortdesc>
     <prolog>
-        <author type="creator">timothy.thompson@yale.edu</author>
         <critdates>
             <created date="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->

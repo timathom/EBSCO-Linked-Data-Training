@@ -4,11 +4,12 @@
     <title>RDF</title>
     <shortdesc/>
     <prolog>
-        <author type="creator">timothy.thompson@yale.edu</author>
         <critdates>
             <created date="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
         </critdates>
     </prolog>
     <learningContentbody>

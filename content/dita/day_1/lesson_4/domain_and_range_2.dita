@@ -19,12 +19,14 @@
                     <colspec colnum="1" colwidth="253px" colname="col1"/>
                     <colspec colnum="2" colwidth="253px" colname="col2"/>
                     <colspec colnum="3" colwidth="253px" colname="col3"/>
-                    <tbody>
+                    <thead>
                         <row>
                             <entry dir="ltr"><b>Domain</b></entry>
                             <entry dir="ltr"><b>Property</b></entry>
                             <entry dir="ltr"><b>Range</b></entry>
                         </row>
+                    </thead>
+                    <tbody>                        
                         <row>
                             <entry dir="ltr">Contribution</entry>
                             <entry dir="ltr">role</entry>
