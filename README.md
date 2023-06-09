@@ -6,7 +6,7 @@ The content of these training modules was originally developed for the workshop 
 ## Content
 These training modules have been developed using the Learning and Training Specialization of the [Darwin Information Typing Architecture](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) (DITA). As an XML format, DITA lends itself to reuse, translation, and reformatting.
 
-The content is also available as Markdown and could be transformed to other formats as needed.
+The content is also available here as [Markdown](https://github.com/timathom/EBSCO-Linked-Data-Training/tree/main/content/markdown) and could be transformed to other formats as needed.
 
 ## License and Attribution
 
