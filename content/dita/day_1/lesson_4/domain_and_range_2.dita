@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="domain_and_range_2">
+    <title>Domain and Range: Examples</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <table id="table_zfx_y2n_sxb">
+                <tgroup cols="3">
+                    <colspec colnum="1" colwidth="253px" colname="col1"/>
+                    <colspec colnum="2" colwidth="253px" colname="col2"/>
+                    <colspec colnum="3" colwidth="253px" colname="col3"/>
+                    <tbody>
+                        <row>
+                            <entry dir="ltr"><b>Domain</b></entry>
+                            <entry dir="ltr"><b>Property</b></entry>
+                            <entry dir="ltr"><b>Range</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr">Contribution</entry>
+                            <entry dir="ltr">role</entry>
+                            <entry>
+                                <p dir="ltr">Agent</p>
+                                <ul id="ul_agx_y2n_sxb">
+                                    <li dir="ltr">
+                                        <p dir="ltr">Meeting</p>
+                                    </li>
+                                    <li dir="ltr">
+                                        <p dir="ltr">Family</p>
+                                    </li>
+                                    <li dir="ltr">
+                                        <p dir="ltr">Jurisdiction</p>
+                                    </li>
+                                    <li dir="ltr">
+                                        <p dir="ltr">Organization </p>
+                                    </li>
+                                    <li dir="ltr">
+                                        <p dir="ltr">Person</p>
+                                    </li>
+                                </ul>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr">[None]</entry>
+                            <entry dir="ltr">date</entry>
+                            <entry dir="ltr">Literal</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

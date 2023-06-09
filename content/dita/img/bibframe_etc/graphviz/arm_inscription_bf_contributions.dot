@@ -1,0 +1,106 @@
+# http://www.graphviz.org/content/cluster
+
+digraph Grafo {
+    #rankdir=LR
+    fontname=Arial;
+    #graph [splines=ortho, nodesep=0.8];
+    node [
+      fontsize=20
+      shape=Mrecord
+      fontname=Arial
+      margin="0.2,0.2"
+    ];
+
+
+  subgraph cluster_item {
+    node [style=filled, color="lightblue3"];
+  #	item -> inscr [xlabel="arm:markedBy ", minlen=2];
+    inscr -> contrib1 [label="bf:contribution ", minlen=2];
+    inscr -> contrib2 [label="bf:contribution ", minlen=2];
+    #inscr -> Event [xlabel="bf:event ", minlen=2];
+    #Event -> contrib1 [xlabel="bf:contribution ", minlen=2];
+    #Event -> contrib2 [xlabel="bf:contribution ", minlen=2];
+    #Event -> type [xlabel="arm:hasType ", minlen=2];
+    contrib1 -> giver [label="bf:agent "];
+    contrib1 -> role1 [label="bf:role "];
+    contrib2 -> receiver [label="bf:agent "];
+    contrib2 -> role2 [label="bf:role "];
+
+    color = none;
+  }
+
+
+  giver [label=<
+    <table border="0">
+    <tr>
+      <td><b>bf:Person</b></td>
+    </tr>
+      <tr>
+        <td>Hurston, Zora Neale</td>
+      </tr>
+    </table>
+    >]
+  receiver [label=<
+    <table border="0">
+    <tr>
+      <td><b>bf:Person</b></td>
+    </tr>
+      <tr>
+        <td>Van Vechten, Carl, 1880-1964</td>
+      </tr>
+   </table>
+  >]
+
+ contrib1 [label=<
+    <b>bf:Contribution</b>
+    >]
+
+
+
+  contrib2 [label=<
+    <b>bf:Contribution</b>
+    >]
+  role1 [label=<
+    <table border="0">
+      <tr>
+        <td><b>bf:Role</b></td>
+      </tr>
+      <tr>
+        <td align="left">giver</td>
+      </tr>
+    </table>
+  >]
+
+  role2 [label=<
+    <table border="0">
+      <tr>
+        <td><b>bf:Role</b></td>
+      </tr>
+      <tr>
+        <td align="left">receiver</td>
+      </tr>
+    </table>
+  >]
+
+
+
+
+
+  inscr [label=<
+    <table border="0">
+      <tr>
+        <td><b>arm:Inscription</b></td>
+      </tr>
+      <tr>
+        <td align="left">To Carl VanVechten — <br/>Who plays lead trumpet <br/>in god's gold Throne band <br/>— Zora Neale Hurston</td>
+      </tr>
+
+    </table>
+    > color="orange2"]
+
+
+
+
+  #To Carl VanVechten — | Who plays lead trumpet | in god's gold Throne band — | Zora Neale Hurston
+
+}

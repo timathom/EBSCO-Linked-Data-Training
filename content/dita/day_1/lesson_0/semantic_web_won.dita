@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="semantic_web_won">
+    <title>ChatGPT: Limits and Possbilities</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_oyt_4gt_rxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="semantic_web_won_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview id="lcReview_xfj_ysx_rxb">
+                <p>
+                    <ul id="ul_lxl_2tx_rxb">
+                        <li>Structured data in the form of RDF triples is already embedded on 50% of
+                            pages on the web. </li>
+                        <li>As a result, ChatGPT has already been able to learn from and incorporate
+                            structured data semantics.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

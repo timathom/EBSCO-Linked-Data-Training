@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="lux_yale_collections_discovery_competency_questions">
+    <title>LUX: Competency Questions</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_j5g_5cb_txb">
+                <li dir="ltr">
+                    <p dir="ltr">What paintings from 1900-2015 are by Jewish women from Britain?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Who are the artists with the most works represented in LUX?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Which paintings of American landscapes in the 19th Century were
+                        painted by Europeans?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Which paintings depict collectors of fossils?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">What does Yale have that was created in (collected in, depicting,
+                        discussing) London in the 17th century?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">What British artists illustrated Hamlet during the late nineteenth
+                        century</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Does Yale have any works of modern art by artists born in
+                        Uruguay?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Plants, paintings, and photographic prints produced/encountered in
+                        Yosemite in the latter half of the 19th Century. </p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Archives created by someone born after 1950</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">People who created objects or works that are classified as
+                        forgeries</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Bronze sculptures in Yale's library and museum collections</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Digital images of people who have discovered holotypes</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Shakespeare's first folio</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>    
+</learningContent>

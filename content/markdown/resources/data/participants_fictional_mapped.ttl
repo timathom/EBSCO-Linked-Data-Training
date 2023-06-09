@@ -1,0 +1,398 @@
+@prefix schema:  <https://schema.org/> .
+@prefix bf:  <http://id.loc.gov/ontologies/bibframe/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdfox:  <https://rdfox.com/vocabulary#> .
+@prefix swrl:  <http://www.w3.org/2003/11/swrl#> .
+@prefix swrlb:  <http://www.w3.org/2003/11/swrlb#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix graph:  <https://metadatafram.es/data/graph/> .
+@prefix mdf:  <https://metadatafram.es/> .
+@prefix madsrdf:  <http://www.loc.gov/mads/rdf/v1#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sh:  <http://www.w3.org/ns/shacl#> .
+@prefix person:  <https://metadatafram.es/data/person/> .
+@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix place:  <https://metadatafram.es/data/place/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix group:  <https://metadatafram.es/data/group/> .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:55503 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:55503  rdf:type    bf:Person ;
+        foaf:name         "Giuseppe Ricci" ;
+        foaf:accountName  "g.ricci" ;
+        schema:worksFor   group:b5bd317512707df85b9a0e3ae4dc8e99 .
+
+group:b5bd317512707df85b9a0e3ae4dc8e99
+        rdf:type         bf:Organization ;
+        foaf:name        "Università degli Studi di Roma La Sapienza" ;
+        schema:location  place:1007e1b7f894dfbf72a0eaa80f3bc57e .
+
+place:1007e1b7f894dfbf72a0eaa80f3bc57e
+        rdf:type   bf:Place ;
+        foaf:name  "Italy" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:94476 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:94476  rdf:type    bf:Person ;
+        foaf:name         "Aleksander Novak" ;
+        foaf:accountName  "a.novak" ;
+        schema:worksFor   group:26d646455c1f4333f6213c5a7f54d3dc .
+
+group:26d646455c1f4333f6213c5a7f54d3dc
+        rdf:type         bf:Organization ;
+        foaf:name        "Univerza v Ljubljani" ;
+        schema:location  place:00247297c394dd443dc97067830c35f4 .
+
+place:00247297c394dd443dc97067830c35f4
+        rdf:type   bf:Place ;
+        foaf:name  "Slovenia" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:43554 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:43554  rdf:type    bf:Person ;
+        foaf:name         "Rachel Abramov" ;
+        foaf:accountName  "r.abramov" ;
+        schema:worksFor   group:45ac0df8933a4190e8883c73b1a0d2cd .
+
+group:45ac0df8933a4190e8883c73b1a0d2cd
+        rdf:type         bf:Organization ;
+        foaf:name        "טכניון" ;
+        schema:location  place:5a548c2f5875f10bf5614b7c258876cf .
+
+place:5a548c2f5875f10bf5614b7c258876cf
+        rdf:type   bf:Place ;
+        foaf:name  "Israel" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:75355 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:75355  rdf:type    bf:Person ;
+        foaf:name         "Emilia Gutiérrez" ;
+        foaf:accountName  "e.gutierrez" ;
+        schema:worksFor   group:3e588fe3c63476a276fc366e39da2baf .
+
+group:3e588fe3c63476a276fc366e39da2baf
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad de Chile" ;
+        schema:location  place:2e6507f70a9cc26fb50f5fd82a83c7ef .
+
+place:2e6507f70a9cc26fb50f5fd82a83c7ef
+        rdf:type   bf:Place ;
+        foaf:name  "Chile" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:61193 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:61193  rdf:type    bf:Person ;
+        foaf:name         "Carlos Méndez" ;
+        foaf:accountName  "c.mendez" ;
+        schema:worksFor   group:ac2e89aa2cad8c16c4ccf6564e12fdea .
+
+group:ac2e89aa2cad8c16c4ccf6564e12fdea
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad Nacional Autónoma de México" ;
+        schema:location  place:8dbb07a18d46f63d8b3c8994d5ccc351 .
+
+place:8dbb07a18d46f63d8b3c8994d5ccc351
+        rdf:type   bf:Place ;
+        foaf:name  "Mexico" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:90917 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:90917  rdf:type    bf:Person ;
+        foaf:name         "Ana Silva" ;
+        foaf:accountName  "a.silva" ;
+        schema:worksFor   group:e03bd4dba5de7e11bb173999edf691bb .
+
+group:e03bd4dba5de7e11bb173999edf691bb
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidade de São Paulo" ;
+        schema:location  place:42537f0fb56e31e20ab9c2305752087d .
+
+place:42537f0fb56e31e20ab9c2305752087d
+        rdf:type   bf:Place ;
+        foaf:name  "Brazil" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:4438 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:4438  rdf:type     bf:Person ;
+        foaf:name         "Juan Martínez" ;
+        foaf:accountName  "j.martinez" ;
+        schema:worksFor   group:8fb28e7d15c15aeb53c5d7da5ec3e5ec .
+
+group:8fb28e7d15c15aeb53c5d7da5ec3e5ec
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad Nacional de Colombia" ;
+        schema:location  place:ef3388cc5659bccb742fb8af762f1bfd .
+
+place:ef3388cc5659bccb742fb8af762f1bfd
+        rdf:type   bf:Place ;
+        foaf:name  "Colombia" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:97441 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:97441  rdf:type    bf:Person ;
+        foaf:name         "Emily Johnson" ;
+        foaf:accountName  "e.johnson" ;
+        schema:worksFor   group:061f79dcc6d48db5022df1f1b184ab24 .
+
+group:061f79dcc6d48db5022df1f1b184ab24
+        rdf:type         bf:Organization ;
+        foaf:name        "Information Services Corp" ;
+        schema:location  place:f253efe302d32ab264a76e0ce65be769 .
+
+place:f253efe302d32ab264a76e0ce65be769
+        rdf:type   bf:Place ;
+        foaf:name  "United States" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:18312 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:18312  rdf:type    bf:Person ;
+        foaf:name         "Fernanda Vargas" ;
+        foaf:accountName  "f.vargas" ;
+        schema:worksFor   group:061f79dcc6d48db5022df1f1b184ab24 .
+
+group:061f79dcc6d48db5022df1f1b184ab24
+        rdf:type         bf:Organization ;
+        foaf:name        "Information Services Corp" ;
+        schema:location  place:f253efe302d32ab264a76e0ce65be769 .
+
+place:f253efe302d32ab264a76e0ce65be769
+        rdf:type   bf:Place ;
+        foaf:name  "United States" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:23326 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:23326  rdf:type    bf:Person ;
+        foaf:name         "Diego Rivera" ;
+        foaf:accountName  "d.rivera" ;
+        schema:worksFor   group:011c1cd4864bc94218b7fd854e8d4024 .
+
+group:011c1cd4864bc94218b7fd854e8d4024
+        rdf:type         bf:Organization ;
+        foaf:name        "Tecnológico de Monterrey" ;
+        schema:location  place:8dbb07a18d46f63d8b3c8994d5ccc351 .
+
+place:8dbb07a18d46f63d8b3c8994d5ccc351
+        rdf:type   bf:Place ;
+        foaf:name  "Mexico" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:1125 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:1125  rdf:type     bf:Person ;
+        foaf:name         "Lucía Mora" ;
+        foaf:accountName  "l.mora" ;
+        schema:worksFor   group:1abf9d3c6606d197261a16b03263ec80 .
+
+group:1abf9d3c6606d197261a16b03263ec80
+        rdf:type         bf:Organization ;
+        foaf:name        "Pontificia Universidad Católica de Chile" ;
+        schema:location  place:2e6507f70a9cc26fb50f5fd82a83c7ef .
+
+place:2e6507f70a9cc26fb50f5fd82a83c7ef
+        rdf:type   bf:Place ;
+        foaf:name  "Chile" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:36949 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:36949  rdf:type    bf:Person ;
+        foaf:name         "Pedro Castillo" ;
+        foaf:accountName  "p.castillo" ;
+        schema:worksFor   group:395025b427987d39c6350c25227ca2c2 .
+
+group:395025b427987d39c6350c25227ca2c2
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidade Federal do Rio Grande do Sul" ;
+        schema:location  place:42537f0fb56e31e20ab9c2305752087d .
+
+place:42537f0fb56e31e20ab9c2305752087d
+        rdf:type   bf:Place ;
+        foaf:name  "Brazil" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:36905 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:36905  rdf:type    bf:Person ;
+        foaf:name         "Sofia Pereira" ;
+        foaf:accountName  "s.pereira" ;
+        schema:worksFor   group:061f79dcc6d48db5022df1f1b184ab24 .
+
+group:061f79dcc6d48db5022df1f1b184ab24
+        rdf:type         bf:Organization ;
+        foaf:name        "Information Services Corp" ;
+        schema:location  place:f253efe302d32ab264a76e0ce65be769 .
+
+place:f253efe302d32ab264a76e0ce65be769
+        rdf:type   bf:Place ;
+        foaf:name  "United States" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:40406 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:40406  rdf:type    bf:Person ;
+        foaf:name         "Luiz Alves" ;
+        foaf:accountName  "l.alves" ;
+        schema:worksFor   group:e03bd4dba5de7e11bb173999edf691bb .
+
+group:e03bd4dba5de7e11bb173999edf691bb
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidade de São Paulo" ;
+        schema:location  place:42537f0fb56e31e20ab9c2305752087d .
+
+place:42537f0fb56e31e20ab9c2305752087d
+        rdf:type   bf:Place ;
+        foaf:name  "Brazil" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:78395 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:78395  rdf:type    bf:Person ;
+        foaf:name         "Maria López" ;
+        foaf:accountName  "m.lopez" ;
+        schema:worksFor   group:ac2e89aa2cad8c16c4ccf6564e12fdea .
+
+group:ac2e89aa2cad8c16c4ccf6564e12fdea
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad Nacional Autónoma de México" ;
+        schema:location  place:8dbb07a18d46f63d8b3c8994d5ccc351 .
+
+place:8dbb07a18d46f63d8b3c8994d5ccc351
+        rdf:type   bf:Place ;
+        foaf:name  "Mexico" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:3629 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:3629  rdf:type     bf:Person ;
+        foaf:name         "Juan Rodríguez" ;
+        foaf:accountName  "j.rodriguez" ;
+        schema:worksFor   group:69ce55705bfed90cf9916955b3ae9465 .
+
+group:69ce55705bfed90cf9916955b3ae9465
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad de Guadalajara" ;
+        schema:location  place:8dbb07a18d46f63d8b3c8994d5ccc351 .
+
+place:8dbb07a18d46f63d8b3c8994d5ccc351
+        rdf:type   bf:Place ;
+        foaf:name  "Mexico" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:59260 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:59260  rdf:type    bf:Person ;
+        foaf:name         "Carlos Ortega" ;
+        foaf:accountName  "c.ortega" ;
+        schema:worksFor   group:3e588fe3c63476a276fc366e39da2baf .
+
+group:3e588fe3c63476a276fc366e39da2baf
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad de Chile" ;
+        schema:location  place:2e6507f70a9cc26fb50f5fd82a83c7ef .
+
+place:2e6507f70a9cc26fb50f5fd82a83c7ef
+        rdf:type   bf:Place ;
+        foaf:name  "Chile" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:85041 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:85041  rdf:type    bf:Person ;
+        foaf:name         "Miguel Morales" ;
+        foaf:accountName  "m.morales" ;
+        schema:worksFor   group:efd2eae92a20aa18bf9145391c1e616e .
+
+group:efd2eae92a20aa18bf9145391c1e616e
+        rdf:type         bf:Organization ;
+        foaf:name        "Universidad de Antioquia" ;
+        schema:location  place:ef3388cc5659bccb742fb8af762f1bfd .
+
+place:ef3388cc5659bccb742fb8af762f1bfd
+        rdf:type   bf:Place ;
+        foaf:name  "Colombia" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:28654 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:28654  rdf:type    bf:Person ;
+        foaf:name         "Sara Gómez" ;
+        foaf:accountName  "s.gomez" ;
+        schema:worksFor   group:061f79dcc6d48db5022df1f1b184ab24 .
+
+group:061f79dcc6d48db5022df1f1b184ab24
+        rdf:type         bf:Organization ;
+        foaf:name        "Information Services Corp" ;
+        schema:location  place:f253efe302d32ab264a76e0ce65be769 .
+
+place:f253efe302d32ab264a76e0ce65be769
+        rdf:type   bf:Place ;
+        foaf:name  "United States" .
+
+<https://metadatafram.es/data/event/ebsco-training>
+        rdf:type         schema:Event ;
+        schema:attendee  person:55416 ;
+        schema:about     <http://id.loc.gov/authorities/subjects/sh2013002090> .
+
+person:55416  rdf:type    bf:Person ;
+        foaf:name         "David Smith" ;
+        foaf:accountName  "d.smith" ;
+        schema:worksFor   group:061f79dcc6d48db5022df1f1b184ab24 .
+
+group:061f79dcc6d48db5022df1f1b184ab24
+        rdf:type         bf:Organization ;
+        foaf:name        "Information Services Corp" ;
+        schema:location  place:f253efe302d32ab264a76e0ce65be769 .
+
+place:f253efe302d32ab264a76e0ce65be769
+        rdf:type   bf:Place ;
+        foaf:name  "United States" .

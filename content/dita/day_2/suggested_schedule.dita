@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningOverview.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningOverview id="learningOverview_j4p_plr_rxb">
+    <title>Suggested Schedule for Day 2</title>
+    <shortdesc>Day 2 of the training is intended to begin at 9:00 a.m. and end at 12:30
+        p.m.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-05-30"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningOverviewbody>
+        <lcDuration id="lcDuration_m4p_plr_rxb">
+            <lcTime name="hours" value="3.5">3.5 hours</lcTime>
+        </lcDuration>
+        <section id="section_n4p_plr_rxb">
+            <title>Example Schedule</title>
+            <dl id="dl_o4p_plr_rxb">
+                <dlentry>
+                    <dt>9:00-9:30</dt>
+                    <dd>Review of Day 1</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>9:30-10:00</dt>
+                    <dd>Showcase of Tools</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>10:30-11:00</dt>
+                    <dd>Break</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>11:00-12:30</dt>
+                    <dd>Example Use Cases and Applications</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </learningOverviewbody>
+</learningOverview>

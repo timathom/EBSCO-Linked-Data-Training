@@ -1,0 +1,452 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix madsrdf: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <https://metadatafram.es/> .
+
+<https://metadatafram.es/data/graph/bookshelf> {
+
+# City of the Beasts
+<https://metadatafram.es/data/work/c4995285-e53d-4c36-88d6-4a6e7b5a2209>
+  rdf:type bf:Work ;
+  rdfs:label "City of the Beasts" ;
+  dcterms:creator <https://metadatafram.es/data/person/be82d9a8-0704-4e2e-9305-bad485ad0962> ;
+  bf:title <https://metadatafram.es/data/title/13a53965-dbb3-4c86-bcc0-4ec5cb9ac986> .
+
+<https://metadatafram.es/data/title/13a53965-dbb3-4c86-bcc0-4ec5cb9ac986>
+  rdf:type bf:Title ;
+  rdfs:label "City of the Beasts" ;
+  bf:mainTitle "City of the Beasts"^^xsd:string .
+
+<https://metadatafram.es/data/person/be82d9a8-0704-4e2e-9305-bad485ad0962>
+  rdf:type bf:Person ;
+  rdfs:label "Isabel Allende" ;
+  madsrdf:authorizedAccessPoint "Allende, Isabel" .
+
+# The Savage Detectives
+<https://metadatafram.es/data/work/af27eab1-faa6-45e7-a362-bae23b60d014>
+  rdf:type bf:Work ;
+  rdfs:label "The Savage Detectives" ;
+  dcterms:creator <https://metadatafram.es/data/person/d13c99fa-2d4b-4926-aa0f-7e33837b311e> ;
+  bf:title <https://metadatafram.es/data/title/2160465a-78b1-4512-a3b5-63b1619b9c82> .
+
+<https://metadatafram.es/data/title/2160465a-78b1-4512-a3b5-63b1619b9c82>
+  rdf:type bf:Title ;
+  rdfs:label "The Savage Detectives" ;
+  bf:mainTitle "The Savage Detectives"^^xsd:string .
+
+<https://metadatafram.es/data/person/d13c99fa-2d4b-4926-aa0f-7e33837b311e>
+  rdf:type bf:Person ;
+  rdfs:label "Roberto Bolaño" ;
+  madsrdf:authorizedAccessPoint "Bolaño, Roberto" .
+
+# La rebelión de las ratas
+<https://metadatafram.es/data/work/5fd69474-4817-4aea-8bce-6d7359dd7cfd>
+  rdf:type bf:Work ;
+  rdfs:label "La rebelión de las ratas" ;
+  dcterms:creator <https://metadatafram.es/data/person/bae027ab-d873-4965-acf4-417ffb605bfb> ;
+  bf:title <https://metadatafram.es/data/title/5113936f-7bad-4c81-85a0-570dc6665bc6> .
+
+<https://metadatafram.es/data/title/5113936f-7bad-4c81-85a0-570dc6665bc6>
+  rdf:type bf:Title ;
+  rdfs:label "La rebelión de las ratas" ;
+  bf:mainTitle "La rebelión de las ratas"^^xsd:string .
+
+<https://metadatafram.es/data/person/bae027ab-d873-4965-acf4-417ffb605bfb>
+  rdf:type bf:Person ;
+  rdfs:label "Fernando Soto Aparicio" ;
+  madsrdf:authorizedAccessPoint "Soto Aparicio, Fernando" .
+
+# 1984
+<https://metadatafram.es/data/work/9b80bef2-3caf-46fe-aea5-38193a7a35db>
+  rdf:type bf:Work ;
+  rdfs:label "1984" ;
+  dcterms:creator <https://metadatafram.es/data/person/152e5351-bd38-46a6-b06d-c2b8eaeaa49d> ;
+  bf:title <https://metadatafram.es/data/title/c69bc635-433f-4a42-9c0b-a53873c2a27c> .
+
+<https://metadatafram.es/data/title/c69bc635-433f-4a42-9c0b-a53873c2a27c>
+  rdf:type bf:Title ;
+  rdfs:label "1984" ;
+  bf:mainTitle "1984"^^xsd:string .
+
+<https://metadatafram.es/data/person/152e5351-bd38-46a6-b06d-c2b8eaeaa49d>
+  rdf:type bf:Person ;
+  rdfs:label "George Orwell" ;
+  madsrdf:authorizedAccessPoint "Orwell, George" .
+
+# The Apology of Socrates
+<https://metadatafram.es/data/work/848d5f0e-cb92-49f5-86e0-85aee13c463f>
+  rdf:type bf:Work ;
+  rdfs:label "The Apology of Socrates" ;
+  dcterms:creator <https://metadatafram.es/data/person/6a128810-1de5-43a7-aed7-d3d0ae0528ad> ;
+  bf:title <https://metadatafram.es/data/title/98974987-f95a-47ec-9ec0-81821c7e2c72> .
+
+<https://metadatafram.es/data/title/98974987-f95a-47ec-9ec0-81821c7e2c72>
+  rdf:type bf:Title ;
+  rdfs:label "The Apology of Socrates" ;
+  bf:mainTitle "The Apology of Socrates"^^xsd:string .
+
+<https://metadatafram.es/data/person/6a128810-1de5-43a7-aed7-d3d0ae0528ad>
+   rdf:type bf:Person ;
+  rdfs:label "Plato" ;
+  madsrdf:authorizedAccessPoint "Plato" .
+
+# The Betrothed
+<https://metadatafram.es/data/work/bd768b8f-29d5-4dcf-bea6-78b0cf99b5eb>
+  rdf:type bf:Work ;
+  rdfs:label "The Betrothed" ;
+  dcterms:creator <https://metadatafram.es/data/person/519d3248-7162-49e1-9168-902e724c9086> ;
+  bf:title <https://metadatafram.es/data/title/450c70b2-cae8-4c79-a2d7-ea3c6b6a8a14> .
+
+<https://metadatafram.es/data/title/450c70b2-cae8-4c79-a2d7-ea3c6b6a8a14>
+  rdf:type bf:Title ;
+  rdfs:label "The Betrothed" ;
+  bf:mainTitle "The Betrothed"^^xsd:string .
+
+<https://metadatafram.es/data/person/519d3248-7162-49e1-9168-902e724c9086>
+  rdf:type bf:Person ;
+  rdfs:label "Alessandro Manzoni" ;
+  madsrdf:authorizedAccessPoint "Manzoni, Alessandro" .
+
+# Lady Chatterley's Lover
+<https://metadatafram.es/data/work/41f54364-8f43-45be-8fcf-5532faa9c2cb>
+  rdf:type bf:Work ;
+  rdfs:label "Lady Chatterley's Lover" ;
+  dcterms:creator <https://metadatafram.es/data/person/b5c27c55-38bb-4da0-ac09-e4555ba45c77> ;
+  bf:title <https://metadatafram.es/data/title/baec3d26-c30b-4508-ac78-edc9fbec7fcc> .
+
+<https://metadatafram.es/data/title/baec3d26-c30b-4508-ac78-edc9fbec7fcc>
+  rdf:type bf:Title ;
+  rdfs:label "Lady Chatterley's Lover" ;
+  bf:mainTitle "Lady Chatterley's Lover"^^xsd:string .
+
+<https://metadatafram.es/data/person/b5c27c55-38bb-4da0-ac09-e4555ba45c77>
+  rdf:type bf:Person ;
+  rdfs:label "D. H. Lawrence" ;
+  madsrdf:authorizedAccessPoint "Lawrence, D. H." .
+
+# Proust and the Squid
+<https://metadatafram.es/data/work/9008dc2b-01c9-4412-bdc8-5ea12f8c69a0>
+  rdf:type bf:Work ;
+  rdfs:label "Proust and the Squid" ;
+  dcterms:creator <https://metadatafram.es/data/person/08447e5b-32db-4a8c-aeaf-3c937276b824> ;
+  bf:title <https://metadatafram.es/data/title/61fc59ed-961f-4c27-a017-48e3bf1dae1c> .
+
+<https://metadatafram.es/data/title/61fc59ed-961f-4c27-a017-48e3bf1dae1c>
+  rdf:type bf:Title ;
+  rdfs:label "Proust and the Squid" ;
+  bf:mainTitle "Proust and the Squid"^^xsd:string .
+
+<https://metadatafram.es/data/person/08447e5b-32db-4a8c-aeaf-3c937276b824>
+  rdf:type bf:Person ;
+  rdfs:label "Maryanne Wolf" ;
+  madsrdf:authorizedAccessPoint "Wolf, Maryanne" .
+
+# El Tratado lógico y filosófico
+<https://metadatafram.es/data/work/aa6d4c94-5f40-42f9-ae75-0ebc4dad2a11>
+  rdf:type bf:Work ;
+  rdfs:label "El Tratado lógico y filosófico" ;
+  dcterms:creator <https://metadatafram.es/data/person/614831b2-9d52-494f-9122-72fc1e7d6e22> ;
+  bf:title <https://metadatafram.es/data/title/21290174-d566-4527-a0f8-8d9de128fb36> .
+
+<https://metadatafram.es/data/title/21290174-d566-4527-a0f8-8d9de128fb36>
+  rdf:type bf:Title ;
+  rdfs:label "El Tratado lógico y filosófico" ;
+  bf:mainTitle "El Tratado lógico y filosófico"^^xsd:string .
+
+<https://metadatafram.es/data/person/614831b2-9d52-494f-9122-72fc1e7d6e22>
+  rdf:type bf:Person ;
+  rdfs:label "Ludwig Wittgenstein" ;
+  madsrdf:authorizedAccessPoint "Wittgenstein, Ludwig" .
+
+# Rayuela
+<https://metadatafram.es/data/work/e38e4ff8-70e4-433c-93c2-d66adcaa5f5d>
+  rdf:type bf:Work ;
+  rdfs:label "Rayuela" ;
+  dcterms:creator <https://metadatafram.es/data/person/71655e67-5b3d-4329-8545-0910485769c7> ;
+  bf:title <https://metadatafram.es/data/title/1fc01718-2b58-4063-aaf4-287d58792150> .
+
+<https://metadatafram.es/data/title/1fc01718-2b58-4063-aaf4-287d58792150>
+  rdf:type bf:Title ;
+  rdfs:label "Rayuela" ;
+  bf:mainTitle "Rayuela"^^xsd:string .
+
+<https://metadatafram.es/data/person/71655e67-5b3d-4329-8545-0910485769c7>
+  rdf:type bf:Person ;
+  rdfs:label "Julio Cortázar" ;
+  madsrdf:authorizedAccessPoint "Cortázar, Julio" .
+
+# One Hundred Years of Solitude
+<https://metadatafram.es/data/work/4bbff6e9-6300-4302-9778-c8fd07f443c9>
+  rdf:type bf:Work ;
+  rdfs:label "One Hundred Years of Solitude" ;
+  dcterms:creator <https://metadatafram.es/data/person/7c527852-8557-4b07-a9dd-8877b7f391c9> ;
+  bf:title <https://metadatafram.es/data/title/6ec3f0bf-91e9-4bc0-af4a-75675e219c2e> .
+
+<https://metadatafram.es/data/title/6ec3f0bf-91e9-4bc0-af4a-75675e219c2e>
+  rdf:type bf:Title ;
+  rdfs:label "One Hundred Years of Solitude" ;
+  bf:mainTitle "One Hundred Years of Solitude"^^xsd:string .
+
+<https://metadatafram.es/data/person/7c527852-8557-4b07-a9dd-8877b7f391c9>
+  rdf:type bf:Person ;
+  rdfs:label "Gabriel García Márquez" ;
+  madsrdf:authorizedAccessPoint "García Márquez, Gabriel" .
+
+# Love in the Time of Cholera
+<https://metadatafram.es/data/work/88dca477-caad-4292-a9bb-930a35d5238a>
+  rdf:type bf:Work ;
+  rdfs:label "Love in the Time of Cholera" ;
+  dcterms:creator <https://metadatafram.es/data/person/4b52e570-300b-43ce-ab6e-25311cb9da3c> ;
+  bf:title <https://metadatafram.es/data/title/1075ce0a-5d76-42b4-960e-c53396f955fa> .
+
+<https://metadatafram.es/data/title/1075ce0a-5d76-42b4-960e-c53396f955fa>
+  rdf:type bf:Title ;
+  rdfs:label "Love in the Time of Cholera" ;
+  bf:mainTitle "Love in the Time of Cholera"^^xsd:string .
+
+<https://metadatafram.es/data/person/4b52e570-300b-43ce-ab6e-25311cb9da3c>
+  rdf:type bf:Person ;
+  rdfs:label "Gabriel García Márquez" ;
+  madsrdf:authorizedAccessPoint "García Márquez, Gabriel" .
+  
+# La tregua
+<https://metadatafram.es/data/work/f6b05e8f-15b2-45bd-9a65-5566c6ebd62d>
+  rdf:type bf:Work ;
+  rdfs:label "La tregua" ;
+  dcterms:creator <https://metadatafram.es/data/person/ec052158-e722-4537-8391-a72779107bed> ;
+  bf:title <https://metadatafram.es/data/title/ffe16cb2-5093-4399-bf5e-1180e77871ee> .
+
+<https://metadatafram.es/data/title/ffe16cb2-5093-4399-bf5e-1180e77871ee>
+  rdf:type bf:Title ;
+  rdfs:label "La tregua" ;
+  bf:mainTitle "La tregua"^^xsd:string .
+
+<https://metadatafram.es/data/person/ec052158-e722-4537-8391-a72779107bed>
+  rdf:type bf:Person ;
+  rdfs:label "Mario Benedetti" ;
+  madsrdf:authorizedAccessPoint "Benedetti, Mario" .
+
+# Primavera con una esquina rota
+<https://metadatafram.es/data/work/5c41a68a-af85-49bc-8265-7d0c40a7279c>
+  rdf:type bf:Work ;
+  rdfs:label "Primavera con una esquina rota" ;
+  dcterms:creator <https://metadatafram.es/data/person/27ae53ab-715c-4fd1-8dc1-006be1de6a6f> ;
+  bf:title <https://metadatafram.es/data/title/4cb10810-e2c1-4be4-a020-f7d54735a120> .
+
+<https://metadatafram.es/data/title/4cb10810-e2c1-4be4-a020-f7d54735a120>
+  rdf:type bf:Title ;
+  rdfs:label "Primavera con una esquina rota" ;
+  bf:mainTitle "Primavera con una esquina rota"^^xsd:string .
+
+<https://metadatafram.es/data/person/27ae53ab-715c-4fd1-8dc1-006be1de6a6f>
+  rdf:type bf:Person ;
+  rdfs:label "Mario Benedetti" ;
+  madsrdf:authorizedAccessPoint "Benedetti, Mario" .
+
+# Tudo é rio
+<https://metadatafram.es/data/work/0c44f663-f5bf-4741-ab1f-ccc062a45053>
+  rdf:type bf:Work ;
+  rdfs:label "Tudo é rio" ;
+  dcterms:creator <https://metadatafram.es/data/person/017d05e3-00db-4bea-b0cf-627e8a30812f> ;
+  bf:title <https://metadatafram.es/data/title/8bddc9b2-3906-4397-a805-de80e4954f63> .
+  
+<https://metadatafram.es/data/title/8bddc9b2-3906-4397-a805-de80e4954f63>
+  rdf:type bf:Title ;
+  rdfs:label "Tudo é rio" ;
+  bf:mainTitle "Tudo é rio"^^xsd:string .
+
+<https://metadatafram.es/data/person/017d05e3-00db-4bea-b0cf-627e8a30812f>
+  rdf:type bf:Person ;
+  rdfs:label "Carla Madeira" ;
+  madsrdf:authorizedAccessPoint "Madeira, Carla" .
+
+# The lost daughter
+<https://metadatafram.es/data/work/b891e77f-9d44-47d2-b0e3-8e5c3b1cc564>
+  rdf:type bf:Work ;
+  rdfs:label "The lost daughter" ;
+  dcterms:creator <https://metadatafram.es/data/person/dd6f8db5-650b-4380-931e-a6267eaffbf6> ;
+  bf:title <https://metadatafram.es/data/title/9f800886-0315-4b3a-932b-714f7df14cec> .
+
+<https://metadatafram.es/data/title/9f800886-0315-4b3a-932b-714f7df14cec>
+  rdf:type bf:Title ;
+  rdfs:label "The lost daughter" ;
+  bf:mainTitle "The lost daughter"^^xsd:string .
+<https://metadatafram.es/data/person/dd6f8db5-650b-4380-931e-a6267eaffbf6>
+  rdf:type bf:Person ;
+  rdfs:label "Elena Ferrante" ;
+  madsrdf:authorizedAccessPoint "Ferrante, Elena" .
+
+# Nosso Lar
+<https://metadatafram.es/data/work/81a59a3d-dee3-4999-afc6-533fcb2415d8>
+  rdf:type bf:Work ;
+  rdfs:label "Nosso Lar" ;
+  dcterms:creator <https://metadatafram.es/data/person/770e0466-7a07-4f87-b678-c769727a3cc3> ;
+  bf:title <https://metadatafram.es/data/title/96c59ae1-b7e0-40da-ae11-ede8187a438d> .
+
+<https://metadatafram.es/data/title/96c59ae1-b7e0-40da-ae11-ede8187a438d>
+  rdf:type bf:Title ;
+  rdfs:label "Nosso Lar" ;
+  bf:mainTitle "Nosso Lar"^^xsd:string .
+
+<https://metadatafram.es/data/person/770e0466-7a07-4f87-b678-c769727a3cc3>
+  rdf:type bf:Person ;
+  rdfs:label "Francisco Candido Xavier" ;
+  madsrdf:authorizedAccessPoint "Xavier, Francisco Candido" .
+
+# Paulo e Estevão
+<https://metadatafram.es/data/work/e1b13bdc-78a6-4bf2-8268-f258934cb0e7>
+  rdf:type bf:Work ;
+  rdfs:label "Paulo e Estevão" ;
+  dcterms:creator <https://metadatafram.es/data/person/d90fb2c1-467d-4bca-bf7d-c865719ed739> ;
+  bf:title <https://metadatafram.es/data/title/d77def97-67c4-4d9a-a075-d3172dfa6d62> .
+
+<https://metadatafram.es/data/title/d77def97-67c4-4d9a-a075-d3172dfa6d62>
+  rdf:type bf:Title ;
+  rdfs:label "Paulo e Estevão" ;
+  bf:mainTitle "Paulo e Estevão"^^xsd:string .
+
+<https://metadatafram.es/data/person/d90fb2c1-467d-4bca-bf7d-c865719ed739>
+  rdf:type bf:Person ;
+  rdfs:label "Francisco Candido Xavier" ;
+  madsrdf:authorizedAccessPoint "Xavier, Francisco Candido" .
+
+# A Separate Reality
+<https://metadatafram.es/data/work/5cd42c56-47fa-4195-966d-e183cdae540c>
+  rdf:type bf:Work ;
+  rdfs:label "A Separate Reality" ;
+  dcterms:creator <https://metadatafram.es/data/person/b6bd7c0b-c622-4ed7-b1c4-0fdd2148b5d5> ;
+  bf:title <https://metadatafram.es/data/title/a24b9617-ee45-4c8d-af7b-416957e9a126> .
+
+<https://metadatafram.es/data/title/a24b9617-ee45-4c8d-af7b-416957e9a126>
+  rdf:type bf:Title ;
+  rdfs:label "A Separate Reality" ;
+  bf:mainTitle "A Separate Reality"^^xsd:string .
+
+<https://metadatafram.es/data/person/b6bd7c0b-c622-4ed7-b1c4-0fdd2148b5d5>
+  rdf:type bf:Person ;
+  rdfs:label "Carlos Castaneda" ;
+  madsrdf:authorizedAccessPoint "Castaneda, Carlos" .
+
+# El maestro y las magas
+<https://metadatafram.es/data/work/9083e27e-8d83-41b0-ab04-db7296ea9460>
+  rdf:type bf:Work ;
+  rdfs:label "El maestro y las magas" ;
+  dcterms:creator <https://metadatafram.es/data/person/29090fb6-cd1d-4b4f-b32a-0f7c91d27433> ;
+  bf:title <https://metadatafram.es/data/person/29090fb6-cd1d-4b4f-b32a-0f7c91d27433> .
+
+<https://metadatafram.es/data/person/29090fb6-cd1d-4b4f-b32a-0f7c91d27433>
+  rdf:type bf:Title ;
+  rdfs:label "El maestro y las magas" ;
+  bf:mainTitle "El maestro y las magas"^^xsd:string .
+
+<https://metadatafram.es/data/person/29090fb6-cd1d-4b4f-b32a-0f7c91d27433>
+  rdf:type bf:Person ;
+  rdfs:label "Alejandro Jodorowsky" ;
+  madsrdf:authorizedAccessPoint "Jodorowsky, Alejandro" .
+
+# Tibetan Book of Living and Dying
+<https://metadatafram.es/data/work/e8d72331-1012-48bb-87b4-5d2b05c5c45b>
+  rdf:type bf:Work ;
+  rdfs:label "Tibetan Book of Living and Dying" ;
+  dcterms:creator <https://metadatafram.es/data/person/11029028-e6bd-47dc-9ec2-df517a6601fa> ;
+  bf:title <https://metadatafram.es/data/title/df73520a-f84f-452f-b2f8-a232b427b6cc> .
+
+<https://metadatafram.es/data/title/df73520a-f84f-452f-b2f8-a232b427b6cc>
+  rdf:type bf:Title ;
+  rdfs:label "Tibetan Book of Living and Dying" ;
+  bf:mainTitle "Tibetan Book of Living and Dying"^^xsd:string .
+
+<https://metadatafram.es/data/person/11029028-e6bd-47dc-9ec2-df517a6601fa>
+  rdf:type bf:Person ;
+  rdfs:label "Sogyal Rinponche" ;
+  madsrdf:authorizedAccessPoint "Sogyal, Rinpoche" .
+
+# The Name of the Rose
+<https://metadatafram.es/data/work/7b2f398d-d96d-4d47-8221-6cde8ea27333>
+  rdf:type bf:Work ;
+  rdfs:label "The Name of the Rose" ;
+  dcterms:creator <https://metadatafram.es/data/person/c6e94cb0-3b7d-4663-a4e1-b4f461c7b6eb> ;
+  bf:title <https://metadatafram.es/data/title/2e5aca85-e711-451f-afa7-81df910b6898> .
+
+<https://metadatafram.es/data/title/2e5aca85-e711-451f-afa7-81df910b6898>
+  rdf:type bf:Title ;
+  rdfs:label "The Name of the Rose" ;
+  bf:mainTitle "The Name of the Rose"^^xsd:string .
+
+<https://metadatafram.es/data/person/c6e94cb0-3b7d-4663-a4e1-b4f461c7b6eb>
+  rdf:type bf:Person ;
+  rdfs:label "Umberto Eco" ;
+  madsrdf:authorizedAccessPoint "Eco, Umberto" .
+
+# Cutting Timber
+<https://metadatafram.es/data/work/db8c262d-f7de-456b-af5b-f102bc47c35f>
+  rdf:type bf:Work ;
+  rdfs:label "Cutting Timber" ;
+  dcterms:creator <https://metadatafram.es/data/person/922f1aa4-7462-44d1-b0a5-32a845f04262> ;
+  bf:title <https://metadatafram.es/data/title/595a8aac-b871-43d0-8747-6e9df7b80875> .
+
+<https://metadatafram.es/data/title/595a8aac-b871-43d0-8747-6e9df7b80875>
+  rdf:type bf:Title ;
+  rdfs:label "Cutting Timber" ;
+  bf:mainTitle "Cutting Timber"^^xsd:string .
+
+<https://metadatafram.es/data/person/922f1aa4-7462-44d1-b0a5-32a845f04262>
+  rdf:type bf:Person ;
+  rdfs:label "Thomas Bernhard" ;
+  madsrdf:authorizedAccessPoint "Bernhard, Thomas" .
+
+# American Psycho
+<https://metadatafram.es/data/work/fb6878e2-5e3c-4a44-9793-c248256c6d78>
+  rdf:type bf:Work ;
+  rdfs:label "American Psycho" ;
+  dcterms:creator <https://metadatafram.es/data/person/c0f0eee1-4a06-47d3-99a0-5d58aad3298b> ;
+  bf:title <https://metadatafram.es/data/title/af94672f-7591-422f-931b-e1a9d111f601> .
+
+<https://metadatafram.es/data/title/af94672f-7591-422f-931b-e1a9d111f601>
+  rdf:type bf:Title ;
+  rdfs:label "American Psycho" ;
+  bf:mainTitle "American Psycho"^^xsd:string .
+
+<https://metadatafram.es/data/person/c0f0eee1-4a06-47d3-99a0-5d58aad3298b>
+  rdf:type bf:Person ;
+  rdfs:label "Bret Easton Ellis" ;
+  madsrdf:authorizedAccessPoint "Ellis, Bret Easton" .
+
+# The Galley Slave
+<https://metadatafram.es/data/work/55c4df47-901d-40b7-85f2-4fade1bdfb30>
+  rdf:type bf:Work ;
+  rdfs:label "The Galley Slave" ;
+  dcterms:creator <https://metadatafram.es/data/person/5b654bf6-aa22-4579-be37-11b68559a8ac> ;
+  bf:title <https://metadatafram.es/data/title/60ac76af-28be-4436-a174-8b87dca7563f> .
+
+<https://metadatafram.es/data/title/60ac76af-28be-4436-a174-8b87dca7563f>
+  rdf:type bf:Title ;
+  rdfs:label "The Galley Slave" ;
+  bf:mainTitle "The Galley Slave"^^xsd:string .
+
+<https://metadatafram.es/data/person/5b654bf6-aa22-4579-be37-11b68559a8ac>
+  rdf:type bf:Person ;
+  rdfs:label "Drago Jančar" ;
+  madsrdf:authorizedAccessPoint "Jančar, Drago" .
+
+# Same Soul, Many Bodies
+<https://metadatafram.es/data/work/563d4259-e1b5-49e1-bb97-9bf3beec7672>
+  rdf:type bf:Work ;
+  rdfs:label "Same Soul, Many Bodies" ;
+  dcterms:creator <https://metadatafram.es/data/person/44a48783-2eb6-42a6-ae94-a04416d05f9d> ;
+  bf:title <https://metadatafram.es/data/title/39e069bc-0edb-464b-be8a-1ebfcd944a96> .
+
+<https://metadatafram.es/data/title/39e069bc-0edb-464b-be8a-1ebfcd944a96>
+  rdf:type bf:Title ;
+  rdfs:label "Same Soul, Many Bodies" ;
+  bf:mainTitle "Same Soul, Many Bodies"^^xsd:string .
+
+<https://metadatafram.es/data/person/44a48783-2eb6-42a6-ae94-a04416d05f9d>
+  rdf:type bf:Person ;
+  rdfs:label "Brian Weiss" ;
+  madsrdf:authorizedAccessPoint "Weiss, Brian" .
+
+}

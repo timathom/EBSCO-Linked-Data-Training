@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="properties">
+    <title>Properties</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_bgt_xcn_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">According to the W3C: <lq>Properties can be used to establish
+                            relationships between individuals or individuals and literal data
+                            values. (<xref
+                                href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1"
+                                format="html" scope="external"><u>W3C</u></xref>)</lq></p>
+                </li>
+                <li><p dir="ltr">Properties are usually written with a lowercase letter, or using
+                        "Camel Case" (e.g., <b>accountName</b>).</p></li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+
+
+</learningContent>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_schema">
+    <title>RDF Schema</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_kys_xzm_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">RDF includes a schema extension focused on the laying the
+                        foundation for ontology development and semantic data modeling, <xref
+                            href="https://www.w3.org/TR/rdf12-schema/" format="html"
+                            scope="external">RDF Schema</xref> (RDFS) </p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">It defines modeling concepts such as:</p>
+                    <ul id="ul_lys_xzm_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr"><b>Class</b> (and subclass)</p>
+                        </li>
+                        <li><b>Literal</b></li>
+                        <li dir="ltr">
+                            <p dir="ltr"><b>Property</b> (and subproperty)</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr"><b>Domain</b></p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr"><b>Range</b></p>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="typed_literals">
+    <title>Typed Literals</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <ul>
+                <li>When the object of a statement is a <b><keyword>literal</keyword></b> (not a
+                    resource we can may statements about), it can take a data type.</li>
+                <li>RDF uses the data types defined for XML, typically declared with the prefix
+                        <codeph>xsd</codeph>.</li>
+                <li>Data types are indicated with double carets, followed by the type name.</li>
+            </ul>
+        </p>
+        <p>
+            <codeblock>@base &lt;https://metadatafram.es/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#date> .
+
+&lt;alicia> foaf:name "Alicia" ; &lt;birthDate> "1946"^^xsd:date .</codeblock>
+        </p>
+    </conbody>
+</concept>

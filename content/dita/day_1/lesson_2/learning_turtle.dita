@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="learning_turtle">
+    <title>Learning Turtle</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>
+                <ul id="ul_sh3_2jh_sxb">
+                    <li dir="ltr">
+                        <p dir="ltr">Although JSON-LD is a common format for exchanging linked data
+                            on the web, one of the best ways to learn, write, and read RDF is
+                            through the Turtle serialization (<xref
+                                href="https://www.w3.org/TR/rdf12-turtle/" format="html" scope="external"
+                                    ><u>Terse RDF Triple Language</u></xref>, or TTL).</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">A subset of Turtle, called <xref
+                                href="https://www.w3.org/TR/rdf12-n-triples/" format="html"
+                                scope="external">N-Triples</xref>, is simply lines of triples (which
+                            can be hard to read).</p>
+                    </li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

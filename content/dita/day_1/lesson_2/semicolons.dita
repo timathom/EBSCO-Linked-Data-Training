@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="semicolons">
+    <title>Semicolons</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>We can repeat statements about the same subject using semicolons.</p>
+        <p>
+            <codeblock>@base &lt;https://metadatafram.es/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+
+&lt;alicia> foaf:name "Alicia" ; foaf:nick "Al" .</codeblock>
+            <note id="note_qfj_vsh_sxb">Notice the spacing around punctuation. (Spacing is not
+                required, but it makes the syntax easier to read.)</note>
+        </p>
+    </conbody>
+</concept>

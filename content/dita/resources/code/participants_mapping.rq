@@ -1,0 +1,40 @@
+PREFIX bf: <http://id.loc.gov/ontologies/bibframe/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX madsrdf: <http://www.loc.gov/mads/rdf/v1#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfox: <https://rdfox.com/vocabulary#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+PREFIX swrl: <http://www.w3.org/2003/11/swrl#>
+PREFIX swrlb: <http://www.w3.org/2003/11/swrlb#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX graph: <https://metadatafram.es/data/graph/>
+PREFIX group: <https://metadatafram.es/data/group/>
+PREFIX mdf: <https://metadatafram.es/>
+PREFIX person: <https://metadatafram.es/data/person/>
+PREFIX place: <https://metadatafram.es/data/place/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX schema: <https://schema.org/>
+
+CONSTRUCT {
+  ?eventURI a schema:Event ;
+    schema:attendee ?personURI ;
+    schema:about <http://id.loc.gov/authorities/subjects/sh2013002090> . # Linked Data
+  ?personURI a bf:Person ;
+    foaf:name ?Name ;
+    foaf:accountName ?User ;
+    schema:worksFor ?InstURI .
+  ?InstURI a bf:Organization ;
+    foaf:name ?Inst ;
+    schema:location ?LocURI .
+  ?LocURI a bf:Place ;
+    foaf:name ?Loc .
+} 
+FROM <file:participants_fictional.csv> 
+WHERE {
+  BIND (URI(CONCAT("https://metadatafram.es/data/event/ebsco-training")) AS ?eventURI)
+  BIND (URI(CONCAT("https://metadatafram.es/data/person/", ?ID)) AS ?personURI)
+  BIND (URI(CONCAT("https://metadatafram.es/data/group/", LCASE(MD5(?Inst)))) AS ?InstURI)
+  BIND (URI(CONCAT("https://metadatafram.es/data/place/", LCASE(MD5(?Loc)))) AS ?LocURI)
+}

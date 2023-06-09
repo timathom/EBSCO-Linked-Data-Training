@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="blank_nodes">
+    <title>Blank Nodes</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>In RDF, we sometimes need to say something about a resource whose identity we don't know
+            (or care) about. These are called <b><term>blank nodes</term></b>.</p>
+        <p>
+            <codeblock id="codeblock_y2z_c5h_sxb">@base &lt;https://metadatafram.es/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#date> .
+
+&lt;alicia> foaf:name "Alicia" ; 
+foaf:knows [ a foaf:Person ] ;
+foaf:knows _:b1 .
+
+_:b1 a foaf:Person .</codeblock>
+            <note id="note_j4l_d5h_sxb">The example shows two different ways to encode a blank node:
+                one with an identifier (<codeph>_:b1</codeph>) and one with square brackets. Blank
+                node identifiers are not guaranteed to be unique across different Turtle
+                files.</note>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="ontology_design_2">
+    <title>Ontology Design</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_a4x_33n_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">For example, in an ontology about food and wine, we could ask
+                        competency questions like these:</p>
+                    <ul id="ul_b4x_33n_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">Which wine characteristics should I consider when choosing
+                                a wine?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Is Bordeaux a red or white wine?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Does Cabernet Sauvignon go well with seafood?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">What is the best choice of wine for grilled meat?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Which characteristics of a wine affect its appropriateness
+                                for a dish?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Does a bouquet or body of a specific wine change with
+                                vintage year?</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">What were good vintages for Napa Zinfandel? (<xref
+                                    href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf"
+                                    format="html" scope="external"><u>Ontology 101</u></xref>)</p>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="individuals">
+    <title>Individuals</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p dir="ltr">Individuals are instances or members of a class. <lq>For example, an
+                    individual named Deborah can be described as a member of the class Person, and
+                    the property hasEmployer can be used to relate her to the individual
+                    StanfordUniversity. (<xref
+                        href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1" format="html"
+                        scope="external"><u>W3C</u></xref>)</lq></p>
+        </lcInstruction>
+    </learningContentbody>
+
+
+</learningContent>

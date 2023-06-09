@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="from_marc_to_bibframe">
+    <title>From MARC 21 to BIBFRAME</title>
+    <shortdesc>BIBFRAME 2.0 model</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_imn_tt1_txb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="bibframe_patterns_provision_publication_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>A single MARC 21 bibliographic record contains fields (and subfields) that map to
+                    different entities in the BIBFRAME model.</p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

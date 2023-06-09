@@ -1,0 +1,26 @@
+digraph G {
+    graph [rankdir=LR, fontname="Helvetica", fontsize="12"]
+
+    node [style=filled, fontname="Helvetica", fontsize="20"]
+    BIBFRAME [shape=box, fillcolor="lightblue3", fontcolor="black"]
+    RDF [shape=ellipse, fillcolor="orange2", fontcolor="black"]
+    RDA [shape=ellipse, fillcolor="orange2", fontcolor="black"]
+    IFLALRM [label="IFLA LRM (FRBR)", shape=ellipse, fillcolor="orange2", fontcolor="black"]
+    MARC21 [label="MARC 21", shape=ellipse, fillcolor="orange2", fontcolor="black"]
+    OWL [shape=ellipse, fillcolor="orange2", fontcolor="black"]
+    AACR2 [shape=ellipse, fillcolor="forestgreen", fontcolor="black"]
+
+    edge [fontname="Helvetica", fontsize="20"]
+    BIBFRAME -> RDF [label="uses", minlen=4]
+    BIBFRAME -> RDA [label="codifies", minlen=4]
+    BIBFRAME -> IFLALRM [label="is inspired by", minlen=4]
+    BIBFRAME -> MARC21 [label="translates", minlen=4]
+    BIBFRAME -> MARC21 [label="replaces", minlen=4]
+    BIBFRAME -> OWL [label="uses in part", minlen=4]
+
+    OWL -> RDF [label="formalizes", minlen=4]
+
+    RDA -> RDF [label="uses in part", minlen=4]
+    RDA -> AACR2 [label="replaces", minlen=4]
+    RDA -> IFLALRM [label="implements", minlen=4]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="day_1_lesson_3">
+    <title>What Is an Ontology?</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p dir="ltr">
+                <ul>
+                    <li dir="ltr">In computer science, an ontology is defined as: <lq><i>A formal
+                                definition of types, properties, and relationships between entities
+                                that actually or fundamentally exist within a particular domain of
+                                discourse. </i>(<xref
+                                href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa_(inform%C3%A1tica)"
+                                format="html" scope="external"><u>Wikipedia</u></xref>)</lq></li>
+                    <li>An ontology is a <b>model of reality</b> expressed as a formal specification
+                        of <b><term>classes</term></b>, <b><term>properties</term></b>, and
+                                <b><term>individuals</term></b>.</li>
+                    <li>An ontology is a <b>semantic schema</b> that documents the meaning of our
+                        data.</li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

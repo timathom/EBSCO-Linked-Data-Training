@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="snow_white_problem">
+    <title>ChatGPT: Limits and Possbilities</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_esb_sn3_kxb"/>
+            <lcInstructornote2>
+                <p>For this topic, the instructor should have access to the ChatGPT user interface
+                    and be ready to demonstrate the <xref keyref="snow-white-problem">Issue</xref>
+                    described in the blog post by Oxford Semantic Technologies.</p>
+                <p>As of June 5, 2023, the issue is still present in GPT-3.5. In response to the
+                    prompt "Which was the first feature-length animated film?" the model provides
+                    the following answer:</p>
+                <p><lq>The first feature-length animated film is "Snow White and the Seven Dwarfs,"
+                        released in 1937. It was produced by Walt Disney Productions and was based
+                        on the German fairy tale by the Brothers Grimm. "Snow White and the Seven
+                        Dwarfs" was a groundbreaking achievement in animation, as it was the first
+                        full-length cel-animated feature film and the first animated film produced
+                        in color. It was a commercial and critical success and paved the way for the
+                        development of the animated film industry.</lq></p>
+                <p>However, GPT-4.0 provides a much more nuanced response:</p>
+                <p>
+                    <lq id="lq_g4n_q5x_rxb">
+                        <p>The first feature-length animated film is generally recognized as "Snow
+                            White and the Seven Dwarfs" by Walt Disney, which was released in 1937. </p>
+                        <p>However, it's worth noting that there were some earlier attempts at
+                            creating feature-length animated films. The first one to be created was
+                            "El Apóstol" (The Apostle), an Argentine film by Quirino Cristiani
+                            released in 1917. Unfortunately, no copies of this film exist today
+                            because it was destroyed in a fire. Another feature-length animated film
+                            by Cristiani, "Sin dejar rastros" (Without a Trace), was released in
+                            1918 but has also been lost. As a result, "Snow White and the Seven
+                            Dwarfs" is the earliest feature-length animated film that can still be
+                            viewed today.</p>
+                    </lq>
+                </p>
+            </lcInstructornote2>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="snow_white_problem_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview id="lcReview_f5n_3tx_rxb">
+                <p>
+                    <ul id="ul_sgj_1vx_rxb">
+                        <li>ChatGPT is a large-scale reflection of "common knowledge."</li>
+                        <li>It is not necessarily tethered to reality and lacks a stable reference
+                            to verified and curated knowledge.</li>
+                        <li>Knowledge graphs can complement large language models and be used to
+                            "fact check" them.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

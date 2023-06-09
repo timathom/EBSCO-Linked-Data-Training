@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS" xmlns:dita-ot="dita-ot" xmlns:ditaarch="ditaarch" xmlns:nd="nd"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-center><css:property name="content"/></css:top-center><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="matter-page" pseudo="left "><css:top-left><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="matter-page" pseudo="right "><css:top-right><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="front-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/submaps/day_2.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta content="text/html; charset=UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" http-equiv="Content-Type"/>
+        <meta charset="UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+        <meta content="(C) Copyright 2023" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.rights.owner"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="learningGroupMap" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+    </head>
+    <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
+        <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map learningGroupMap/learningGroupMap map learningGroupMap" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map learningAggregationsTopicref-c) (map learningGroupMap+learningMap-d) (topic delay-d) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map learningmap-d) (topic learningmeta-d) (map mapgroup-d) (topic relmgmt-d) (topic ut-d) a(props deliveryTarget)" lang="en" specializations="@props/deliveryTarget" xml:lang="en">
+                        <div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- map/topicmeta topicmeta" css:display="block">
+                                <div class="- topic/navtitle navtitle" css:display="block">Day
+                                    2</div>
+                                <div class="- topic/critdates critdates" css:display="none">
+                                    <css:oxy-pdf-meta-custom name="Revised"><css:text>2023-05-09, 2023-06-04, 2023-06-09</css:text></css:oxy-pdf-meta-custom>
+                                    <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                    <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                    <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                </div>
+                            </div><div class="- front-page/front-page-title front-page-title" css:display="block" css:font-size="2em" css:font-weight="bold" css:line-height="1.5em" css:margin-top="3in" css:text-align="center"/></div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/submaps/day_2.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map learningGroupMap/learningGroupMap map learningGroupMap" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map learningAggregationsTopicref-c) (map learningGroupMap+learningMap-d) (topic delay-d) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map learningmap-d) (topic learningmeta-d) (map mapgroup-d) (topic relmgmt-d) (topic ut-d) a(props deliveryTarget)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
+                            <div class="- toc/title title" css:bookmark-level="1" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
+                            <div class="+ map/topicref learningmap-d/learningGroup topicref learningGroup" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" is-chapter="true">
+                                <div class="+ map/topicref learningmap-d/learningObject topicref learningObject" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em">
+                                    <div class="- map/topicmeta topicmeta" css:display="block">
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#d139e25" css:text-align-last="justify" href="#d139e25"><css:before css:display="inline" css:link="#d139e25"/>Suggested
+                                            Schedule for Day
+                                            2<css:after css:display="inline" css:link="#d139e25"><css:leader pattern="."/><css:target-counter url-fragment="d139e25"/></css:after></div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_1" type="learningOverview">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="learningOverview_j4p_plr_rxb">
+                                            <div appid="learningOverview_j4p_plr_rxb" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"/>Suggested
+                                                Schedule for Day
+                                                2<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Day 2 of the training is intended
+                                                to begin at 9:00 a.m. and end at 12:30 p.m.</div>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="+ map/topicref learningmap-d/learningObject topicref learningObject" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em">
+                                    <div class="- map/topicmeta topicmeta" css:display="block">
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#d139e48" css:text-align-last="justify" href="#d139e48"><css:before css:display="inline" css:link="#d139e48"/>Review
+                                            of Day
+                                            1<css:after css:display="inline" css:link="#d139e48"><css:leader pattern="."/><css:target-counter url-fragment="d139e48"/></css:after></div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_2" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="day_2_lesson_0">
+                                            <div appid="day_2_lesson_0" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"/>Review
+                                                of Day
+                                                1<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none"/>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="+ map/topicref learningmap-d/learningObject topicref learningObject" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em">
+                                    <div class="- map/topicmeta topicmeta" css:display="block">
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#d139e70" css:text-align-last="justify" href="#d139e70"><css:before css:display="inline" css:link="#d139e70"/>Showcase
+                                            of
+                                            Tools<css:after css:display="inline" css:link="#d139e70"><css:leader pattern="."/><css:target-counter url-fragment="d139e70"/></css:after></div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_3" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="content_spj_rnj_kxb">
+                                            <div appid="content_spj_rnj_kxb" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"/>Showcase
+                                                of
+                                                Tools<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Debugging</div>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_4" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="tarql_demo">
+                                            <div appid="tarql_demo" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>Tarql
+                                                Demo: From Spreadsheets to
+                                                Triples<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none">Debugging</div>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                        <div class="+ map/topicref learningmap-d/learningContentComponentRef topicref learningContentComponentRef" css:display="none" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_6" type="topic">
+                                            <div class="- map/topicmeta topicmeta" css:display="none" data-topic-id="tarql_demo_2">
+                                                <div appid="tarql_demo_2" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                                <div class="- topic/navtitle navtitle" css:display="none" css:link="#unique_6" href="#unique_6">Tarql
+                                                  Demo: Input and Output</div>
+                                                <div class="- topic/critdates critdates" css:display="none">
+                                                  <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                  <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                  <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="+ map/topicref learningmap-d/learningObject topicref learningObject" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em">
+                                    <div class="- map/topicmeta topicmeta" css:display="block">
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#d139e128" css:text-align-last="justify" href="#d139e128"><css:before css:display="inline" css:link="#d139e128"/>Example
+                                            Use Cases and
+                                            Applications<css:after css:display="inline" css:link="#d139e128"><css:leader pattern="."/><css:target-counter url-fragment="d139e128"/></css:after></div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="lux">
+                                            <div appid="lux" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>LUX:
+                                                Yale Collections
+                                                Discovery<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none"/>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_12" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="lux_yale_collections_discovery_competency_questions">
+                                            <div appid="lux_yale_collections_discovery_competency_questions" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"/>LUX:
+                                                Competency
+                                                Questions<css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none"/>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="+ map/topicref learningmap-d/learningContentRef topicref learningContentRef" css:display="block" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_13" type="learningContent">
+                                        <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="lux_yale_collections_discovery_activity">
+                                            <div appid="lux_yale_collections_discovery_activity" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_13" css:text-align-last="justify" href="#unique_13"><css:before css:display="inline" css:link="#unique_13"/>LUX
+                                                Activity<css:after css:display="inline" css:link="#unique_13"><css:leader pattern="."/><css:target-counter url-fragment="unique_13"/></css:after></div>
+                                            <div class="- map/shortdesc shortdesc" css:display="none"/>
+                                            <div class="- topic/critdates critdates" css:display="none">
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                                <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="matter-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/submaps/day_2.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map learningGroupMap/learningGroupMap map learningGroupMap" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map learningAggregationsTopicref-c) (map learningGroupMap+learningMap-d) (topic delay-d) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map learningmap-d) (topic learningmeta-d) (map mapgroup-d) (topic relmgmt-d) (topic ut-d) a(props deliveryTarget)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title1" class="+ topic/topic pdf2-d/placeholder topic placeholder nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-before="always" id="d139e25" topicrefclass="+ map/topicref learningmap-d/learningObject ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Suggested Schedule for Day 2</span></h1>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title2" class="- topic/topic learningBase/learningBase learningOverview/learningOverview topic learningBase learningOverview nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_1" nd:nd-id="learningOverview_j4p_plr_rxb" oid="learningOverview_j4p_plr_rxb" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title2"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Suggested Schedule for Day
+                                    2</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningOverview/learningOverviewbody body learningBasebody learningOverviewbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Day 2 of the
+                                        training is intended to begin at 9:00 a.m. and end at 12:30
+                                        p.m.</p>
+                                    <section class="- topic/section learningBase/lcDuration section lcDuration" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1_Connect_42_lcDuration_m4p_plr_rxb" nd:nd-id="lcDuration_m4p_plr_rxb">
+                                        <span class="- topic/data learningBase/lcTime data lcTime" css:display="none" datatype="TimeValue" name="hours" value="3.5"><b css:display="none" css:font-weight="bold">Time: </b>3.5 hours</span>
+                                    </section>
+                                    <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1_Connect_42_section_n4p_plr_rxb" nd:nd-id="section_n4p_plr_rxb">
+                                        <h3 class="- topic/title title sectiontitle" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Example
+                                            Schedule</h3>
+                                        <dl class="- topic/dl dl" css:display="block" id="unique_1_Connect_42_dl_o4p_plr_rxb" nd:nd-id="dl_o4p_plr_rxb">
+                                            <dt class="- topic/dt dt dlterm" css:display="block" css:font-weight="700" css:margin-bottom="0.5em" css:margin-left="1em" css:margin-right="1em" css:margin-top="0.5em">9:00-9:30</dt>
+                                            <dd class="- topic/dd dd" css:display="block" css:margin-bottom="0.5em" css:margin-left="3em" css:margin-right="3em" css:margin-top="0.5em">Review
+                                                of Day 1</dd>
+                                            <dt class="- topic/dt dt dlterm" css:display="block" css:font-weight="700" css:margin-bottom="0.5em" css:margin-left="1em" css:margin-right="1em" css:margin-top="0.5em">9:30-10:00</dt>
+                                            <dd class="- topic/dd dd" css:display="block" css:margin-bottom="0.5em" css:margin-left="3em" css:margin-right="3em" css:margin-top="0.5em">Showcase of Tools</dd>
+                                            <dt class="- topic/dt dt dlterm" css:display="block" css:font-weight="700" css:margin-bottom="0.5em" css:margin-left="1em" css:margin-right="1em" css:margin-top="0.5em">10:30-11:00</dt>
+                                            <dd class="- topic/dd dd" css:display="block" css:margin-bottom="0.5em" css:margin-left="3em" css:margin-right="3em" css:margin-top="0.5em">Break</dd>
+                                            <dt class="- topic/dt dt dlterm" css:display="block" css:font-weight="700" css:margin-bottom="0.5em" css:margin-left="1em" css:margin-right="1em" css:margin-top="0.5em">11:00-12:30</dt>
+                                            <dd class="- topic/dd dd" css:display="block" css:margin-bottom="0.5em" css:margin-left="3em" css:margin-right="3em" css:margin-top="0.5em">Example Use Cases and Applications</dd>
+                                        </dl>
+                                    </section>
+                                </div>
+                            </article>
+                        </article>
+                        <article aria-labelledby="ariaid-title3" class="+ topic/topic pdf2-d/placeholder topic placeholder nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-before="always" id="d139e48" topicrefclass="+ map/topicref learningmap-d/learningObject ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title3"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Review of Day 1</span></h1>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title4" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_2" nd:nd-id="day_2_lesson_0" oid="day_2_lesson_0" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Review of Day 1</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/author author" css:display="none" type="creator">timothy.thompson@yale.edu</div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_2_Connect_42_ul_jbn_2x1_txb" nd:nd-id="ul_jbn_2x1_txb">
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">In groups, discuss the
+                                                  content from yesterday's session.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">What did you learn? What
+                                                  would you like to learn more about?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Do you have any questions
+                                                  you would like to clarify, or any
+                                                  observations?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Assign a notetaker to
+                                                  report back to the group.</p>
+                                            </li>
+                                        </ul>
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_2_Connect_42_ul_kbn_2x1_txb" nd:nd-id="ul_kbn_2x1_txb">
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">In the same group, use
+                                                  your sketch pad to draw a network diagram of the
+                                                  BIBFRAME representation of the book we worked with
+                                                  yesterday in the card-sorting activity (<em class="+ topic/ph hi-d/i ph i" css:display="inline" css:font-style="italic">Cien
+                                                  años de soledad</em>). </p>
+                                            </li>
+                                        </ul>
+                                    </section>
+                                </div>
+                                <div class="wh_related_links" css:display="block">
+                                    <nav class="- topic/related-links related-links" css:border-top-color="rgb(204 , 204 , 204)" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-top="0" css:padding-bottom="0.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="0.5em" role="navigation">
+                                        <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0" css:margin-top="0" outputclass="relinfo" xml:lang="en">
+                                            <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
+                                                information</strong>
+                                            <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0" css:margin-top="0" css:padding-left="0">
+                                                <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf" format="pdf" href="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf" rel="external noopener" target="_blank">Bibliographic Record Unlabeled (<span class="- topic/ph ph" css:display="inline" css:link="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf"><cite class="- topic/cite cite" css:display="inline" css:font-style="italic" css:link="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf">Cien años de
+                                                  soledad</cite></span>)<css:after css:display="inline" css:font-style="italic" css:link="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf" css:oxy-alt-text=" "/></a></li>
+                                            </ul>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </article>
+                        </article>
+                        <article aria-labelledby="ariaid-title5" class="+ topic/topic pdf2-d/placeholder topic placeholder nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-before="always" id="d139e70" topicrefclass="+ map/topicref learningmap-d/learningObject ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Showcase of Tools</span></h1>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title6" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_3" nd:nd-id="content_spj_rnj_kxb" oid="content_spj_rnj_kxb" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title6"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Showcase of Tools</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/author author" css:display="none" type="creator">timothy.thompson@yale.edu</div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Debugging</p>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <div class="table-container" css:display="block">
+                                            <table class="- topic/table table" css:border-collapse="collapse" css:display="table" css:hyphens="auto" css:margin-bottom="1em" css:margin-top="1em" css:table-layout="auto" data-cols="2" id="unique_3_Connect_42_table_cdy_lx1_txb" nd:nd-id="table_cdy_lx1_txb">
+                                                <caption css:display="table-caption" css:font-weight="bold" css:margin-top="0.5em" css:page-break-after="avoid" css:text-align="center"/>
+                                                <colgroup css:display="table-column-group">
+                                                  <col css:display="table-column" css:width="380px" style="width:380px"/>
+                                                  <col css:display="table-column" css:width="380px" style="width:380px"/>
+                                                </colgroup>
+                                                <tbody class="- topic/tbody tbody" css:display="table-row-group" css:vertical-align="middle">
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="0" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="1"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain">Tool</strong></td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="0" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="1"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain">Free
+                                                  and Open Source?</strong></td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="1" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="2"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://github.com/tarql/tarql" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://github.com/tarql/tarql" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://github.com/tarql/tarql" css:text-decoration="underline">TARQL</u><css:after css:display="inline" css:font-style="italic" css:link="https://github.com/tarql/tarql" css:oxy-alt-text=" "/></a>
+                                                  (SPARQL for Tables)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="1" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="2">Yes</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="2" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="3">ChatGPT (for data conversion)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="2" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="3">No</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="3" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="4">marc2bibframe2 (<a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt" css:text-decoration="underline">hosted</u><css:after css:display="inline" css:font-style="italic" css:link="https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt" css:oxy-alt-text=" "/></a>
+                                                  | also available as a Metaproxy Z39.50
+                                                  plugin)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="3" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="4">Yes</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="4" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="5"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://sparnatural.eu/" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://sparnatural.eu/" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://sparnatural.eu/" css:text-decoration="underline">Sparnatural</u><css:after css:display="inline" css:font-style="italic" css:link="https://sparnatural.eu/" css:oxy-alt-text=" "/></a>
+                                                  (visual SPARQL explorer)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="4" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="5">Yes</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="5" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="6"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://lov.linkeddata.es/" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://lov.linkeddata.es/" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://lov.linkeddata.es/" css:text-decoration="underline">Linked Open
+                                                  Vocabularies</u><css:after css:display="inline" css:font-style="italic" css:link="https://lov.linkeddata.es/" css:oxy-alt-text=" "/></a>
+                                                  (LOV)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="5" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="6">Yes</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="6" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="7"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://www.oxfordsemantic.tech/product?gclid=CjwKCAjw-IWkBhBTEiwA2exyO3IW0o4MasABAX8WsOz8y2ZzQnV1h_DEP89tITeGzT8nsVafxFYT8RoCPIEQAvD_BwE" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://www.oxfordsemantic.tech/product?gclid=CjwKCAjw-IWkBhBTEiwA2exyO3IW0o4MasABAX8WsOz8y2ZzQnV1h_DEP89tITeGzT8nsVafxFYT8RoCPIEQAvD_BwE" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://www.oxfordsemantic.tech/product?gclid=CjwKCAjw-IWkBhBTEiwA2exyO3IW0o4MasABAX8WsOz8y2ZzQnV1h_DEP89tITeGzT8nsVafxFYT8RoCPIEQAvD_BwE" css:text-decoration="underline">RDFox</u><css:after css:display="inline" css:font-style="italic" css:link="https://www.oxfordsemantic.tech/product?gclid=CjwKCAjw-IWkBhBTEiwA2exyO3IW0o4MasABAX8WsOz8y2ZzQnV1h_DEP89tITeGzT8nsVafxFYT8RoCPIEQAvD_BwE" css:oxy-alt-text=" "/></a>
+                                                  (RDF graph database)</td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="6" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="7">No</td>
+                                                  </tr>
+                                                  <tr class="- topic/row row" css:display="table-row" css:vertical-align="middle">
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col1" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="0" css:table-row="7" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="1" dita-ot:y="8"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://sinopia.io/" css:oxy-space-after-conditionality="retain" css:oxy-space-before-conditionality="retain" format="html" href="https://sinopia.io/" rel="external noopener" scope="external" target="_blank"><u class="+ topic/ph hi-d/u ph u" css:display="inline" css:link="https://sinopia.io/" css:text-decoration="underline">Sinopia
+                                                  Editor</u><css:after css:display="inline" css:font-style="italic" css:link="https://sinopia.io/" css:oxy-alt-text=" "/></a></td>
+                                                  <td xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/entry entry colsep-0 rowsep-0" colname="col2" css:direction="ltr" css:display="table-cell" css:padding-bottom="0.3em" css:padding-left="0.3em" css:padding-right="0.3em" css:padding-top="0.3em" css:table-column="1" css:table-row="7" css:unicode-bidi="embed" css:vertical-align="top" dir="ltr" dita-ot:x="2" dita-ot:y="8">Yes</td>
+                                                  </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </section>
+                                </div>
+                            </article>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title7" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_4" nd:nd-id="tarql_demo" oid="tarql_demo" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title7"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Tarql Demo: From Spreadsheets to
+                                        Triples</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/author author" css:display="none" type="creator">timothy.thompson@yale.edu</div>
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em">Debugging</p>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <figure class="- topic/fig fig fignone" conkeyref="figures-key/fig_kmn_tt1_txb" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure"/>
+                                    </section>
+                                </div>
+                                <article aria-labelledby="ariaid-title8" class="- topic/topic learningBase/learningBase learningSummary/learningSummary topic learningBase learningSummary nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="tarql_demo_summary" oid="tarql_demo_summary" specializations="@props/deliveryTarget">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Summary</span></h3>
+                                    <div class="- topic/body learningBase/learningBasebody learningSummary/learningSummarybody body learningBasebody learningSummarybody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <section class="- topic/section learningBase/lcReview section lcReview" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Using a
+                                                command-line tool such as Tarql, we can easily
+                                                convert from tabular data and spreadsheet to RDF
+                                                triples that conform to a semantic schema or
+                                                ontology.</p>
+                                        </section>
+                                    </div>
+                                </article>
+                                <article aria-labelledby="ariaid-title9" class="- topic/topic topic nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_6" nd:nd-id="tarql_demo_2" oid="tarql_demo_2" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentComponentRef ">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title9"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Tarql Demo: Input and
+                                        Output</span></h3>
+                                    <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                        <div class="- topic/critdates critdates" css:display="none">
+                                            <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                            <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                            <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                        </div>
+                                    </div>
+                                    <div class="- topic/body body" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <div class="- topic/p p" css:display="block" css:margin-top="1em">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_6_Connect_42_ul_sr3_vz1_txb" nd:nd-id="ul_sr3_vz1_txb">
+                                                <li class="- topic/li li" css:display="list-item">After downloaded Tarql, we run it from the
+                                                  command line like this: <code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">sh bin/tarql -v participants_mapping.rq
+                                                  participants_fictional.csv &gt;
+                                                  participants_mapped.ttl</code></li>
+                                                <li class="- topic/li li" css:display="list-item">We
+                                                  need to specify a SPARQL query to map our data
+                                                  (<code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">participants_mapping.rq</code>), an input CSV
+                                                  file (<code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">participants_fictional.csv</code>) and a Turtle
+                                                  file for saving our output (<code class="+ topic/ph pr-d/codeph ph codeph" css:background-color="rgb(238 , 238 , 238)" css:display="inline" css:font-family="monospace" css:font-size="0.8em" css:oxy-pdf-tag-type="Code" css:padding-bottom="2px" css:padding-left="0" css:padding-right="0" css:padding-top="2px">participants_fictional_mapped.ttl</code>).</li>
+                                                <li class="- topic/li li" css:display="list-item">The Turtle file can then be loaded into a triple
+                                                  store for querying.</li>
+                                                <li class="- topic/li li" css:display="list-item">You can see examples below under Related
+                                                  Links.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="wh_related_links" css:display="block">
+                                        <nav class="- topic/related-links related-links" css:border-top-color="rgb(204 , 204 , 204)" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-top="0" css:padding-bottom="0.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="0.5em" role="navigation">
+                                            <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0" css:margin-top="0" outputclass="relinfo" xml:lang="en">
+                                                <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
+                                                  information</strong>
+                                                <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0" css:margin-top="0" css:padding-left="0">
+                                                  <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a broken-link="true" class="- topic/link link" css:display="inline" href="#unique_7">SPARQL
+                                                  Mapping
+                                                  Query<css:after css:display="inline" css:font-style="italic" css:link="#unique_7" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_7"/><css:text>)</css:text></css:after></a></li>
+                                                  <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a broken-link="true" class="- topic/link link" css:display="inline" href="#unique_8">CSV input
+                                                  data<css:after css:display="inline" css:font-style="italic" css:link="#unique_8" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_8"/><css:text>)</css:text></css:after></a></li>
+                                                  <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a broken-link="true" class="- topic/link link" css:display="inline" href="#unique_9">Turtle
+                                                  output
+                                                  data<css:after css:display="inline" css:font-style="italic" css:link="#unique_9" css:oxy-alt-text=" "><css:text> (on page </css:text><css:target-counter url-fragment="unique_9"/><css:text>)</css:text></css:after></a></li>
+                                                </ul>
+                                            </div>
+                                        </nav>
+                                    </div>
+                                </article>
+                            </article>
+                        </article>
+                        <article aria-labelledby="ariaid-title10" class="+ topic/topic pdf2-d/placeholder topic placeholder nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" css:page-break-before="always" id="d139e128" topicrefclass="+ map/topicref learningmap-d/learningObject ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Example Use Cases and
+                                Applications</span></h1>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title11" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="lux" oid="lux" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title11"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">LUX: Yale Collections
+                                    Discovery</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <figure class="- topic/fig fig fignone" conkeyref="figures-key/fig_trh_4bb_txb" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure"/>
+                                    </section>
+                                </div>
+                                <article aria-labelledby="ariaid-title12" class="- topic/topic learningBase/learningBase learningSummary/learningSummary topic learningBase learningSummary nested2" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_11" nd:nd-id="lux_summary" oid="lux_summary" specializations="@props/deliveryTarget">
+                                    <h3 class="- topic/title title topictitle3" css:bookmark-level="3" css:bookmark-state="closed" css:display="block" css:font-size="1.4em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H3" css:page-break-after="avoid" id="ariaid-title12"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Summary</span></h3>
+                                    <div class="- topic/body learningBase/learningBasebody learningSummary/learningSummarybody body learningBasebody learningSummarybody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                        <section class="- topic/section learningBase/lcReview section lcReview" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                                <li class="- topic/li li" css:display="list-item"><a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://lux.collections.yale.edu/" format="html" href="https://lux.collections.yale.edu/" rel="external noopener" scope="external" target="_blank">LUX:
+                                                  Yale Collections
+                                                  Discovery<css:after css:display="inline" css:font-style="italic" css:link="https://lux.collections.yale.edu/" css:oxy-alt-text=" "/></a>
+                                                  is a linked data discovery platform developed at
+                                                  Yale University.</li>
+                                                <li class="- topic/li li" css:display="list-item">Its underlying semantic model is <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://linked.art/" format="html" href="https://linked.art/" rel="external noopener" scope="external" target="_blank">Linked.Art<css:after css:display="inline" css:font-style="italic" css:link="https://linked.art/" css:oxy-alt-text=" "/></a>,
+                                                  a profile of the CIDOC-CRM ontology.</li>
+                                                <li class="- topic/li li" css:display="list-item">The presentation (slides and video) linked below
+                                                  provides an overview of the LUX project.</li>
+                                            </ul>
+                                        </section>
+                                    </div>
+                                    <div class="wh_related_links" css:display="block">
+                                        <nav class="- topic/related-links related-links" css:border-top-color="rgb(204 , 204 , 204)" css:border-top-style="solid" css:border-top-width="1px" css:display="block" css:margin-top="0" css:padding-bottom="0.5em" css:padding-left="1.5em" css:padding-right="1.5em" css:padding-top="0.5em" role="navigation">
+                                            <div class="- topic/linklist linklist relinfo" css:display="block" css:margin-bottom="0" css:margin-top="0" outputclass="relinfo" xml:lang="en">
+                                                <strong css:display="block" css:font-weight="700" css:page-break-after="avoid">Related
+                                                  information</strong>
+                                                <ul class="linklist" css:display="block" css:list-style-type="none" css:margin-bottom="0" css:margin-top="0" css:padding-left="0">
+                                                  <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="resources/presentations/Sanderson_Thompson_LUX_LOUD_LD42021.pdf" css:oxy-alt-text="Presentation Slides" format="pdf" href="resources/presentations/Sanderson_Thompson_LUX_LOUD_LD42021.pdf" rel="external noopener" target="_blank" title="Presentation Slides">LUX:
+                                                  Illuminating the Collections of Yale's Museums,
+                                                  Libraries, and Archives via Linked Open (Usable)
+                                                  Data
+                                                  (Slides)<css:after css:display="inline" css:font-style="italic" css:link="resources/presentations/Sanderson_Thompson_LUX_LOUD_LD42021.pdf" css:oxy-alt-text=" "/></a></li>
+                                                  <li class="linklist" css:display="list-item" css:margin-bottom="0" css:margin-top="0"><a class="- topic/link link" css:color="rgb(81 , 133 , 203)" css:display="inline" css:link="https://www.youtube.com/watch?v=C4lAJHOs1gY" css:oxy-alt-text="Presentation Video" format="html" href="https://www.youtube.com/watch?v=C4lAJHOs1gY" rel="external noopener" scope="external" target="_blank" title="Presentation Video">LUX:
+                                                  Illuminating the Collections of Yale's Museums,
+                                                  Libraries, and Archives via Linked Open (Usable)
+                                                  Data
+                                                  (Video)<css:after css:display="inline" css:font-style="italic" css:link="https://www.youtube.com/watch?v=C4lAJHOs1gY" css:oxy-alt-text=" "/></a></li>
+                                                </ul>
+                                            </div>
+                                        </nav>
+                                    </div>
+                                </article>
+                            </article>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title13" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_12" nd:nd-id="lux_yale_collections_discovery_competency_questions" oid="lux_yale_collections_discovery_competency_questions" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title13"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">LUX: Competency Questions</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_12_Connect_42_ul_j5g_5cb_txb" nd:nd-id="ul_j5g_5cb_txb">
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">What paintings from
+                                                  1900-2015 are by Jewish women from Britain?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Who are the artists with
+                                                  the most works represented in LUX?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Which paintings of
+                                                  American landscapes in the 19th Century were
+                                                  painted by Europeans?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Which paintings depict
+                                                  collectors of fossils?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">What does Yale have that
+                                                  was created in (collected in, depicting,
+                                                  discussing) London in the 17th century?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">What British artists
+                                                  illustrated Hamlet during the late nineteenth
+                                                  century</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Does Yale have any works
+                                                  of modern art by artists born in Uruguay?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Plants, paintings, and
+                                                  photographic prints produced/encountered in
+                                                  Yosemite in the latter half of the 19th Century.
+                                                </p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Archives created by
+                                                  someone born after 1950</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">People who created
+                                                  objects or works that are classified as
+                                                  forgeries</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Bronze sculptures in
+                                                  Yale's library and museum collections</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Digital images of people
+                                                  who have discovered holotypes</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Shakespeare's first
+                                                  folio</p>
+                                            </li>
+                                        </ul>
+                                    </section>
+                                </div>
+                            </article>
+                            <article xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" aria-labelledby="ariaid-title14" class="- topic/topic learningBase/learningBase learningContent/learningContent topic learningBase learningContent nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_13" nd:nd-id="lux_yale_collections_discovery_activity" oid="lux_yale_collections_discovery_activity" specializations="@props/deliveryTarget" topicrefclass="+ map/topicref learningmap-d/learningContentRef ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title14"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">LUX Activity</span></h2>
+                                <div class="- topic/prolog prolog" css:background-color="transparent" css:border-bottom-style="none" css:border-left-style="none" css:border-right-style="none" css:border-top-style="none" css:color="transparent" css:display="none" css:font-size="0" css:height="0" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:padding-bottom="0" css:padding-left="0" css:padding-right="0" css:padding-top="0" css:page-break-after="avoid" css:width="0">
+                                    <div class="- topic/critdates critdates" css:display="none">
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-05-09"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-04"/>
+                                        <div class="- topic/revised revised" css:display="none" modified="2023-06-09"/>
+                                    </div>
+                                </div>
+                                <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/shortdesc shortdesc" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+                                    <section class="- topic/section learningBase/lcInstruction section lcInstruction" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <ul class="- topic/ul ul" css:display="block" css:list-style-type="disc" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_13_Connect_42_ul_t25_xcb_txb" nd:nd-id="ul_t25_xcb_txb">
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Explore the user
+                                                  interface. What do you like or dislike about
+                                                  it?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Think of an advanced
+                                                  search that you would like to run in LUX.</p>
+                                            </li>
+                                            <li class="- topic/li li" css:direction="ltr" css:display="list-item" css:unicode-bidi="embed" dir="ltr">
+                                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:unicode-bidi="embed" dir="ltr">Are you able to formulate
+                                                  it? If so, what results do you get?</p>
+                                            </li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Tip</strong>: you can share an advanced search by
+                                                simply copying the URL from the address bar in your
+                                                browser.</li>
+                                        </ul>
+                                    </section>
+                                </div>
+                            </article>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

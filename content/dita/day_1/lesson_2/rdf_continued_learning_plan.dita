@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningPlan.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningPlan id="rdf_continued_learning_plan">
+    <title>Learning Plan</title>
+    <shortdesc>Learning plan for a lesson focused on next steps with RDF (RDF Schema, Open World
+        Assumption, and SPARQL).</shortdesc>
+    <prolog>
+        <author type="creator">Timothy Thompson, Yale University</author>
+        <author type="creator">timothy.thompson@yale.edu</author>        
+        <critdates>
+            <revised modified="2023-05-04"/>            
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+        </critdates>
+        <lcLom>
+            <lomTypicalLearningTime name="minutes" value="30">30 minutes</lomTypicalLearningTime>
+        </lcLom>
+    </prolog>
+    <learningPlanbody>
+        <lcProject>
+            <title><ph keyref="project-title"/></title>
+            <lcClient>
+                <p><ph keyref="client"/></p>
+            </lcClient>
+            <lcPlanTitle>
+                <p>Next Steps with RDF</p>
+            </lcPlanTitle>
+            <lcDelivDate>
+                <p>May 10, 2023</p>
+            </lcDelivDate>
+            <lcPlanSubject>
+                <p>This lesson will focus on RDF Schema (RDFS), Semantic Web principles, and
+                    technologies such as SPARQL and SHACL.</p>
+            </lcPlanSubject>
+            <lcPlanDescrip>
+                <p>In this lession, participants will be introduced to the semantic modeling
+                    constructs provided by RDFS (Resource, Class, Property, Literal, etc.). SPARQL
+                    queries will be demonstrated, and Semantic Web principles such as the Open World
+                    Assumption will be discussed, together with "closed world" solutions such as
+                    SHACL.</p>
+            </lcPlanDescrip>
+            <lcPlanPrereqs>
+                <p>As preparation, attendees will have understood the basics of the RDF model and
+                    syntax.</p>
+            </lcPlanPrereqs>
+        </lcProject>              
+        <lcIntervention>
+            <title>Instruction and Activities</title>
+            <lcInterventionItem>
+                <lcLearnStrat>This lesson will begin with a technical introduction to RDFS, SPARQL,
+                    and the Semantic Web.</lcLearnStrat>
+                <lcPlanObjective>The goal of instruction is to prepare learners to begin working
+                    with ontologies and semantic data modeling.</lcPlanObjective>
+                <lcAssessment>Check for comprehension of content through interactive SPARQL
+                    exercises.</lcAssessment>
+                <lcDelivery>Content will be delivered in lecture format.</lcDelivery>
+            </lcInterventionItem>
+            <lcInterventionItem>
+                <lcLearnStrat>Participants will have an opportunity to gain hands-on experience
+                    running a SPARQL query, although in-depth instruction in SPARQL is out of
+                    scope.</lcLearnStrat>
+                <lcPlanObjective>By the end of the lesson, learners should be able to identify a
+                    SPARQL query and understand how graph patterns are matched in
+                    SPARQL.</lcPlanObjective>
+                <lcAssessment>The activity will be assessed through feedback from partcipants about
+                    their experience with SPARQL.</lcAssessment>
+                <lcDelivery>Participants will work individually in a provisioned Google Collab
+                    environment within a Jupyter notebook that is connected to a triple
+                    store.</lcDelivery>
+            </lcInterventionItem>
+        </lcIntervention>
+        
+    </learningPlanbody>
+</learningPlan>

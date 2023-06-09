@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:map.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<map>
+    <title>Course Keys</title>
+    <topicmeta>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </topicmeta>
+    <keydef keys="project-title">
+        <topicmeta>
+            <linktext>Empowering Global Leaders: A Linked Data Training Program for Library
+                Innovation</linktext>
+        </topicmeta>
+    </keydef>
+    <keydef keys="client">
+        <topicmeta>
+            <linktext>EBSCO Information Services</linktext>
+        </topicmeta>
+    </keydef>
+    <keydef keys="dream-studio">
+        <topicmeta>
+            <linktext>Image generated using the DreamStudio service hosted by stability.ai, which
+                implements the Stable Diffusion SDXL Beta model, using the "craft clay"
+                filter.</linktext>
+        </topicmeta>
+    </keydef>
+    <keydef keys="documentation-made-easy" scope="external" format="html"
+        href="https://web.archive.org/web/20220803211906/http://www.nzdl.org/cgi-bin/library?e=d-00000-00---off-0hdl--00-0----0-10-0---0---0direct-10---4-------0-0l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-00&amp;cl=CL1.4&amp;d=HASH01fd2e8f1c305b10d9bf3a7b.6.4&amp;gt=2"/>
+    <keydef keys="common-crawl-tweet" scope="external" format="html"
+        href="https://twitter.com/linkedktk/status/1654490911601053708?s=20"/>
+    <keydef keys="snow-white-problem" scope="external" format="html"
+        href="https://www.oxfordsemantic.tech/blog/chatgpts-snow-white-problem-the-danger-of-common-knowledge"/>
+    <keydef keys="what-is-linked-data" scope="external" format="html"
+        href="https://www.youtube.com/watch?v=4x_xzT5eF5Q"/>
+    <keydef keys="what-is-rdf" scope="external" format="html"
+        href="https://www.bobdc.com/blog/whatisrdf/"/>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Images</navtitle>
+        </topicmeta>
+        <keydef keys="catalog-card" href="../img/introduction/catalog_card.png" format="png"/>
+        <keydef keys="data-formats" href="../img/introduction/data_formats.png" format="png"/>
+        <keydef keys="google-lens-search" href="../img/introduction/google_lens_search.jpg"
+            format="jpg"/>
+        <keydef keys="google-lens-highlight" href="../img/introduction/google_lens_text.jpg"
+            format="jpg"/>
+        <keydef keys="google-lens-translate" href="../img/introduction/google_lens_translate.jpg"
+            format="jpg"/>
+        <keydef keys="web-of-documents" href="../img/introduction/the_web.png" format="png"/>
+        <keydef keys="say-whut" href="../img/introduction/say_whut.png" format="png"/>
+        <keydef keys="deconstructing" href="../img/introduction/deconstructing_the_web.png"
+            format="png"/>
+        <keydef keys="machine-understanding" href="../img/introduction/machine_understanding.png"
+            format="png"/>
+        <keydef keys="chat-gpt-common-crawl" href="../img/introduction/common_crawl_tweet.png"
+            format="png"/>
+        <keydef keys="rdfox-chatgpt" href="../img/introduction/rdfox_chatgpt.png" format="png"/>
+        <keydef keys="rdf-triples" href="../img/rdf/rdf1.svg" format="svg"/>
+        <keydef keys="rdf-graph" href="../img/rdf/rdf2.svg" format="svg"/>
+        <keydef keys="rdf-knowledge-graph" href="../img/rdf/rdf3.svg" format="svg"/>
+        <keydef keys="dle-dato" href="../img/rdf/dle_dato.png" format="png"/>
+        <!--<keydef keys="turtle-semicolons" href="../img/turtle/semicolon.svg" format="svg"/>-->
+        <keydef keys="participants-spreadsheet" href="../img/ontology/participants.svg" format="svg"/>
+        <keydef keys="rdfs-diagram" href="../img/ontology/rdfs_diagram.svg" format="svg"/>
+        <keydef keys="arm-example" href="../img/ontology/individuals_example_with_arm.svg"
+            format="svg"/>
+        <keydef keys="domain-range" href="../img/ontology/domain_range.svg" format="svg"/>
+        <keydef keys="bf-landscape" href="../img/bibframe_etc/bf_landscape.svg" format="svg"/>
+        <keydef keys="bf-1" href="../img/bibframe_etc/bibframe1.png" format="png"/>
+        <keydef keys="bf-2" href="../img/bibframe_etc/bibframe2.jpg" format="jpg"/>
+        <keydef keys="bf-graph" href="../img/bibframe_etc/bf_graph.svg" format="svg"/>
+        <keydef keys="bf-patterns-contribution"
+            href="../img/bibframe_etc/arm_inscription_bf_contributions.svg" format="svg"/>
+        <keydef keys="bf-patterns-title" href="../img/bibframe_etc/bf_title.svg" format="svg"/>
+        <keydef keys="bf-patterns-provision" href="../img/bibframe_etc/bf_provision.svg"
+            format="svg"/>
+        <keydef keys="marc-to-bf" href="../img/bibframe_etc/marc_to_bibframe.png" format="png"/>
+        <keydef keys="spreadsheets-to-triples" href="../img/tools/from_spreadsheets_to_triples.svg"
+            format="svg"/>
+        <keydef keys="lux-presentation-screenshot" href="../img/use_cases/LUX_LD4_2021.png"
+            format="png"/>
+    </topicgroup>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Figures</navtitle>
+        </topicmeta>
+        <keydef keys="figures-key" href="figures.dita"/>
+    </topicgroup>
+</map>

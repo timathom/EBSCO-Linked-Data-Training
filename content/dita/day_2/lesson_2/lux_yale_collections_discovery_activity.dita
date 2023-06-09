@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="lux_yale_collections_discovery_activity">
+    <title>LUX Activity</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_t25_xcb_txb">
+                <li dir="ltr">
+                    <p dir="ltr">Explore the user interface. What do you like or dislike about
+                        it?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Think of an advanced search that you would like to run in LUX.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Are you able to formulate it? If so, what results do you get?</p>
+                </li>
+                <li><b>Tip</b>: you can share an advanced search by simply copying the URL from the
+                    address bar in your browser.</li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>    
+</learningContent>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_linked_data_2">
+    <title>RDF/Linked Data</title>
+    <shortdesc/>
+    <prolog>        
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_q5q_2jg_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="rdf_linked_data_2_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>The address ﻿<xref href="https://dle.rae.es/dato" format="html" scope="external"
+                            ><u>https://dle.rae.es/dato</u></xref> identifies a resource (which we
+                    might also call an <b>entity</b>).</p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

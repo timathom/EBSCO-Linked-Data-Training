@@ -1,0 +1,50 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://metadatafram.es/data/dataset> a schema:Dataset ;
+    dct:title "Workshop participants" ;
+    dct:description "Dataset containing information about users, their institutions, and locations." ;
+    dct:created "2023-05-08"^^xsd:date ;
+    dct:creator <http://metadatafram.es/data/person/49274> .
+
+<http://metadatafram.es/data/person/49274> a schema:Person ;
+    foaf:name "Timothy Thompson" .
+
+<http://metadatafram.es/ontology/User> a rdfs:Class ;
+    rdfs:label "User" ;
+    skos:definition "A user with ID, name, username, institution, and location information." .
+
+<http://metadatafram.es/ontology/Id> a rdf:Property ;
+    rdfs:label "ID" ;
+    rdfs:domain <http://metadatafram.es/ontology/User> ;
+    rdfs:range xsd:integer ;
+    skos:definition "A unique identifier for a user." .
+
+<http://metadatafram.es/ontology/Name> a rdf:Property ;
+    rdfs:label "Name" ;
+    rdfs:domain <http://metadatafram.es/ontology/User> ;
+    rdfs:range xsd:string ;
+    skos:definition "The full name of a user." .
+
+<http://metadatafram.es/ontology/Username> a rdf:Property ;
+    rdfs:label "User" ;
+    rdfs:domain <http://metadatafram.es/ontology/User> ;
+    rdfs:range xsd:string ;
+    skos:definition "The username of a user." .
+
+<http://metadatafram.es/ontology/Institution> a rdf:Property ;
+    rdfs:label "Inst" ;
+    rdfs:domain <http://metadatafram.es/ontology/User> ;
+    rdfs:range schema:EducationalOrganization ;
+    skos:definition "The institution a user belongs to." .
+
+<http://metadatafram.es/ontology/Location> a rdf:Property ;
+    rdfs:label "Loc" ;
+    rdfs:domain <http://metadatafram.es/ontology/User> ;
+    rdfs:range schema:Country ;
+    skos:definition "The country where the user's institution is located." .

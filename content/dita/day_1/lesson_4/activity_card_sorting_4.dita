@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="activity_card_sorting_4">
+    <title>Activity: Card Sorting, Part 4</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ol id="ol_sc5_qxt_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">Try to check your competency questions against the categories you
+                        have identified.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Is anything missing?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Now, use your sketch pad to create some graph diagrams showing the
+                        graph of properties and relationships among the entity types you have
+                        identified.</p>
+                </li>
+            </ol>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

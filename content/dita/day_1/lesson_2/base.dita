@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="base">
+    <title>Base</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <ul>
+                <li> In addition to declaring prefixes, we can also use the <codeph>@base</codeph>
+                    keyword to declare the base URI for a Turtle file. Any relative URIs in our data
+                    will then be resolved against the base. </li>
+                <li>Instead of writing <codeph>&lt;https://metadatafram.es/alicia></codeph>, we can
+                    declare a base URI and then use relative URIs.</li>
+            </ul>
+        </p>
+        <p>
+            <codeblock>@base &lt;https://metadatafram.es/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+                
+&lt;alicia> foaf:name "Alicia" .</codeblock>
+        </p>
+    </conbody>
+</concept>

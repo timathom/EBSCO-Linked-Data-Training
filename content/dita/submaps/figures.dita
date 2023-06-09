@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:topic.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<topic id="figures">
+    <title>Figures</title>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <body>
+        <fig id="fig_ybt_nqy_hxb" frame="all">
+            <title>Catalog Card</title>
+            <desc>Image of a catalog card taken from the digital version of the book <cite
+                    keyref="documentation-made-easy">Documentation made easy</cite>.</desc>
+            <image keyref="catalog-card" id="image_oh3_rqh_jxb">
+                <alt>Catalog card taken from the digital version of the book Documentation made
+                    easy.</alt>
+            </image>
+        </fig>
+        <fig id="fig_ph3_rqh_jxb" frame="all">
+            <title>Data Formats</title>
+            <desc>Abstract depiction of file formats based on a screen capture from the teaching
+                video <xref href="https://www.youtube.com/watch?v=4x_xzT5eF5Q" format="html"
+                    scope="external"><cite>What is Linked Data?</cite></xref>, by Manu Sporny. <ph
+                    keyref="dream-studio"/> The following prompt was used: A chaotic cluster of
+                distinct file formats, clearly labeled "Data" at the top. On the top left, a figure
+                labeled "Excel", on the top right, a figure labeled "JPEG", on the bottom right, a
+                figured labeled "HTML", showing a webpage with an embedded video, and on the bottom
+                left, a figure showing a video labeled "Video". In the middle of the image, a
+                photorealistic mouse animal with a puzzled facial expression.</desc>
+            <image keyref="data-formats" id="image_qh3_rqh_jxb">
+                <alt>Derivative image based on an illustration from the video What is Linked Data,
+                    by Manu Sporny. The top of the image is labeled Data. The texture of the figures
+                    in the image is meant to look like modeling clay. There are four boxes, one in
+                    each corner, and they are slightly cropped on the outer edge. The first box, on
+                    the top left, is labeled Excel and shows an abstract representation of a
+                    spreadsheet. Moving clockwise, the upper right box shows a human head surrounded
+                    by abstract letters and lines. The bottom right box contains shapes (circle and
+                    rectangle), lines and letters. The bottom left box contains an abstract design
+                    of what looks like a wound-up cord, with letters and lines. In the middle are
+                    squiggles and an arrow-like shape.</alt>
+            </image>
+        </fig>
+        <fig id="fig_qrb_sn3_kxb" frame="all">
+            <title>Data Mining with Google Lens</title>
+            <desc>Image of a catalog card taken from the digital version of the book <cite
+                    keyref="documentation-made-easy">Documentation made easy</cite> and processed by
+                Google Lens.</desc>
+            <image keyref="google-lens-search" id="image_rrb_sn3_kxb">
+                <alt>Catalog card taken from the digital version of the book Documentation made easy
+                    and processed by the Google Lens app.</alt>
+            </image>
+        </fig>
+        <fig id="fig_srb_sn3_kxb" frame="all">
+            <title>Text Recognition with Google Lens</title>
+            <desc>Image of a catalog card taken from the digital version of the book <cite
+                    keyref="documentation-made-easy">Documentation made easy</cite> and processed by
+                Google Lens.</desc>
+            <image keyref="google-lens-highlight" id="image_trb_sn3_kxb">
+                <alt>Catalog card taken from the digital version of the book Documentation made easy
+                    and processed by the Google Lens app.</alt>
+            </image>
+        </fig>
+        <fig id="fig_urb_sn3_kxb" frame="all">
+            <title>Translation with Google Lens</title>
+            <desc>Image of a catalog card taken from the digital version of the book <cite
+                    keyref="documentation-made-easy">Documentation made easy</cite> and processed by
+                Google Lens.</desc>
+            <image keyref="google-lens-translate" id="image_vrb_sn3_kxb">
+                <alt>Catalog card taken from the digital version of the book Documentation made easy
+                    and processed by the Google Lens app.</alt>
+            </image>
+        </fig>
+        <fig id="fig_wrb_sn3_kxb" frame="all">
+            <title>The Web of Documents</title>
+            <desc>Abstract depiction of the web of documents based on a screen capture from the
+                teaching video <cite keyref="what-is-linked-data">What is Linked Data?</cite>, by
+                Manu Sporny. <ph keyref="dream-studio"/> The following prompt was used: Two web
+                pages, clearly labeled "The Web" at the top. The pages are linked by two arrows,
+                each labeled "link." The arrows start from a link region in one page and point to a
+                link region in the other. From the bottom arrow, a photorealistic mouse animal is
+                hanging by one arm.</desc>
+            <image keyref="web-of-documents" id="image_xrb_sn3_kxb">
+                <alt>Derivative image based on an illustration from the video What is Linked Data,
+                    by Manu Sporny. The top of the image is labeled The Web. The texture of the
+                    figures in the image is meant to look like modeling clay. There are two pages,
+                    each half cropped on the outer edge, with abstract figures and dashes, meant to
+                    look like web pages. From the left-hand page, an arrow with the label Link
+                    extends to the right-hand page. From the right-hand page, an arrow with the
+                    label link points to a window-like figure on the left-hand page. There is a
+                    ball-like shape in the middle of the image at the bottom.</alt>
+            </image>
+        </fig>
+        <fig id="fig_yrb_sn3_kxb" frame="all">
+            <title>Machine (Mis)understanding</title>
+            <desc>Abstract depiction of a robot unable to understand the meaning of a link, based on
+                a screen capture from the teaching video <cite keyref="what-is-linked-data">What is
+                    Linked Data?</cite>, by Manu Sporny. <ph keyref="dream-studio"/> The following
+                prompt was used: On the left, a web page with a link region highlighted. The region
+                is clearly labeled, "link." At the bottom, a photorealistic mouse animal pointing to
+                the page. On the right, a robot with a speech bubble that reads, "Say Whut?"</desc>
+            <image keyref="say-whut" id="image_zrb_sn3_kxb">
+                <alt>Derivative image based on an illustration from the video What is Linked Data,
+                    by Manu Sporny. The texture of the figures in the image is meant to look like
+                    modeling clay. On the left, there is a representation of a web page that is half
+                    cropped on the outer edge, with abstract figures and dashes, and the word Link
+                    in a circle in the lower right of the page. In the middle of the image, at the
+                    bottom, there is a small, abstract, cartoon-like figure gesturing toward the
+                    page. On the right of the image, a large cartoon-like robot is scratching its
+                    head, with a speech bubble that says, WHUT?</alt>
+            </image>
+        </fig>
+        <fig id="fig_asb_sn3_kxb" frame="all">
+            <title>Deconstructing the Web</title>
+            <desc>Abstract depiction of a web page being broken down into data, based on a screen
+                capture from the teaching video <cite keyref="what-is-linked-data">What is Linked
+                    Data?</cite>, by Manu Sporny. <ph keyref="dream-studio"/> The following prompt
+                was used: On the left, a web page with a chunk torn out of it. On the web page, a
+                link region highlighted. The region is clearly labeled, "link." On the bottom,
+                pieces of the deconstructed page. On the right, an excavator machine. Below it, two
+                photorealistic mouse animals directing the excavator.</desc>
+            <image keyref="deconstructing" id="image_bsb_sn3_kxb">
+                <alt>Derivative image based on an illustration from the video What is Linked Data,
+                    by Manu Sporny. The texture of the figures in the image is meant to look like
+                    modeling clay. On the left, there is a representation of a web page that is
+                    cropped on the outer edge, with abstract figures and dashes, and the word Link
+                    in a rectangle in the lower right of the page. There is a chunk that has been
+                    torn out of the middle right edge of the page. At the bottom of the image, in
+                    the middle, are three round shapes that may represent debris from the missing
+                    chunk. On the right, cropped off, two abstract human figures are visible
+                    standing under the arm and claw of an excavator construction vehicle.</alt>
+            </image>
+        </fig>
+        <fig id="fig_csb_sn3_kxb" frame="all">
+            <title>Machine Understanding</title>
+            <desc>Abstract depiction of structured data extracted from a web page, based on a screen
+                capture from the teaching video <cite keyref="what-is-linked-data">What is Linked
+                    Data?</cite>, by Manu Sporny. <ph keyref="dream-studio"/> The following prompt
+                was used: On the left, a network diagram with a central node labeled "thing" and
+                connected nodes labeled "name," "birthday," and "mood." At the bottom, a
+                photorealistic mouse animal with a speech bubble that reads, "now?", pointing to the
+                diagram. On the right, a happy robot with a speech bubble that reads,
+                "Oooooh."</desc>
+            <image keyref="machine-understanding" id="image_dsb_sn3_kxb">
+                <alt>Derivative image based on an illustration from the video What is Linked Data,
+                    by Manu Sporny. The texture of the figures in the image is meant to look like
+                    modeling clay. On the left, there is a representation of a simple graph diagram
+                    with a circular node in the middle that has a half-smiling cartoon face. From
+                    the center node, three edges extend on the right, with three circular nodes
+                    labeled (moving clockwise from the top), now, bithday (sic), and mood? Another
+                    edge extends on the left off the page. Below the diagram, there is a smiling
+                    white creature that may resemble a mouse. In the middle, at the bottom, is a
+                    small, animal-like, bluish cartoon figure with its arms raise and an empty
+                    speech bubble. On the right of the image, a large cartoon-like robot with a
+                    blank expression (large round eyes and a small dot for a mouth) has a speech
+                    bubble that says, Birthday?</alt>
+            </image>
+        </fig>
+        <fig id="fig_oyt_4gt_rxb" frame="all">
+            <title>Tweet by Adrian Gschwend (@linkedktk)</title>
+            <desc><cite keyref="common-crawl-tweet">Tweet by Adrian Gschwend</cite> citing
+                statistics from the Common Crawl showing that 50% of webpages include RDF
+                triples.</desc>
+            <image keyref="chat-gpt-common-crawl" id="image_pyt_4gt_rxb">
+                <alt>Tweet by Adrian Gschwend showing a screenshot of a table with statistics about
+                    websites in the Common Crawl corpus, showing that 1518609988 webpages (about 50%
+                    of the total) include RDF triples.</alt>
+            </image>
+        </fig>
+        <fig id="fig_esb_sn3_kxb" frame="all">
+            <title>ChatGPT's Snow White Problem</title>
+            <desc>Abstract image of Snow White from a <cite keyref="snow-white-problem">blog
+                    post</cite> by Oxford Semantic Technologies, generated using the DALL-E 2
+                model.</desc>
+            <image keyref="rdfox-chatgpt" id="image_fsb_sn3_kxb">
+                <alt>Abstract cartoon depiction of Snow White sitting at a laptop computer that has
+                    a red apple on top of the keyboard.</alt>
+            </image>
+        </fig>
+        <fig id="fig_k5q_2jg_sxb" frame="all">
+            <title>RDF Triple</title>
+            <desc>Simple illustration of the subject-predicate-object structure of RDF triples.
+                Example inspired by Bob DuCharme's blog post <cite keyref="what-is-rdf"/></desc>
+            <image keyref="rdf-triples" id="image_l5q_2jg_sxb">
+                <alt>Illustration of an RDF triple showing a subject labeled book1, a predicate
+                    labeled title, and an object labeled Cien años de soledad. Beneath each part of
+                    the triple is a corresponding data value: an example URI for the subject
+                    resource, the Dublin Core Terms URI for title, and the literal string value Cien
+                    años de soledad.</alt>
+            </image>
+        </fig>
+        <fig id="fig_m5q_2jg_sxb" frame="all">
+            <title>RDF Triples as a Graph</title>
+            <desc>Simple illustration of the subject-predicate-object structure of RDF triples using
+                a graph diagram. Example inspired by Bob DuCharme's blog post <cite
+                    keyref="what-is-rdf"/></desc>
+            <image keyref="rdf-graph" id="image_n5q_2jg_sxb">
+                <alt>Illustration of an RDF triple in a node-edge-node network diagram. Nodes are
+                    circles with the same pastel-orange color. The edge is an orange-colored arrows.
+                    The subject node on the left and is labeled book1; the edge arrow pointing from
+                    the subject node to a corrsponding object node is labeled creator in the center
+                    of the line. On the right, the object node is labeled person1. Beneath each part
+                    of the graph is a corresponding URI. The subject and object URIs are arbitrary
+                    example URIs, and the predicate URI is the Dublin Core Terms URI for
+                    creator.</alt>
+            </image>
+        </fig>
+        <fig id="fig_o5q_2jg_sxb" frame="all">
+            <title>RDF Triples as a Knowledge Graph</title>
+            <desc>Simple illustration of how RDF triples can connect to form a graph of
+                interconnected knowledge. Example inspired by Bob DuCharme's blog post <cite
+                    keyref="what-is-rdf"/></desc>
+            <image keyref="rdf-knowledge-graph" id="image_p5q_2jg_sxb">
+                <alt>A more complex illustration showing small network graph of give connected
+                    nodes. All nodes are circles with the same pastel-orange color. The edges are
+                    orange-colored arrows. On the left, there are two nodes, labeled book1 and
+                    book2. In the middle are three nodes that are the object of triples for which
+                    book1 and book2 are the subjects. Book1 has two edges, labeled language and
+                    creator. The language edge points to a node labeled lang1, which has an edge
+                    pointing to the literal value Español. The creator edge points to a node labeled
+                    person1, which, in turn, has an edge labeled first-name pointing to the value
+                    Gabriel and an edge labeled family-name pointing to the value García Márquez.
+                    Person1 also has an edge, labeled language, point to the node labeled lang1.
+                    Finally, book2 has two edges, creator and subject. The creator edge points to
+                    person1 and the subject edge points to another node, which is labeled
+                    concept1.</alt>
+            </image>
+        </fig>
+        <fig id="fig_q5q_2jg_sxb" frame="all">
+            <title>https://dle.rae.es/dato</title>
+            <desc>The <cite xml:lang="es">Diccionario de la lengua española</cite> of the Real
+                Academia Española embeds linked data in the page of each dictionary entry, using
+                terms from the Schema.org vocabulary.</desc>
+            <image keyref="dle-dato" id="image_r5q_2jg_sxb">
+                <alt>Screenshot of a cropped web browser window showing the highlighted URL of the
+                    webpage for entry in the Diccionario de la lengua española representing the word
+                    dato in Spanish, dle.rae.es/dato. The page shows the logo of the Real Academia
+                    Española.</alt>
+            </image>
+        </fig>
+        <!-- Using plain text representation instead of image.
+            
+        <fig frame="all" id="fig_brk_zqh_sxb">
+            <title>Semicolons in Turtle</title>
+            <desc>Use semicolons to repeat statements about the same subject.</desc>
+            <image keyref="turtle-semicolons" id="image_crk_zqh_sxb">
+                <alt>Turtle example with a single line showing two statements about the same subject
+                    using a semicolon.</alt>
+            </image>
+        </fig>
+        -->
+        <fig frame="all" id="fig_s1f_21n_sxb">
+            <title>From Spreadsheets to Triples</title>
+            <desc>Data in a spreadsheet is not self-documenting.</desc>
+            <image keyref="participants-spreadsheet" id="image_t1f_21n_sxb">
+                <alt>Excel spreadsheet showing a list of twenty fictional workshop participants
+                    (data was generated by ChatGPT 4.0). The spreadsheet has five columns: ID, Name,
+                    User, Inst, and Loc. It is annotated with three call-out boxes at the top, with
+                    arrows pointing to different parts of the spreadsheet. The first call-out points
+                    to the spreadsheet as a whole and asks the following questions: What's the
+                    context for this spreadsheet? Is it related to a system? The second call-out
+                    points to the Inst column and asks the following questions: Institution? What is
+                    the relationship between Person and Institution? Finally, the third call-out
+                    points to the Loc column and asks the following questions: Does Loc mean
+                    Location? Is it the location of the Institution or the Person?</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_mkm_ccn_sxb">
+            <title>RDF Schema</title>
+            <desc>Overview of RDFS Classes and Properties</desc>
+            <image keyref="rdfs-diagram" id="image_nkm_ccn_sxb">
+                <alt>Network diagram showing the main classes and properties defined in the RDF
+                    Schema vocabulary.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_ccr_hjb_txb">
+            <title>Describing Individuals</title>
+            <desc>Diagram showing the model for recording information about an individual stamp on a
+                book held by Yale University Library. This example references the Art and Rare
+                Materials (ARM) ontology, which builds on BIBFRAME to support detailed described of
+                rare materials and special collections.</desc>
+            <image keyref="arm-example" id="image_dcr_hjb_txb">
+                <alt>Network diagram showing a BIBFRAME Item marked by a Stamp, with a Contribution
+                    by Yale University Library with a Role of owner and a date of 1945-01-04.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_vmd_m2n_sxb">
+            <title>Domain and Range</title>
+            <desc>The domain of a property defines the class it starts from, whereas the range
+                defines the class it points to.</desc>
+            <image keyref="domain-range" id="image_wmd_m2n_sxb">
+                <alt>Simple network diagram showing two nodes (Domain on the left and Range on the
+                    right) linked by an edge labeled Property.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_jtn_td5_sxb">
+            <title>BIBFRAME Landscape</title>
+            <desc>BIBFRAME's relationship to other metadata standards</desc>
+            <image keyref="bf-landscape" id="image_ktn_td5_sxb">
+                <alt>Network diagram showing the relationship between BIBFRAME and other metadata
+                    standards. The diagram depicts a graph that starts with a square node labeled
+                    BIBFRAME on the left, with edges depicting relationships to OWL, RDA, MARC 21,
+                    RDF, AACR2, and IFLA LRM. The relationships are as follows: BIBFRAME uses RDF,
+                    uses in part OWL, codifies RDA, replaces and translates MARC 21, and is inspired
+                    by IFLA LRM. Other nodes also have relationships: OWL formalizes RDF; RDA uses
+                    in part RDF, replaces AACR2, and implements IFLA LRM.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_wrl_1f1_txb">
+            <title>BIBFRAME 1.0</title>
+            <desc>The 1.0 version of BIBFRAME was based on two main classes: Work and Instance.
+                Items in BIBFRAME 1.0 were represented as Annotations.</desc>
+            <image keyref="bf-1" id="image_xrl_1f1_txb">
+                <alt>Network diagram showing a high-level overview of the BIBFRAME 1.0 model,
+                    divided between Work and Instance.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_yrl_1f1_txb">
+            <title>BIBFRAME 2.0</title>
+            <desc>The 2.0 version of BIBFRAME added new classes for Item and Event, among
+                others.</desc>
+            <image keyref="bf-2" id="image_zrl_1f1_txb">
+                <alt>Network diagram showing a high-level overview of the BIBFRAME 2.0 model,
+                    divided among Work, Instance, and Item.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_amn_tt1_txb">
+            <title>BIBFRAME Patterns: Work, Instance, Item</title>
+            <desc>BIBFRAME can accommodate the IFLA Library Reference Model (LRM), and by extension
+                RDA, by allowing us to make distinctions among Work, Expression, Manifestation
+                (Instance in BIBFRAME) and Item.</desc>
+            <image keyref="bf-graph" id="image_bmn_tt1_txb">
+                <alt>Network diagram showing an example BIBFRAME model for the work Their Eyes Were
+                    Watching God, by Zora Neale Hurston. The diagram shows the relationships among
+                    Work, Expression, Manifestation (Instance in BIBFRAME) and Item.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_cmn_tt1_txb">
+            <title>BIBFRAME Patterns: Contribution</title>
+            <desc>BIBFRAME has a generic pattern for modeling contributions to any resource.</desc>
+            <image keyref="bf-patterns-contribution" id="image_dmn_tt1_txb">
+                <alt>Network diagram showing an example BIBFRAME model for contributors to an
+                    inscription. The Inscription class comes from the ARM ontology. One contribution
+                    is defined with role giver and agent Zora Neale Hurston (Person), and another is
+                    defined with role receiver and agent Carl Van Vechten (Person).</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_emn_tt1_txb">
+            <title>BIBFRAME Patterns: Title</title>
+            <desc>BIBFRAME has a generic pattern for modeling titles.</desc>
+            <image keyref="bf-patterns-title" id="image_fmn_tt1_txb">
+                <alt>Network diagram showing an example BIBFRAME model for a Title. The diagram
+                    shows a BIBFRAME Instance URI with a title relation to a Title node that, for
+                    its part, has values for main title and subtitle.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_gmn_tt1_txb">
+            <title>BIBFRAME Patterns: Provision (Publication)</title>
+            <desc>BIBFRAME has a generic pattern for modeling how an instance was <i>provided</i> or
+                circulated.</desc>
+            <image keyref="bf-patterns-provision" id="image_hmn_tt1_txb">
+                <alt>Network diagram showing an example BIBFRAME model for a Provision Activity
+                    (subclass Publication). The diagram shows a place relation to a URI representing
+                    Italy, as well as three BFLC extension properties for the simple string values
+                    extracted from the MARC source data.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_imn_tt1_txb">
+            <title>From MARC 21 to BIBFRAME</title>
+            <desc>A single MARC bibliographic record includes fields that map to different levels of
+                the BIBFRAME semantic model (ontology).</desc>
+            <image keyref="marc-to-bf" id="image_jmn_tt1_txb">
+                <alt>Diagram showing the BIBFRAME 2.0 model on the left and slivers of MARC 21
+                    bibliographic fields on the right (fields 130, 245, 260, and 300). Arrows extend
+                    from the fields to the BIBFRAME 2.0 entities to which they correspond: 130 maps
+                    to Work; 245 maps to Work and Instance; 260 maps to Instance; 300 maps to
+                    Instance and Item.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_kmn_tt1_txb">
+            <title>From Spreadsheets to Triples</title>
+            <desc>Using tools such as Tarql (SPARQL for Tables), we can transform data in spreadsheets
+                into RDF triples, leveraging a semantic schema or ontology.</desc>
+            <image keyref="spreadsheets-to-triples" id="image_lmn_tt1_txb">
+                <alt>Excel spreadsheet showing a list of twenty fictional workshop participants
+                    (data was generated by ChatGPT 4.0). The spreadsheet has five columns: ID, Name,
+                    User, Inst, and Loc. It is annotated with three call-out boxes at the top, with
+                    arrows pointing to different parts of the spreadsheet. The first call-out points
+                    to the spreadsheet as a whole and asks the following questions: What's the
+                    context for this spreadsheet? Is it related to a system? The second call-out
+                    points to the Inst column and asks the following questions: Institution? What is
+                    the relationship between Person and Institution? Finally, the third call-out
+                    points to the Loc column and asks the following questions: Does Loc mean
+                    Location? Is it the location of the Institution or the Person? For highlighting
+                    purposes, three black boxes have been overlaid on the spreadsheet: one is drawn
+                    around the Inst header, one around a value in the ID column, and one around a
+                    value in the Inst column. Finally, a large text box overlay covers the bottom
+                    part of the spreadsheet and shows two triples: person worksFor organization and
+                    organization name Universidade de Chile.</alt>
+            </image>
+        </fig>
+        <fig frame="all" id="fig_trh_4bb_txb">
+            <title>LUX: Illuminating the Collections of Yale's Museums, Libraries, and Archives via
+                Linked Open (Usable) Data</title>
+            <desc>Title slide from a presentation given by Timothy Thompson and Robert Sanderson at the
+                2021 LD4 Conference.</desc>
+            <image keyref="lux-presentation-screenshot" id="image_urh_4bb_txb">
+                <alt>Screenshot of the title slide from the presentation LUX: Illuminating the
+                    Collections of Yale's Museums, Libraries, and Archives via Linked Open (Usable)
+                    Data, given by Timothy Thompson and Robert Sanderson the 2021 LD4
+                    Conference.</alt>
+            </image>
+        </fig>
+
+
+    </body>
+</topic>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningPlan.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningPlan id="ontologies_and_competency_questions_learning_plan-Copy">
+    <title>Learning Plan</title>
+    <shortdesc>Learning plan for an introductory lesson on ontologies and semantic data
+        modeling.</shortdesc>
+    <prolog>
+        <author type="creator">Timothy Thompson, Yale University</author>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+        </critdates>
+        <metadata>
+            <keywords>
+                <indexterm>Ontologies
+                    <indexterm>Applied ontology</indexterm>
+                    <indexterm>Competency questions</indexterm>
+                </indexterm>
+            </keywords>
+        </metadata>
+        <lcLom>
+            <lomTypicalLearningTime name="minutes" value="30">30 minutes</lomTypicalLearningTime>
+        </lcLom>
+    </prolog>
+    <learningPlanbody>
+        <lcProject>
+            <title><ph keyref="project-title"/></title>
+            <lcClient>
+                <p><ph keyref="client"/></p>
+            </lcClient>
+            <lcPlanTitle>
+                <p>Lesson 4: Introduction to Ontologies and Competency Questions</p>
+            </lcPlanTitle>
+            <lcDelivDate>
+                <p>May 10, 2023</p>
+            </lcDelivDate>
+            <lcPlanSubject>
+                <title>Focus</title>
+                <p>This lesson will focus on developing a methodology for defining semantic models.
+                    It will incorporate structures provided by the RDF Schema standard.</p>
+            </lcPlanSubject>
+            <lcPlanDescrip>
+                <title>Overview</title>
+                <p>In this lession, participants will be challenged to apply RDF Schema (RDFS)
+                    concepts to the task of developing a domain model for library information
+                    resources. Participants will be introduced to the concept of applied ontology
+                    and will be challenged to think holistically about knowledge organization and
+                    representation.</p>
+            </lcPlanDescrip>
+            <lcPlanPrereqs>
+                <title>Prerequisites</title>
+                <p>As preparation for this lesson, participants will have understood the basics of
+                    the RDF model and syntax and RDFS concepts such as Resource, Class, Property,
+                    and Literal.</p>
+            </lcPlanPrereqs>
+        </lcProject>
+        <lcIntervention>
+            <title>Instruction and Activities</title>
+            <lcInterventionItem>
+                <lcLearnStrat>Gain learner attention and provide motivation for the topic of
+                    ontologies and why they are relevant in the context of library metadata. </lcLearnStrat>
+                <lcPlanObjective>The goal of instruction is to define what an ontology is and give
+                    concrete examples, while preparing learners for the competency questions
+                    activity.</lcPlanObjective>
+                <lcAssessment>Check for comprehension of content with a brief quiz.</lcAssessment>
+                <lcDelivery>Content will be delivered in lecture format. Define what an ontology is,
+                    provide examples, and introduce the idea of competency questions in the context
+                    of domain modeling methodology.</lcDelivery>
+            </lcInterventionItem>
+            <lcInterventionItem>
+                <lcLearnStrat>Participants will use inductive reasoning to develop a set of
+                    competency questions for a domain ontology about library information
+                    resources.</lcLearnStrat>
+                <lcPlanObjective>They will define the scope and requirements of the ontology and
+                    identify key concepts and terminology.</lcPlanObjective>
+                <lcAssessment>The activity will be assessed through group discussion and
+                    reflection.</lcAssessment>
+                <lcDelivery>Participants will work in groups of four to five people. They will
+                    brainstorm competency questions, write them on Post-it notes, and organize the
+                    questions into meaningful groups.</lcDelivery>
+            </lcInterventionItem>
+        </lcIntervention>
+
+    </learningPlanbody>
+</learningPlan>

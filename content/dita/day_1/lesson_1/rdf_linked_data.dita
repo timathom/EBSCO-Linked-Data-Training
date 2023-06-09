@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_linked_data">
+    <title>RDF/Linked Data</title>
+    <shortdesc/>
+    <prolog>        
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_q5q_2jg_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="rdf_linked_data_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul id="ul_l4r_pkg_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">In linked data, we identify resources on the web using the
+                                technology that runs the web itself: the Hypertext Transfer Protocol
+                                (HTTP).</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">By identifying resources with HTTP URIs (which can also be
+                                URLs), we can publish, interlink, and share data on the web.</p>
+                        </li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_schema_overview">
+    <title>Overview of RDF Schema</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+          <fig conkeyref="figures-key/fig_mkm_ccn_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="learningSummary_f1j_31n_sxb">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview id="lcReview_tbz_31n_sxb">
+                <p>
+                    <ul id="ul_zl1_gcn_sxb">
+                        <li>With RDFS, we can begin to define hierarchies of classes and
+                            properties.</li>
+                        <li>The Web Ontology Language (OWL) builds on these basic features and adds
+                            much more advanced functionality.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+    
+</learningContent>

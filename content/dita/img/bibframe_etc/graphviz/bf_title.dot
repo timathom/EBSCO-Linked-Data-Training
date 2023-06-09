@@ -1,0 +1,19 @@
+digraph G {
+    
+    fontname=Helvetica;
+    node [fontsize=20, style=filled, color=lightblue3, shape=Mrecord, fontname=Helvetica, margin="0.2,0.2", penwidth=2];
+    edge [color=orange2];
+
+    "A" [label="http://example.org/5607075#Instance", penwidth=0];
+    "B" [label="bf:Title", penwidth=0];
+    "C" [label="http://example.org/5607075#Work", penwidth=0];
+    "D" [label="Grande atlante geografico", shape=box];
+    "E" [label="102 tavole di geografia fisica, politica ed economica con 250 carte e cartine ed indice dei nomi", shape=box];
+    "F" [label="Edito sotto gli auspici del Ministero ...", shape=box];
+  
+    "A" -> "B" [label="bf:title"];
+    "A" -> "C" [label="bf:instanceOf"];
+    "A" -> "F" [label="bf:responsibilityStatement"];
+    "B" -> "D" [label="bf:mainTitle"];
+    "B" -> "E" [label="bf:subtitle"];
+}

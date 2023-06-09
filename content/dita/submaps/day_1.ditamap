@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 1</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Suggested Schedule for Day 1</navtitle>
+            </topicmeta>
+            <learningContentRef href="../day_1/suggested_schedule.dita"/>
+        </learningObject>
+        <!-- Lesson 0: Introduction and Overview: Why Is Linked Data Important? -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Introduction and Overview: Why Is Linked Data Important?</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training. 
+                <learningPlanRef href="../day_1/lesson_0/introduction_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_0/what_is_linked_open_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/what_is_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/is_this_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_deluge.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_mining.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_reading.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_translating.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_semantics.dita"/>
+            <learningContentRef href="../day_1/lesson_0/the_web.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_misunderstanding.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_semantics_2.dita"/>
+            <learningContentRef href="../day_1/lesson_0/deconstructing_the_web.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_understanding.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_understanding_2.dita"/>
+            <learningContentRef href="../day_1/lesson_0/chatgpt_limits_and_possibilities.dita"/>
+            <learningContentRef href="../day_1/lesson_0/semantic_web_won.dita"/>
+            <learningContentRef href="../day_1/lesson_0/snow_white_problem.dita"/>
+            <learningContentRef href="../day_1/lesson_0/chatgpt_limits_and_possibilities_2.dita"/>
+        </learningObject>
+        <!-- Lesson 1: RDF, the Basics -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>RDF: the Basics</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_1/rdf_basics_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_1/five_star_linked_data.dita"/>
+            <learningContentRef href="../day_1/lesson_1/linked_data_standards.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_is_a_graph.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_is_a_knowledge_graph.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data_2.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data_3.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_5.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_6.dita">
+                <learningContentComponentRef href="../day_1/lesson_1/json-ld.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_1/json-ld_2.dita"/>
+            </learningContentRef>
+        </learningObject>
+        <!-- Lesson 2: RDF, Continued -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>RDF, Continued</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_2/rdf_continued_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_2/learning_turtle.dita">
+                <learningContentComponentRef href="../day_1/lesson_2/prefixes.dita">
+                    <learningContentComponentRef href="../day_1/lesson_2/base.dita"/>
+                </learningContentComponentRef>
+                <learningContentComponentRef href="../day_1/lesson_2/semicolons.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_2/commas.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_2/typed_literals.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_2/blank_nodes.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_2/lists.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_2/type.dita"/>
+            </learningContentRef>
+        </learningObject>
+        <!-- Lesson 3: Ontology Development and Competency Questions -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Ontology Development and Competency Questions</navtitle>
+            </topicmeta>
+            
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_3/ontologies_and_competency_questions_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_3/what_is_an_ontology.dita"/>
+            <learningContentRef href="../day_1/lesson_3/ontology_design.dita"/>
+            <learningContentRef href="../day_1/lesson_3/ontology_design_2.dita"/>
+            <learningContentRef href="../day_1/lesson_3/from_spreadsheets_to_schemas.dita"/>
+            <learningContentRef href="../day_1/lesson_3/activity_competency_questions.dita"/>
+        </learningObject>
+        <!-- Lesson 4: Ontologies and Semantic Data Modeling -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Ontologies and Semantic Data Modeling</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_4/ontology_development_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_4/rdf_schema.dita"/>
+            <learningContentRef href="../day_1/lesson_4/rdf_schema_overview.dita"/>
+            <learningContentRef href="../day_1/lesson_4/classes.dita"/>
+            <learningContentRef href="../day_1/lesson_4/classes_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/properties.dita"/>
+            <learningContentRef href="../day_1/lesson_4/properties_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/individuals.dita"/>
+            <learningContentRef href="../day_1/lesson_4/individuals_examples.dita"/>
+            <learningContentRef href="../day_1/lesson_4/domain_and_range.dita"/>
+            <learningContentRef href="../day_1/lesson_4/domain_and_range_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/ontologies_and_controlled_vocabularies.dita"/>
+            <learningContentRef href="../day_1/lesson_4/from_spreadsheets_to_schemas_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_3.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_4.dita"/>        
+        </learningObject>
+        <!-- Lesson 5: Semantic Models for Libraries: BIBFRAME -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Semantic Models for Libraries: BIBFRAME</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_5/topic_1/bibframe_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_in_the_metadata_landscape.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/brief_history_of_bibframe.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model_2.dita"/>
+            <learningContentRef
+                href="../day_1/lesson_5/topic_1/bibframe_patterns_work_instance_item.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_patterns_contribution.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_patterns_title.dita"/>
+            <learningContentRef
+                href="../day_1/lesson_5/topic_1/bibframe_patterns_provision_publication.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/from_marc_to_bibframe.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_ecosystem.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/cataloging_activity.dita"/>
+        </learningObject>
+        <!-- 
+            In an earlier version, separate modules were envisioned for MADS/RDF and Library of Congress Vocabularies.
+            This might be a possibility for expansion in the future.
+            
+            <learningGroupMapRef href="semantic_models_for_libraries.ditamap" format="ditamap"/>
+        -->
+    </learningGroup>
+</learningGroupMap>

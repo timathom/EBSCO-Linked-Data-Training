@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="classes_2">
+    <title>Classes: Examples</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <table id="table_dtj_tcn_sxb">
+                <tgroup cols="1">
+                    <colspec colnum="1" colwidth="760px" colname="col1"/>
+                    <tbody>
+                        <row>
+                            <entry dir="ltr"><b>Contribution</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><b>Item</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><b>Organization</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><b>Role</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><b>Stamp</b></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </lcInstruction>
+    </learningContentbody>
+
+
+</learningContent>

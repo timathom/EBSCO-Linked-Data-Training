@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng:2.x" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="json-ld">
+    <title>JSON-LD</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>Here is the JSON-LD that is embedded in the HTML page representing the dictionary entry
+            for <term>dato</term> in the <cite>Diccionario de la lengua española</cite>:</p>
+        <codeblock id="codeblock_gt2_zpg_sxb">[
+  {"@context": "http://schema.org/"},
+  {
+    "@type": [
+      "DefinedTermSet",
+      "Book"
+    ],
+    "@id": "https://dle.rae.es/",
+    "name": "Diccionario de la lengua española RAE - ASALE",
+    "image": "https://dle.rae.es/app/doc/es/img/dle.jpg",
+    "description": "Versión electrónica 23.6 del «Diccionario de la lengua española», obra lexicográfica académica pozr excelencia."
+  },
+  {
+    "@type": "DefinedTerm",
+    "@id": "https://dle.rae.es/dato",
+    "name": "dato",
+    "description": "1. m. Información sobre algo concreto que permite su conocimiento exacto o sirve para deducir las consecuencias derivadas de un hecho. A este problema le faltan datos numéricos.",
+    "inDefinedTermSet": "https://dle.rae.es/"
+  }
+]</codeblock>
+    </conbody>
+</concept>

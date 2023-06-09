@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="activity_card_sorting_3">
+    <title>Activity: Card Sorting, Part 3</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ol id="ol_hp3_pxt_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">Look through the third document, with labeled cards representing
+                        the Library of Congress Name Authority record for Gabriel García Márquez
+                        ("Authority Record Labeled").</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Write down additional categories.</p>
+                </li>
+            </ol>
+        </lcInstruction>
+    </learningContentbody>
+    <related-links>
+        <link
+            href="../../resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf"
+            format="pdf" scope="local"><linktext>Authority Record Labeled</linktext></link>
+    </related-links>
+
+
+
+</learningContent>

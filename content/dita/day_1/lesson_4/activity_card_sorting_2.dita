@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="activity_card_sorting_2">
+    <title>Activity: Card Sorting, Part 2</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ol id="ol_qdq_mxt_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">Now look through the labeled version ("Bibliographic Record
+                        Labeled") of the same cards.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Does anything else stand out to you?</p>
+                </li>
+            </ol>
+        </lcInstruction>
+    </learningContentbody>
+    
+    <related-links>
+        <link
+            href="../../resources/activities/card_sorting_activity/card_sort_activity_bib_labeled.pdf"
+            format="pdf" scope="local"><linktext>Bibliographic Record Labeled</linktext></link>    
+    </related-links>
+    
+    
+
+
+
+</learningContent>

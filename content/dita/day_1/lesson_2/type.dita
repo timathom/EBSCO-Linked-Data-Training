@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="type">
+    <title>Type</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <ul id="ul_dgx_t5h_sxb">
+                <li>Finally, Turtle defines a shortcut expression for the built-in RDF predicate
+                            <codeph><term>rdf:type</term></codeph>.</li>
+                <li>In Turtle, we can use the word <codeph>a</codeph> instead of
+                        <codeph>rdf:type</codeph>.</li>
+                <li>That way, it reads almost like an English sentence: <codeph>&lt;alicia> a
+                        foaf:Person</codeph>.</li>
+            </ul>
+            <note id="note_ddk_dvh_sxb"><codeph>rdf:type</codeph> is an important predicate because
+                it allows us to say what kind of thing an entity is (what <b>class</b> of things it
+                belongs to).</note>
+        </p>
+    </conbody>
+</concept>

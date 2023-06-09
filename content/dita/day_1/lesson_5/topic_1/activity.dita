@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+
+<!-- 
+Rather, its purpose is to introduce participants to semantic data modeling procedures and prepare them to analyze and understand the Library of Congress BIBFRAME ontology.
+-->
+
+<learningContent id="card_sort_activity_rdf_linked_data">
+    <title>Card Sort Activity: Introduction to Semantic Data Modeling</title>
+    <shortdesc>This card sort activity introduces participants to semantic data modeling procedures and prepares them for a deeper dive into the Library of Congress BIBFRAME ontology.</shortdesc>
+    <learningContentbody>
+        <section>
+            <title>Activity Objectives</title>
+            <ul>
+                <li>Introduce participants to semantic data modeling procedures.</li>
+                <li>Prepare participants for a deeper understanding of the Library of Congress BIBFRAME ontology.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Instructions</title>
+            <ol>
+                <li>Distribute the pre-prepared cards with example data from MARC Bibliographic, Holdings, and Authority records among the participants.</li>
+                <li>Ask the participants to sort the cards into categories based on the semantic relationships between the fields.</li>
+                <li>Allow the participants to discuss and collaborate as they sort the cards, considering how the relationships between the fields could be represented in RDF triples and linked data.</li>
+                <li>Once the participants have finished sorting the cards, review the card groupings as a group, discussing the thought process behind each semantic relationship.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Sample Cards</title>
+            <p>Here are some examples of cards with example data from MARC records:</p>
+            <ul>
+                <li>Bibliographic: 245 - Title Statement - "The Catcher in the Rye"</li>
+                <li>Holdings: 852 - Location - "Main Library, 3rd Floor"</li>
+                <li>Authority: 100 - Heading - Personal Name - "Salinger, J.D."</li>
+            </ul>
+        </section>
+        <section>
+            <title>Discussion</title>
+            <p>After completing the card sort activity, facilitate a group discussion to encourage participants to share their insights and experiences. This will provide an opportunity for everyone to reflect on the activity and deepen their understanding of semantic data modeling. Possible discussion questions include:</p>
+            <ul>
+                <li>What challenges did you encounter while sorting the cards based on semantic relationships?</li>
+                <li>How did this activity change your perspective on cataloging and metadata practices?</li>
+                <li>What insights did you gain about semantic data modeling that could be useful for understanding the BIBFRAME ontology in the future?</li>
+            </ul>
+        </section>
+    </learningContentbody>
+</learningContent>

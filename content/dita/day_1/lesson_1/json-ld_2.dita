@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng:2.x" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="json-ld_2">
+    <title>JSON-LD Syntax</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p dir="ltr">In the code, we can note the following:</p>
+        <ul id="ul_m2g_yqg_sxb">
+            <li dir="ltr">
+                <p dir="ltr">The context is declared as <codeph>{"@context":
+                            "<xref href="http://schema.org/" format="html" scope="external"
+                                ><u>http://schema.org/</u></xref>"}</codeph>, which means that the terms
+                    are taken from the Schema.org vocabulary.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">The resource <xref href="https://dle.rae.es/dato" format="html"
+                        scope="external"><u>https://dle.rae.es/dato</u></xref> is declared to be of
+                    the type <xref href="http://schema.org/DefinedTerm" format="html"
+                        scope="external"><u>http://schema.org/DefinedTerm</u></xref>.</p>
+            </li>
+            <li dir="ltr">
+                <p dir="ltr">It is related to <xref href="https://dle.rae.es/" format="html"
+                        scope="external"><u>https://dle.rae.es/</u></xref>, which is a <xref
+                        href="http://schema.org/DefiniedTermSet" format="html" scope="external"
+                            ><u>http://schema.org/DefiniedTermSet</u></xref>.</p>
+            </li>
+        </ul>
+    </conbody>
+</concept>

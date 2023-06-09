@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE learningGroupMap PUBLIC "-//OASIS//DTD DITA Learning Group Map//EN" "learningGroupMap.rng">
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+  <title>Empowering Global Leaders: A Linked Data Training Program for Library Innovation</title>
+  <topicmeta>
+    <author type="creator">Timothy A. Thompson | @timathom[@indieweb.social]</author>
+    <author type="contributor">EBSCO Information Services</author>
+    <copyright>
+      <copyryear year="2023"/>
+      <copyrholder>Timothy A. Thompson, EBSCO Information Services LLC. This work is licensed under
+        a Creative Commons Attribution 4.0 International License (CC-BY).</copyrholder>
+    </copyright>
+    <critdates>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-04"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-05"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-06"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-08"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-09"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-05-30"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-04"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-05"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-06"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-07"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-08"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-09"/>
+    </critdates>
+  </topicmeta>
+  <learningGroup collection-type="sequence">
+    <learningObject collection-type="sequence">      
+      <learningContentRef href="attribution.dita"/>      
+    </learningObject>
+    <!-- Day 1 -->
+    <learningGroupMapRef href="submaps/day_1.ditamap" format="ditamap"/>
+    <!-- Day 2 -->
+    <learningGroupMapRef href="submaps/day_2.ditamap" format="ditamap"/>
+    <learningObjectMapRef href="submaps/course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+  </learningGroup>
+</learningGroupMap>

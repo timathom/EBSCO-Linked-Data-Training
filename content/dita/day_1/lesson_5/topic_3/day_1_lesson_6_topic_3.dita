@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="untitled10">
+    <title>Day 1, Lesson 6, Topic 3</title>
+    <shortdesc>Debugging</shortdesc>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>Content</p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

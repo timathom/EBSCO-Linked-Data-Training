@@ -1,0 +1,77 @@
+# http://www.graphviz.org/content/cluster
+
+digraph Grafo {
+    #rankdir=LR
+    fontname=Arial;
+    graph [nodesep=0.8];
+    node [
+      fontsize=20
+      shape=Mrecord
+      fontname=Arial
+      margin="0.2,0.2"
+    ];
+    edge [
+
+    ];
+
+	subgraph cluster_item {
+		node [style=filled, color="lightblue3"];
+		item -> sello [xlabel="arm:markedBy ", minlen=2];
+		sello -> contrib [xlabel="bf:contribution ", minlen=2];
+		contrib -> org [xlabel="bf:agent "];
+		contrib -> fecha [xlabel="bf:date "];
+		contrib -> rol [xlabel="bf:role "]
+		color = none;
+	}
+
+
+	org [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Organization</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Yale University. Library</td>
+	    </tr>
+	  </table>
+	  >]
+    fecha [label="1945-01-04" shape="record" fill = "none"]
+    #valor [label="Yale University Jan 4 1945 Library" shape="record" fill = "none"]
+	contrib [label=<
+	  <b>bf:Contribution</b>
+	  >]
+	rol [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Role</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">owner</td>
+	    </tr>
+	  </table>
+	>]
+
+	item [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Item</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">copy in hand</td>
+	    </tr>
+	  </table>
+	  >]
+
+	sello [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>arm:Stamp</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Yale University Jan 4 1945 Library</td>
+	    </tr>
+
+	  </table>
+	  > color="orange2"]
+
+}

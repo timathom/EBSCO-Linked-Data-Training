@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="commas">
+    <title>Commas</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>We can repeat objects for the same predicate using commas.</p>
+        <p>
+            <codeblock>@base &lt;https://metadatafram.es/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+
+&lt;alicia> foaf:name "Alicia" , "Al" .</codeblock>
+        </p>
+    </conbody>
+</concept>

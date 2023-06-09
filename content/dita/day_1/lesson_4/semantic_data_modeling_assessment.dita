@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningAssessment.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningAssessment id="semantic_data_modeling_assessment">
+    <title>Semantic Data Modeling Assessment</title>
+    <shortdesc>This assessment tests participants' understanding of semantic data modeling concepts and their ability to analyze a domain semantically and categorize data accurately.</shortdesc>
+    <learningAssessmentbody>
+        <lcInteraction>
+            <lcSingleSelect2>
+                <lcQuestion2>What is the primary goal of semantic data modeling?</lcQuestion2>
+                <lcAnswerOptionGroup2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Optimizing database performance</lcAnswerContent2>
+                        <lcFeedback2>While database performance is important, the primary goal of semantic data modeling is to represent the meaning and relationships of data in a domain.</lcFeedback2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Creating standardized data structures</lcAnswerContent2>
+                        <lcFeedback2>Standardized data structures can be a benefit of semantic data modeling, but the primary goal is to represent the meaning and relationships of data in a domain.</lcFeedback2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Representing the meaning and relationships of data in a domain</lcAnswerContent2>
+                        <lcCorrectResponse2/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Reducing data redundancy</lcAnswerContent2>
+                        <lcFeedback2>Reducing data redundancy can be an outcome of semantic data modeling, but the primary goal is to represent the meaning and relationships of data in a domain.</lcFeedback2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+            <lcTrueFalse2>
+                <lcQuestion2>True or False: Semantic data modeling focuses on the structure of data rather than its meaning and relationships.</lcQuestion2>
+                <lcAnswerOptionGroup2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>True</lcAnswerContent2>
+                        <lcFeedback2>False. Semantic data modeling primarily focuses on the meaning and relationships of data in a domain, rather than its structure.</lcFeedback2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>False</lcAnswerContent2>
+                        <lcCorrectResponse2/>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcTrueFalse2>
+            <lcSingleSelect2>
+                <lcQuestion2>Which of the following is an important aspect of semantic data modeling when analyzing a domain and categorizing data?</lcQuestion2>
+                <lcAnswerOptionGroup2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Identifying and defining key concepts and entities</lcAnswerContent2>
+                        <lcCorrectResponse2/>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Using the most popular database management system</lcAnswerContent2>
+                        <lcFeedback2>Choosing a popular database management system is not as important as identifying and defining key concepts and entities for semantic data modeling.</lcFeedback2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Minimizing the number of relationships between entities</lcAnswerContent2>
+                        <lcFeedback2>Minimizing the number of relationships between entities is not as important as capturing the complex and rich connections between entities in a domain.</lcFeedback2>
+                    </lcAnswerOption2>
+                    <lcAnswerOption2>
+                        <lcAnswerContent2>Replicating existing data models</lcAnswerContent2>
+                        <lcFeedback2>Replicating existing data models may not accurately capture the meaning and relationships of data in a particular domain.</lcFeedback2>
+                    </lcAnswerOption2>
+                </lcAnswerOptionGroup2>
+            </lcSingleSelect2>
+            <lcOpenQuestion2>
+                <lcQuestion2>Explain how semantic data modeling can help represent the complexity of relationships between entities in a library catalog more accurately than traditional cataloging practices.</lcQuestion2>
+            </lcOpenQuestion2>
+        </lcInteraction>
+    </learningAssessmentbody>
+</learningAssessment>

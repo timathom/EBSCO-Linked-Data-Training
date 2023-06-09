@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="chatgpt_limits_and_possibilities_2">
+    <title>ChatGPT: Limits and Possbilities</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p><ul id="ul_drd_4ht_rxb">
+                    <li dir="ltr">
+                        <p dir="ltr">ChatGPT has undoubtedly already benefited from structured data
+                            on the web.</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">However, what does it really understand?</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">How can we verify its output?</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">In the end, we still need <b>knowledge</b>, not just
+                            probability.</p>
+                    </li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

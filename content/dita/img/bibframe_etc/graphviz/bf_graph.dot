@@ -1,0 +1,144 @@
+# http://www.graphviz.org/content/cluster
+
+digraph Grafo {
+    #rankdir=LR
+    fontname=Arial;
+    node [
+      fontsize=20
+      shape=Mrecord
+      fontname=Arial
+      margin="0.4,0.2"
+    ];
+
+	subgraph cluster_superobra {
+
+		node [style=filled, color="lightsalmon"];
+		super -> contrib [xlabel="bf:contribution"]
+		contrib -> pers [xlabel="bf:agent"];
+		contrib -> rol [xlabel="bf:role"];
+		super -> super2 [xlabel="bf:hasDerivative"];
+		#super -> super3 [label="derivado"];
+		#label = "Superobra";
+		color = none;
+	}
+
+	subgraph cluster_obra {
+
+		node [style=filled, color="peru"];
+		#super -> obra [xlabel="expression"];
+		super -> obra2 [xlabel="bf:hasExpression"];
+		#super -> obra3 [xlabel="expression"];
+		#label = "Work";
+		color = none;
+	}
+
+	subgraph cluster_manif {
+		node [style=filled, color="lightblue2"];
+		#obra -> manif [xlabel="manifestation"];
+		#obra -> manif2 [xlabel="manifestation"];
+		obra2 -> manif3 [xlabel="bf:hasInstance"];
+		#label = "Manifestation";
+		color = none;
+	}
+
+	subgraph cluster_item {
+		node [style=filled, color="lightblue3"];
+		#manif -> item [xlabel="item"];
+		#manif2 -> item2 [xlabel="item"];
+		manif3 -> item [xlabel="bf:hasItem"];
+		#label = "Item";
+		color = none;
+	}
+
+
+	pers [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Person</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Hurston, Zora Neale</td>
+	    </tr>
+	  </table>
+	  >]
+	contrib [label=<
+	  <b>bf:Contribution</b>
+	  >]
+	rol [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Role</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">author</td>
+	    </tr>
+	  </table>
+	>]
+	super [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Work</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Their eyes were watching God <b>[Text]</b></td>
+	    </tr>
+	  </table>
+	  >]
+	super2 [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Work</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Their eyes were watching God <b>[Motion picture]</b></td>
+	    </tr>
+	  </table>
+	  >]
+	#super3 [label=<
+	#  <table border="0">
+	#    <tr>
+	#      <td><b>Superwork/Opus</b></td>
+	#    </tr>
+	#    <tr>
+	#      <td align="left">Alive [Soundtrack]</td>
+	#    </tr>
+	#  </table>
+	#  >]
+
+    obra2 [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Work</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Their eyes were watching God <b>[Text in English]</b></td>
+	    </tr>
+	  </table>
+	  >]
+
+
+    manif3 [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Instance</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">Their eyes were watching God <b>[First edition, 1937]</b></td>
+	    </tr>
+	  </table>
+	  >]
+	item [label=<
+	  <table border="0">
+	    <tr>
+	      <td><b>bf:Item</b></td>
+	    </tr>
+	    <tr>
+	      <td align="left">copy in hand</td>
+	    </tr>
+	  </table>
+	  >]
+
+
+	//start [shape=Mdiamond];
+	//end [shape=Msquare];
+}

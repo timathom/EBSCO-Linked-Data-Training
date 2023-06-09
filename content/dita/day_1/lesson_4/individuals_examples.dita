@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="individuals_example">
+    <title>Individuals: Example</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+           <fig conkeyref="figures-key/fig_ccr_hjb_txb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <!--<learningSummary id="individuals_example_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>-->
+    
+
+</learningContent>

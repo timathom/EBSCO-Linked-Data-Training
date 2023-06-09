@@ -1,0 +1,26 @@
+digraph G {
+    fontname=Helvetica;
+    node [
+      fontsize=20
+      shape=Mrecord
+      fontname="Arial"
+      style=filled
+      color=lightblue3
+      fillcolor=lightblue3
+      margin="0.2,0.2"
+    ];
+    edge [color=orange2];
+
+    "A" [label="http://example.org/5607075#Instance", style=filled];
+    "C" [label="ProvisionActivity :: Publication", style=filled];
+    "D" [label="http://id.loc.gov/vocabulary/countries/it", style=filled];
+    "M" [label="Novara [etc.]", shape=box, style=filled];
+    "N" [label="Istituto geografico de Agostini", shape=box, style=filled];
+    "O" [label="[1922]", shape=box, style=filled];
+
+    "A" -> "C" [label="bf:provisionActivity"];
+    "C" -> "D" [label="bf:place"];
+    "C" -> "M" [label="bflc:simplePlace"];
+    "C" -> "N" [label="bflc:simpleAgent"];
+    "C" -> "O" [label="bflc:simpleDate"];
+}

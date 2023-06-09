@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="learning">
+    <title>What Is Data?</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcChallenge id="lcChallenge_pxf_c2b_kxb">
+            <p>Consider this definition of "data."</p>
+        </lcChallenge>
+        <lcInstruction id="lcInstruction_zpl_l2b_kxb">
+            <ul>
+                <li>For fun, let's start with a definition in Spanish, from the <cite xml:lang="es"
+                        >Diccionario de la Real Academia Española</cite>. In the context of
+                    computing, the word <i><xref href="https://dle.rae.es/dato" format="html"
+                            scope="external">dato</xref></i> (singular) is defined as:</li>
+                <li xml:lang="es"><i>Información dispuesta de manera adecuada para su tratamiento
+                        por una computadora.</i></li>
+                <li><i>Information arranged in a way that is suitable for processing by a
+                        computer.</i></li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

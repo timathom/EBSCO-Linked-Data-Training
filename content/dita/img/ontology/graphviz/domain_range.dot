@@ -1,0 +1,13 @@
+digraph G {
+  mindist=0.0;
+  rankdir=LR
+  fontname="Helvetica";
+
+  node [shape=ellipse, style=filled, fillcolor=lightblue3, color=black, penwidth=2, fontname="Helvetica"];
+  edge [color=orange2, fontname="Helvetica"];
+
+  "Domain" [label="Domain"];
+  "Range" [label="Range"];
+
+  "Domain" -> "Range" [label="Property"];
+}

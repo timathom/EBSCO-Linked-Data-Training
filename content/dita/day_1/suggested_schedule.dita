@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningOverview.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningOverview id="overview_obv_gwh_qxb">
+    <title>Suggested Schedule for Day 1</title>
+    <shortdesc>Day 1 of the training is intended to begin at 9:00 a.m. and end at 4:00
+        p.m.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-05-30"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+        </critdates>
+    </prolog>
+    <learningOverviewbody>
+        <lcDuration id="lcDuration_vvf_nwh_qxb">
+            <lcTime name="hours" value="7">7 hours</lcTime>            
+        </lcDuration>
+        <section>
+            <title>Example Schedule</title>
+            <dl>
+                <dlentry>
+                    <dt>9:00-9:30</dt>
+                    <dd>Introductions (Backgrounds and Experience)</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>9:30-10:00</dt>
+                    <dd>Introduction and Overview: Why Is Linked Data Important?</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>10:00-10:30</dt>
+                    <dd>RDF: the Basics</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>10:30-11:00</dt>
+                    <dd>Break</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>11:00-11:30</dt>
+                    <dd>RDF, Continued</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>11:30-12:00</dt>
+                    <dd>Ontology Development and Competency Questions</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>12:00-12:20</dt>
+                    <dd>Break</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>12:20-1:00</dt>
+                    <dd>Ontologies and Semantic Data Modeling</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>1:00-2:00</dt>
+                    <dd>Lunch</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>2:00-4:00</dt>
+                    <dd>Semantic Models for Libraries: BIBFRAME</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </learningOverviewbody>
+</learningOverview>

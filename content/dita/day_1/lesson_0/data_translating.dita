@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="data_translating">
+    <title>Data Translating</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_urb_sn3_kxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="data_translating_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>Machine translation facilitates communication and understanding across language barriers.</p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

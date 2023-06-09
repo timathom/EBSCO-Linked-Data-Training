@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_5">
+    <title>RDF</title>
+    <shortdesc/>
+    <prolog>        
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+       <lcInstruction>
+            <ul id="ul_qfh_5ng_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">In an RDF graph, each <b>node</b> (subject or object) is a resource
+                        that we can say things about.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">The <b>edges</b> in the graph are also resources, but we can't
+                        really say things about them in practice.</p>
+                </li>
+            </ul>
+           <lcInstructornote2
+               id="lcInstructornote2_er4_d4g_sxb">
+               <p>Work is currently underway to update the RDF specifications from version 1.1 to
+                        <xref href="https://www.w3.org/TR/rdf12-concepts/" format="html"
+                        scope="external">1.2</xref>. The new versions will include support for what
+                    is known as <b><keyword>RDF-Star</keyword></b>, which will define a model and
+                    syntax for making statements about an entire triple rather than only a
+                    subject.</p>
+           </lcInstructornote2>
+        </lcInstruction>
+    </learningContentbody>    
+</learningContent>

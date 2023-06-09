@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="activity_competency_questions">
+    <title>Activity: Competency Questions</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ol id="ol_ur5_xwt_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">Imagine you are a library user doing research for a literature
+                        course.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Think about the different information retrieval tasks you would
+                        like to perform using the library catalog.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">What kinds of questions about you like to ask?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Develop a set of competency questions for a domain ontology about
+                        library information resources.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Write each question on a Post-it note.</p>
+                </li>
+            </ol>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

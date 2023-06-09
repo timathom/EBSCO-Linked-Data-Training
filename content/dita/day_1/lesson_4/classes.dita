@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="classes">
+    <title>Classes</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_rlz_ncn_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">According to W3C standards: <lq>A class is defined as a group of
+                            individuals that [. . .] share certain properties. For example, Deborah
+                            and Frank are members of the class Person. Classes can be organized in
+                            hierarchies of specialization. (<xref
+                                href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1"
+                                format="html" scope="external"><u>W3C</u></xref>)</lq></p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Names of classes are typically written with an uppercase
+                        letter.</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+
+
+</learningContent>

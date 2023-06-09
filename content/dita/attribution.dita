@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="attribution">
+    <title>Attribution</title>
+    <shortdesc>Author, sponsor, and license information for the training material.</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-05-30"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>This training material may be reused with appropriate attribution, as detailed
+                below.</p>
+            <p>
+                <dl>
+                    <dlentry>
+                        <dt>Author</dt>
+                        <dd>Timothy A. Thompson</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>Sponsor</dt>
+                        <dd>EBSCO Information Services LLC</dd>
+                    </dlentry>
+                    <dlentry>
+                        <dt>License</dt>
+                        <dd>This work is licensed under a <xref href="http://creativecommons.org/licenses/by/4.0/" scope="external" format="html">Creative Commons Attribution 4.0 International License</xref> (CC-BY)</dd>
+                    </dlentry>
+                </dl>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

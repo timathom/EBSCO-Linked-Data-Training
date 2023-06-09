@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="chatgpt_limits_and_possibilities">
+    <title>ChatGPT: Limits and Possbilities</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>
+                <ul id="ul_xxd_htr_rxb">
+                    <li dir="ltr">
+                        <p dir="ltr">That is the traditional explanation. </p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">However, Large Language Models such as ChatGPT have called this
+                            explanation into question.</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">ChatGPT was trained in large part on the <xref
+                                href="https://commoncrawl.org/" format="html" scope="external"
+                                    ><u>Common Crawl</u></xref>, a massive dataset of web pages
+                            compiled since 2011.</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">Does ChatGPT undermine the linked data thesis?</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">Can machine understanding can be achieved <b>without</b>
+                            semantics, by learning complex probability distributions from
+                            unstructured data?</p>
+                    </li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

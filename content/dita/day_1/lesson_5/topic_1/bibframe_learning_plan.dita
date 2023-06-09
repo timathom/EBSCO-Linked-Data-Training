@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningPlan.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningPlan id="bibframe_learning_plan">
+    <title>Learning Plan</title>
+    <shortdesc>Learning plan for an introduction to the Bibliographic Framework Initiative
+        (BIBFRAME).</shortdesc>
+    <prolog>        
+        <author type="creator">Timothy Thompson, Yale University</author>
+        <author type="creator">timothy.thompson@yale.edu</author>        
+        <critdates>
+            <created date="2023-05-04"/>
+            <revised modified="2023-05-04"/>            
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+        </critdates>        
+        <metadata>
+            <keywords>
+                <indexterm>Bibliographic Framework Initiative
+                    <index-see>BIBFRAME</index-see>
+                </indexterm>           
+                <indexterm>Library of Congress</indexterm>
+                <indexterm>Ontologies</indexterm>
+            </keywords>
+        </metadata>
+        <lcLom>
+            <lomTypicalLearningTime name="minutes" value="60">60 minutes</lomTypicalLearningTime>
+        </lcLom>        
+    </prolog>
+    <learningPlanbody>
+        <lcProject>
+            <title><ph keyref="project-title"/></title>
+            <lcClient>
+                <p><ph keyref="client"/></p>
+            </lcClient>
+            <lcPlanTitle>
+                <p>Lesson 6, Topic 1: Introduction to the Bibliographic Framework Initiative
+                    (BIBFRAME)</p>
+            </lcPlanTitle>
+            <lcDelivDate>
+                <p>May 10, 2023</p>
+            </lcDelivDate>            
+            <lcPlanSubject>
+                <title>Focus</title>
+                <p>This lesson will focus on a basic introduction to the BIBFRAME model and its
+                    evolution.</p>
+            </lcPlanSubject>
+            <lcPlanDescrip>
+                <title>Overview</title>
+                <p>In this lesson, participants will gain familiarity with the basics of BIBFRAME
+                    and learn about the purpose and development of the initiative at the Library of
+                    Congress. After the introduction, there will be two hands-on activities: <ol
+                        id="ol_wzn_42b_jxb">
+                        <li>In the first activity, they will use the categories developed in the
+                            preceding lesson and attempt to match them against classes and
+                            properties in BIBFRAME.</li>
+                        <li>In the second activity, they will practice cataloging and explore
+                            workflows in MARVA, the Library of Congress BIBFRAME editor.</li>
+                    </ol></p>
+            </lcPlanDescrip>
+            <lcPlanPrereqs>
+                <title>Prerequisites</title>
+                <p>As preparation for this lesson, participants will have developed a set of
+                    categories based on a card-sorting activity with MARC-based data.</p>
+            </lcPlanPrereqs>
+        </lcProject>      
+        <lcIntervention>
+            <title>Instruction and Activities</title>
+            <lcInterventionItem>
+                <lcLearnStrat>Provide a high-level overview of BIBFRAME and discuss its development
+                    at the Library of Congress. Compare BIBFRAME to other standards, such as RDA,
+                    and discuss extension ontologies such as the Art and Rare Materials Ontology
+                    (ARM). Provide participants with a searchable searable version of the BIBFRAME
+                    2.0 List View. Provide scaffolding for the participants to work in the MARVA
+                    environment.</lcLearnStrat>
+                <lcPlanObjective>The goal of instruction is twofold: <ol id="ol_fvr_whb_jxb">
+                        <li>For learners to gain a baseline familiarity with the BIBFRAME model, its
+                            characteristics, and its development at the Library of Congress.</li>
+                        <li>To ensure that learners understand the purpose of the activity with
+                            MARVA and are prepareed for any challenges that may arise.</li>
+                    </ol></lcPlanObjective>
+                <lcAssessment>Check for comprehension before starting the activity.</lcAssessment>
+            </lcInterventionItem>
+            <lcInterventionItem>
+                <lcLearnStrat>While working with MARVA, participants will experiment with a split
+                    workflow in which some participants catalog at the Item- and Instance-level and
+                    others catalog at the Work- and Agent-level.</lcLearnStrat>
+                <lcPlanObjective>The activity is intended to expose learners to the MARVA editing
+                    environment and encourage them to reflect on the workflow and production impacts
+                    of BIBFRAME adoption.</lcPlanObjective>
+                <lcAssessment>The activity will be assessed through group discussion and
+                    reflection.</lcAssessment>
+                <lcDelivery>Participants will work in groups of four to five people. Groups will be
+                    given photocopies of an item for cataloging. Half the group will work with
+                    Item/Instance description and half with Work/Agent description.</lcDelivery>
+            </lcInterventionItem>
+        </lcIntervention>
+        
+    </learningPlanbody>
+</learningPlan>
+<!-- 
+<lcProject>
+            <lcPlanDescrip>
+                <p>Each group will be given a stack of cards with a data element printed on it and
+                    will sort the cards into categories that make sense to the individuals within
+                    the group.</p>
+            </lcPlanDescrip>
+        </lcProject>
+
+<learningContent id="card_sort_activity_rdf_linked_data">
+    <title>Card Sort Activity: Introduction to Semantic Data Modeling</title>
+    <shortdesc>This card sort activity introduces participants to semantic data modeling procedures and prepares them for a deeper dive into the Library of Congress BIBFRAME ontology.</shortdesc>
+    <learningContentbody>
+        <section>
+            <title>Activity Objectives</title>
+            <ul>
+                <li>Introduce participants to semantic data modeling procedures.</li>
+                <li>Prepare participants for a deeper understanding of the Library of Congress BIBFRAME ontology.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Instructions</title>
+            <ol>
+                <li>Distribute the pre-prepared cards with example data from MARC Bibliographic, Holdings, and Authority records among the participants.</li>
+                <li>Ask the participants to sort the cards into categories based on the semantic relationships between the fields.</li>
+                <li>Allow the participants to discuss and collaborate as they sort the cards, considering how the relationships between the fields could be represented in RDF triples and linked data.</li>
+                <li>Once the participants have finished sorting the cards, review the card groupings as a group, discussing the thought process behind each semantic relationship.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Sample Cards</title>
+            <p>Here are some examples of cards with example data from MARC records:</p>
+            <ul>
+                <li>Bibliographic: 245 - Title Statement - "The Catcher in the Rye"</li>
+                <li>Holdings: 852 - Location - "Main Library, 3rd Floor"</li>
+                <li>Authority: 100 - Heading - Personal Name - "Salinger, J.D."</li>
+            </ul>
+        </section>
+        <section>
+            <title>Discussion</title>
+            <p>After completing the card sort activity, facilitate a group discussion to encourage participants to share their insights and experiences. This will provide an opportunity for everyone to reflect on the activity and deepen their understanding of semantic data modeling. Possible discussion questions include:</p>
+            <ul>
+                <li>What challenges did you encounter while sorting the cards based on semantic relationships?</li>
+                <li>How did this activity change your perspective on cataloging and metadata practices?</li>
+                <li>What insights did you gain about semantic data modeling that could be useful for understanding the BIBFRAME ontology in the future?</li>
+            </ul>
+        </section>
+    </learningContentbody>
+</learningContent>
+
+-->

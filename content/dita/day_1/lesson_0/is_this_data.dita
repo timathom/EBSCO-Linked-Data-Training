@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="is_this_data">
+    <title>Is This Data?</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_ybt_nqy_hxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="is_this_data_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul>
+                        <li>Although it contains structured information, a printed catalog card
+                            needs to be digitized before it can be transformed into data.</li>
+                        <li>Once it has been digitized, it can be processed by a computer.</li>
+                        <li>As information professionals, we create <b><keyword>metadata</keyword></b> to
+                            organize content of all kinds, whether print or digital.</li>
+                        <li>Our job as information professionals is to make sense of data, to create
+                            and structure <b><keyword>knowledge</keyword></b> from raw data.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

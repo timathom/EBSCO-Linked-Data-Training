@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="five-star-linked-data">
+    <title>5-Star Linked Data</title>
+    <shortdesc/>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>Tim Berners-Lee, the web's inventor, has proposed a <xref
+                    href="https://www.w3.org/2011/gld/wiki/5_Star_Linked_Data" format="html"
+                    scope="external"><u>rating system</u></xref> for data on the web.</p>
+            <p>
+                <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_hqx_m1y_rxb">
+                    <sthead>
+                        <stentry>Rating</stentry>
+                        <stentry>Criteria</stentry>
+                    </sthead>
+                    <strow>
+                        <stentry>⭐</stentry>
+                        <stentry>Data is available on the Web, in whatever format</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>⭐⭐</stentry>
+                        <stentry>Available as machine-readable structured data</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>⭐⭐⭐</stentry>
+                        <stentry>Available in a non-proprietary format</stentry>
+                    </strow>
+                    <strow>
+                        <stentry>⭐⭐⭐⭐</stentry>
+                        <stentry>Published using open standards from the W3C </stentry>
+                    </strow>
+                    <strow>
+                        <stentry>⭐⭐⭐⭐⭐</stentry>
+                        <stentry>All of the above and links to other Linked Open Data</stentry>
+                    </strow>
+                </simpletable>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

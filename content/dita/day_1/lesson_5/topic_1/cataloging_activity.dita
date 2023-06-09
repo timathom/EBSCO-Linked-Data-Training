@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="cataloging_activity">
+    <title>Cataloging with BIBFRAME</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_ryb_rv1_txb">
+                <li dir="ltr">
+                    <p dir="ltr">First, let's review the <xref
+                            href="https://id.loc.gov/ontologies/bibframe.html" format="html"
+                            scope="external"><u>BIBFRAME model</u></xref>.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Try to match your categories against the terms in BIBFRAME</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Now, let's use the hosted version of the Library of Congress <xref
+                            href="https://bibframe.org/marva/editor/" format="html" scope="external"
+                                ><u>Marva Editor</u></xref> to gain some hands-on experience with
+                        BIBFRAME.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Choose one of the PDF files with scanned images of a book to
+                        catalog:</p>
+                    <ul id="ul_h4f_cw1_txb">
+                        <li><cite>Reading with Clarice Lispector</cite></li>
+                        <li><cite>The Versatility of Bamboo</cite></li>
+                    </ul>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Work in groups. Half the group should work on the <b>Instance</b>
+                        description and half on the <b>Work</b> description.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">If time allows, switch roles after finishing.</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+    <related-links>
+        <link
+            href="../../../resources/activities/cataloging_activity/Reading_with_Clarice_Lispector.pdf"
+            format="pdf">
+            <linktext>Reading with Clarice Lispector</linktext>
+        </link>
+        <link href="../../../resources/activities/cataloging_activity/Versatility_of_Bamboo.pdf"
+            format="pdf">
+            <linktext>The Versatility of Bamboo</linktext>
+        </link>
+    </related-links>
+
+</learningContent>

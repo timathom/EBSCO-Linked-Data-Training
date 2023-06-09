@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_is_a_graph">
+    <title>RDF Is a Graph</title>
+    <shortdesc/>
+    <prolog>        
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_m5q_2jg_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="rdf_is_a_graph_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul id="ul_akw_4jg_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">The object of a statement can be a <b>literal</b> value or
+                                another resource.</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">When we make statements that connect resources, we form a
+                                graph.</p>
+                        </li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="from_spreadsheets_to_schemas_2">
+    <title>From Spreadsheets to Schemas</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+          <fig conkeyref="figures-key/fig_s1f_21n_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="learningSummary_f1j_31n_sxb">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview id="lcReview_tbz_31n_sxb">
+                <p>
+                    <ul id="ul_lt3_sbv_sxb">
+                        <li>Let's return to our spreadsheet data.</li>
+                        <li>Here is <xref href="../../resources/data/spreadsheet_schema.ttl"
+                                format="ttl">an example</xref> of a simple ontology expressed using
+                            RDFS.</li>
+                        <li>It provides a semantic schema for the spreadsheet.</li>
+                        <li>It clearly identifies the entities and relationships in the data.</li>
+                        <li>It incorporates concepts from other linked data vocabularies, such as
+                            Friend of a Friend (FOAF) and Schema.org.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+    
+</learningContent>

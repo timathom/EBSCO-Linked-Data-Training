@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="ontologies_and_controlled_vocabularies">
+    <title>Ontologies and Controlled Vocabularies</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_pmw_13n_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">An ontology allows us to define a data model the reflects reality
+                        in all its complexity.</p>
+                </li>
+            </ul>
+            <ul id="ul_qmw_13n_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">For its part, a controlled vocabulary has a simpler intent.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">It defines a list of concepts that can have hierarchical
+                        relationships, but that do not reflect a view of the world in an explicit
+                        way.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">However, controlled vocabularies can also be created using linked
+                        data standards.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">The <xref
+                            href="https://www.w3.org/TR/2009/REC-skos-reference-20090818/"
+                            format="html" scope="external">Simple Knowledge Organization
+                            System</xref> (SKOS) was created to design thesauri and controlled
+                        vocabularies in RDF.</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

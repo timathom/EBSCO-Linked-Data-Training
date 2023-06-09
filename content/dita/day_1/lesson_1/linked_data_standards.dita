@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="linked_data_standards">
+    <title>Linked Data Standards</title>
+    <shortdesc/>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>
+                <ul id="ul_az2_w1y_rxb">
+                    <li dir="ltr">
+                        <p dir="ltr">The foundation of linked open data is built on the standards of
+                            the World Wide Web Consortium (W3C). Namely, standards like:</p>
+                        <ul id="ul_bz2_w1y_rxb">
+                            <li dir="ltr">
+                                <p dir="ltr">The <xref
+                                        href="https://es.wikipedia.org/wiki/Resource_Description_Framework"
+                                        format="html" scope="external"><u>Resource Description
+                                            Framework</u></xref> (<b>RDF</b>)</p>
+                            </li>
+                            <li dir="ltr">
+                                <p dir="ltr">The <xref
+                                        href="https://www.w3.org/2007/09/OWL-Overview-es.html"
+                                        format="html" scope="external"><u>Web Ontology
+                                        Language</u></xref> (<b>OWL</b>) </p>
+                            </li>
+                            <li dir="ltr">
+                                <p dir="ltr">And many others… (SPARQL, SHACL, etc.)</p>                                
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

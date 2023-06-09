@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="data_deluge">
+    <title>The Data Deluge</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_ph3_rqh_jxb"/>
+            <lcInstructornote2>
+                <p>This image and four subsequent ones were derived from screen captures of the
+                    video <cite keyref="what-is-linked-data">What Is Linked Data?</cite>, by Manu
+                    Sporny. Sporny's 12-minute video provides a simple introduction to the linked
+                    data concept and rationale, as it was articulated in 2012. The images include
+                    here were generated using an implementation of the Stable Diffusion image
+                    generation model.</p>
+                <p>The intent behind transforming the images was to invite reflection on how
+                    generative AI has shifted the discussion about structured data on the web and
+                    introduced new questions and possibilities.</p>
+            </lcInstructornote2>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="data_deluge_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul>
+                        <li>When working with data, we need to understand, describe, and process a
+                            variety of file formats and types of content.</li>
+                        <li>The question we're faced with is, how do we keep up?</li>
+                        <li>Are machine learning models trained on larger and larger datasets the
+                            solution?</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

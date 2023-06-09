@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_linked_data_4">
+    <title>RDF/Linked Data</title>
+    <shortdesc/>
+    <prolog>        
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcChallenge>
+            <p>
+                <ul id="ul_cjs_1lg_sxb">
+                    <li dir="ltr">
+                        <p dir="ltr">What kind of entity is identified by <xref
+                                href="https://dle.rae.es/dato" format="html" scope="external"
+                                    ><u>https://dle.rae.es/dato</u></xref>?</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">What are its attributes?</p>
+                    </li>
+                    <li dir="ltr">
+                        <p dir="ltr">Is it related to other entities?</p>
+                    </li>
+                </ul>
+            </p>      
+            <lcInstructornote2>
+                <p>Challenge participants to think about the <i>type</i> of entity represented by
+                    this URI (a dictionary entry). Its attributes might include things like
+                        <i>definition</i>, <i>etymology</i>, and <i>grammatical gender</i>. Its
+                    relationships to other entities might include things like:<ul
+                        id="ul_yzg_tlg_sxb">
+                        <li>A <i>part of</i> relation to the dictionary as a whole</li>
+                        <li>Or a single dictionary entry might consist of multiple
+                                <i>definitions</i></li>
+                        <li>Each definition might be related to a specific domain (e.g., computer
+                            science)</li>
+                        <li>An entry might also include multiple <i>phrases</i> or
+                                <i>expressions</i> is which a term is frequently used (e.g., <i
+                                xml:lang="es">base de datos</i>).</li>
+                    </ul></p>
+            </lcInstructornote2>
+        </lcChallenge>
+    </learningContentbody>    
+</learningContent>

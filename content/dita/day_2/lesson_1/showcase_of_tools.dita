@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="content_spj_rnj_kxb">
+    <title>Showcase of Tools</title>
+    <shortdesc>Debugging</shortdesc>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <table id="table_cdy_lx1_txb">
+                <tgroup cols="2">
+                    <colspec colnum="1" colwidth="380px" colname="col1"/>
+                    <colspec colnum="2" colwidth="380px" colname="col2"/>
+                    <tbody>
+                        <row>
+                            <entry dir="ltr"><b>Tool</b></entry>
+                            <entry dir="ltr"><b>Free and Open Source?</b></entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><xref href="https://github.com/tarql/tarql"
+                                    format="html" scope="external"><u>TARQL</u></xref> (SPARQL for
+                                Tables)</entry>
+                            <entry dir="ltr">Yes</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr">ChatGPT (for data conversion)</entry>
+                            <entry dir="ltr">No</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr">marc2bibframe2 (<xref
+                                    href="https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt"
+                                    format="html" scope="external"><u>hosted</u></xref> | also
+                                available as a Metaproxy Z39.50 plugin)</entry>
+                            <entry dir="ltr">Yes</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><xref href="https://sparnatural.eu/" format="html"
+                                    scope="external"><u>Sparnatural</u></xref> (visual SPARQL
+                                explorer)</entry>
+                            <entry dir="ltr">Yes</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><xref href="https://lov.linkeddata.es/" format="html"
+                                    scope="external"><u>Linked Open Vocabularies</u></xref>
+                                (LOV)</entry>
+                            <entry dir="ltr">Yes</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><xref
+                                    href="https://www.oxfordsemantic.tech/product?gclid=CjwKCAjw-IWkBhBTEiwA2exyO3IW0o4MasABAX8WsOz8y2ZzQnV1h_DEP89tITeGzT8nsVafxFYT8RoCPIEQAvD_BwE"
+                                    format="html" scope="external"><u>RDFox</u></xref> (RDF graph
+                                database)</entry>
+                            <entry dir="ltr">No</entry>
+                        </row>
+                        <row>
+                            <entry dir="ltr"><xref href="https://sinopia.io/" format="html"
+                                    scope="external"><u>Sinopia Editor</u></xref></entry>
+                            <entry dir="ltr">Yes</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="ontology_design">
+    <title>Ontology Design</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_psj_h3n_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">One of the first steps toward creating an ontology in to develop a
+                        set of <b>competency questions</b>.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">These are questions that serve to define the scope of an ontology
+                        and test its usefulness later on.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Based on these questions, we can begin to construct a data model,
+                        defining classes, properties, and individuals.</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+    
+
+
+
+</learningContent>

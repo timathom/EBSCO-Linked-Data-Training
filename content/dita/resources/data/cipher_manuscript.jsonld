@@ -1,0 +1,37 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "CreativeWork",
+    "name": ["Cipher manuscript"],
+    "alternateName": ["Voynich manuscript"],
+    "description": [
+        "In unidentified cipher.",
+        "Decoration: Almost every page contains botanical and scientific drawings, many full-page, of a provincial but lively character, in ink with washes in various shades of green, brown, yellow, blue and red.",
+        "Binding: Modern (18th-19th centuries)."
+    ],
+    "url": "https://collections.library.yale.edu/catalog/2002046",
+    "about": [
+        {
+            "@type": "Thing",
+            "name": "Ciphers"
+        },
+        {
+            "@type": "Thing",
+            "name": "Manuscripts, Medieval"
+        },
+        {
+            "@type": "Thing",
+            "name": "Connecticut"
+        },
+        {
+            "@type": "Thing",
+            "name": "New Haven."
+        }
+    ],
+    "genre": [
+        "Manuscripts, Medieval Europe 15th century",
+        "Manuscripts, Medieval Europe 16th century",
+        "Medieval and Renaissance Manuscripts in Beinecke Library"
+    ],
+    "materialExtent": ["ff. 102 +1 : 225 x 160 mm."],
+    "thumbnailUrl": "https://collections.library.yale.edu/iiif/2/1006074/full/!200,200/0/default.jpg"
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="bibframe_ecosystem">
+    <title>The BIBFRAME Ecosystem</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_kt2_jv1_txb">
+                <li dir="ltr">
+                    <p dir="ltr">Other standards in the BIBFRAME ecosystem:</p>
+                    <ul id="ul_lt2_jv1_txb">
+                        <li dir="ltr">
+                            <p dir="ltr"><xref href="https://www.loc.gov/standards/mads/rdf/"
+                                    format="html" scope="external"><u>MADS/RDF</u></xref> (Metadata
+                                Authority Description Schema)</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Library of Congress Vocabularies like the <xref
+                                    href="https://id.loc.gov/authorities/names.html" format="html"
+                                    scope="external"><u>Name Authority File</u></xref></p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Domain extension ontologies for <xref
+                                    href="https://github.com/Art-and-Rare-Materials-BF-Ext/arm"
+                                    format="html" scope="external"><u>Art and Rare
+                                    Materials</u></xref> (ARM), Performed Music, and others</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Library of Congress <xref href="https://bibframe.org/"
+                                    format="html" scope="external"><u>tools</u></xref></p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr"><xref
+                                    href="https://docs.google.com/spreadsheets/d/1KgpWmMSyAEVVkfQgBPB0tdf6jk9cJ81z8S_Z9k4mH-8/edit?usp=sharing"
+                                    format="html" scope="external">BIBFRAME en español</xref></p>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+    
+</learningContent>

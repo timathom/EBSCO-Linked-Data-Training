@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="bibframe_patterns_work_instance_item">
+    <title>BIBFRAME Patterns: Work, Instance, Item</title>
+    <shortdesc>BIBFRAME 2.0 model</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_amn_tt1_txb"/>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

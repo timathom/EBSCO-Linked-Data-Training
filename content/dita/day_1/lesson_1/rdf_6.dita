@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf_6">
+    <title>RDF</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_dng_c4g_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">How is RDF actually expressed?</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">We have many format options, which are called
+                        <b>serializations</b>.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">One of the most common is called <b><xref
+                                href="https://www.w3.org/TR/json-ld11/" format="html"
+                                scope="external">JSON-LD</xref></b>.</p>
+                </li>
+            </ul>           
+        </lcInstruction>
+    </learningContentbody>
+
+
+</learningContent>

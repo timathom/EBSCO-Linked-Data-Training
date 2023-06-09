@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="rdf">
+    <title>RDF</title>
+    <shortdesc/>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_k5q_2jg_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="rdf_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul id="ul_e5l_t3g_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">The Resource Description Framework (RDF) is a simple model
+                                whose basic structure is a three-part <b>statement</b>, or
+                                    <b>triple</b>.</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">It consists of a relation between <b>subject</b> and
+                                    <b>object</b>, defined by a <b>predicate.</b></p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">A <b>resource </b>is anything that we want to say something
+                                about.</p>
+                        </li>
+                    </ul>
+                    <ul id="ul_f5l_t3g_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">To make statements about resources, we need to
+                                    <b>identify</b> them. </p>
+                        </li>
+                    </ul>
+                    <ul id="ul_g5l_t3g_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">Resources are identified by Uniform Resource Identifiers
+                                (URIs).</p>
+                        </li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

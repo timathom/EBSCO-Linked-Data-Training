@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="data_reading">
+    <title>Data Reading</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_srb_sn3_kxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="data_reading_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>Intelligent text recognition can make search and comprehension easier.</p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

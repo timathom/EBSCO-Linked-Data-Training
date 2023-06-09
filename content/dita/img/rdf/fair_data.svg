@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <rect x="10" y="10" width="180" height="120" fill="lightblue" />
+  <rect x="200" y="10" width="180" height="120" fill="lightblue" />
+  <rect x="10" y="140" width="180" height="120" fill="lightblue" />
+  <rect x="200" y="140" width="180" height="120" fill="lightblue" />
+  
+  <text x="20" y="35" font-family="Arial" font-size="16" font-weight="bold">Findable</text>
+  <text x="20" y="55" font-family="Arial" font-size="12">• Use of URIs for unique</text>
+  <text x="20" y="70" font-family="Arial" font-size="12">  identification</text>
+  <text x="20" y="85" font-family="Arial" font-size="12">• Rich, machine-readable</text>
+  <text x="20" y="100" font-family="Arial" font-size="12">  metadata</text>
+  
+  <text x="220" y="35" font-family="Arial" font-size="16" font-weight="bold">Accessible</text>
+  <text x="220" y="55" font-family="Arial" font-size="12">• Linked Data principles</text>
+  <text x="220" y="70" font-family="Arial" font-size="12">• Use of web-based protocols</text>
+  <text x="220" y="85" font-family="Arial" font-size="12">  like HTTP</text>
+  
+  <text x="20" y="165" font-family="Arial" font-size="16" font-weight="bold">Interoperable</text>
+  <text x="20" y="185" font-family="Arial" font-size="12">• Flexible data model</text>
+  <text x="20" y="200" font-family="Arial" font-size="12">• Schema-agnostic approach</text>
+  <text x="20" y="215" font-family="Arial" font-size="12">• Standard vocabularies and</text>
+  <text x="20" y="230" font-family="Arial" font-size="12">  ontologies</text>
+  
+  <text x="220" y="165" font-family="Arial" font-size="16" font-weight="bold">Reusable</text>
+  <text x="220" y="185" font-family="Arial" font-size="12">• Standardized data model</text>
+  <text x="220" y="200" font-family="Arial" font-size="12">• Shared vocabularies and</text>
+  <text x="220" y="215" font-family="Arial" font-size="12">  ontologies</text>
+  <text x="220" y="230" font-family="Arial" font-size="12">• Machine-understandable</text>
+  <text x="220" y="245" font-family="Arial" font-size="12">  data</text>
+</svg>

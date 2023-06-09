@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="bibframe_patterns_provision_publication">
+    <title>BIBFRAME Patterns: Provision Activity (Publication)</title>
+    <shortdesc>BIBFRAME 2.0 model</shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_gmn_tt1_txb"/>            
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="bibframe_patterns_provision_publication_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <p>
+                    <ul id="ul_il1_451_txb">
+                        <li>BIBFRAME 2.0 defines a pattern for grouping information about the
+                            provision of a resource, such as the publication of an Instance.</li>
+                        <li>This pattern allows data to be both recorded as both linked data (notice
+                            the URI for Italy) and string literals.</li>
+                        <li>Terms from the <xref href="https://id.loc.gov/ontologies/bflc.html"
+                                format="html" scope="external">Library of Congress Extension
+                                Vocabulary for BIBFRAME</xref> (BFLC) are used to record "simple"
+                            place, agent, and date values.</li>
+                    </ul>
+                </p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+</learningContent>

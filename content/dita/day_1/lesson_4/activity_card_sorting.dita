@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="activity_card_sorting">
+    <title>Activity: Card Sorting</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ol id="ol_f2v_hxt_sxb">
+                <li dir="ltr">
+                    <p dir="ltr">Let's use the competency questions from the previous lesson as a
+                        terminology source for beginning to specify terms in our ontology.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Open the PDF documents under "Card-Sorting Activity."</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Start with the first file ("Bibliographic Record Unlabeled").</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">You will see a series of numbered cards with information extracted
+                        from a MARC 21 Bibliographic record for the novel <i>Cien años de
+                            soledad</i>.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">The cards are in the order they appear in the record. When a card
+                        has decimal numbers, it means that the data elements come from the same
+                        field.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Using the numbers, group the cards into categories.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Try to identify the types of entities that are represented.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">Once you identify a group, give it a name and write down the
+                        criteria used for creating it.</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr">For example, "New York" is a type of Place (or City, or Populated
+                        Place, which are specific kinds of Place).</p>
+                </li>
+            </ol>
+        </lcInstruction>
+    </learningContentbody>
+    <related-links>
+        <link
+            href="../../resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf"
+            format="pdf" scope="local"><linktext>Bibliographic Record Unlabeled</linktext></link>        
+    </related-links>
+    
+
+
+
+</learningContent>

@@ -1,0 +1,138 @@
+digraph RDFSchema {
+    fontname=Arial;
+    graph [nodesep=0.8];
+    node [
+      fontsize=20
+      shape=Mrecord
+      fontname=Arial
+      margin="0.2,0.2"
+    ];
+    edge [
+
+    ];
+
+    Resource [label=<
+      <table border="0">
+        <tr>
+          <td><b>Resource</b></td>
+        </tr>
+        <tr>
+          <td align="left">rdfs:Resource</td>
+        </tr>
+      </table>
+      >, style=filled, color="lightblue3"]
+
+    Class [label=<
+      <table border="0">
+        <tr>
+          <td><b>Class</b></td>
+        </tr>
+        <tr>
+          <td align="left">rdfs:Class</td>
+        </tr>
+      </table>
+      >, style=filled, color="lightblue3"]
+
+    Property [label=<
+      <table border="0">
+        <tr>
+          <td><b>Property</b></td>
+        </tr>
+        <tr>
+          <td align="left">rdf:Property</td>
+        </tr>
+      </table>
+      >, style=filled, color="orange2"]
+
+    Literal [label=<
+      <table border="0">
+        <tr>
+          <td><b>Literal</b></td>
+        </tr>
+        <tr>
+          <td align="left">rdfs:Literal</td>
+        </tr>
+      </table>
+      >, style=filled, color="lightblue3"]
+
+    subgraph cluster_labels {
+        Label [label=<
+          <table border="0">
+            <tr>
+              <td><b>Label</b></td>
+            </tr>
+            <tr>
+              <td align="left">rdfs:label</td>
+            </tr>
+          </table>
+          >, style=filled, color="orange2"]
+
+        Comment [label=<
+          <table border="0">
+            <tr>
+              <td><b>Comment</b></td>
+            </tr>
+            <tr>
+              <td align="left">rdfs:comment</td>
+            </tr>
+          </table>
+          >, style=filled, color="orange2"]
+
+        Domain [label=<
+          <table border="0">
+            <tr>
+              <td><b>Domain</b></td>
+            </tr>
+            <tr>
+              <td align="left">rdfs:domain</td>
+            </tr>
+          </table>
+          >, style=filled, color="orange2"]
+
+        Range [label=<
+          <table border="0">
+            <tr>
+              <td><b>Range</b></td>
+            </tr>
+            <tr>
+              <td align="left">rdfs:range</td>
+            </tr>
+          </table>
+          >, style=filled, color="orange2"]
+
+        SubClass [label=<
+          <table border="0">
+            <tr>
+              <td><b>SubClassOf</b></td>
+            </tr>
+            <tr>
+              <td align="left">rdfs:subClassOf</td>
+            </tr>
+          </table>
+          >, style=filled, color="orange2"]
+
+        SubProperty [label=<
+          <table border="0">
+            <tr>
+              <td><b>SubPropertyOf</b></td>
+            </tr>
+                    <tr>
+          <td align="left">rdfs:subPropertyOf</td>
+        </tr>
+      </table>
+      >, style=filled, color="orange2"]
+}
+
+
+Class -> Resource [xlabel="rdfs:subClassOf"];
+Literal -> Class [xlabel="rdf:type"];
+Literal -> Resource [xlabel="rdfs:subClassOf"];
+Resource -> Label 
+Resource -> Comment 
+Property -> Domain 
+Property -> Range 
+Class -> SubClass 
+Property -> SubProperty 
+Property -> Class [xlabel="rdf:type"]
+Property -> Resource [xlabel="rdfs:subClassOf"]
+}

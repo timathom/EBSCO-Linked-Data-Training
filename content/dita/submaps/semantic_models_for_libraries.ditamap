@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap>
+    <topicmeta>
+        <navtitle>Semantic Models for Libraries</navtitle>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup>
+        <!-- Topic 1: BIBFRAME -->
+        <learningObject>
+            <topicmeta>
+                <navtitle>BIBFRAME</navtitle>
+            </topicmeta>
+            <learningPlanRef href="../day_1/lesson_5/topic_1/bibframe_learning_plan.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_in_the_metadata_landscape.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/brief_history_of_bibframe.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model_2.dita"/>
+        </learningObject>
+        <!-- Topic 2: MADS/RDF -->
+        <learningObject>
+            <topicmeta>
+                <navtitle>MADS/RDF</navtitle>
+            </topicmeta>
+            <learningPlanRef href="../day_1/lesson_5/topic_2/madsrdf_learning_plan.dita"/>            
+            <learningContentRef href="../day_1/lesson_5/topic_2/day_1_lesson_6_topic_2.dita"/>
+        </learningObject>
+        <!-- Topic 3: Vocabularies -->
+        <learningObject>
+            <topicmeta>
+                <navtitle>Vocabularies</navtitle>
+            </topicmeta>
+            <learningPlanRef href="../day_1/lesson_5/topic_3/vocabs_learning_plan.dita"/>            
+            <learningContentRef href="../day_1/lesson_5/topic_3/day_1_lesson_6_topic_3.dita"/>
+        </learningObject>
+    </learningGroup>
+</learningGroupMap>

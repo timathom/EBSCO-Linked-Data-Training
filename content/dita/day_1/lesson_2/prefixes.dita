@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<concept id="prefixes">
+    <title>Prefixes</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>When we're writing RDF in Turtle, one of the first things we might want to do is declare
+            some prefixes and namespaces so that we don't have to type as much.</p>
+        <p>
+            <codeblock id="codeblock_sgk_xkh_sxb">@prefix bf: &lt;http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: &lt;http://purl.org/dc/terms/> .
+@prefix foaf: &lt;http://xmlns.com/foaf/0.1/> .
+
+&lt;https://metadatafram.es/alicia> foaf:name "Alicia" .</codeblock>
+        </p>
+    </conbody>
+</concept>

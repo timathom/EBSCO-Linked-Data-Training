@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="domain_and_range">
+    <title>Domain and Range</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_vmd_m2n_sxb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="learningSummary_f5s_k2n_sxb">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview id="lcReview_qgf_l2n_sxb">
+                <p dir="ltr">The <b>domain </b>and <b>range </b>of a property can also be defined. <lq>
+                        <p>A property domain limits the individuals that property can apply to.</p>
+                        <p>The range of a property limits the individuals it can take as its
+                            object. (<xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1"
+                                format="html" scope="external"><u>W3C</u></xref>)</p>
+                    </lq></p>
+            </lcReview>
+        </learningSummarybody>
+    </learningSummary>
+
+
+
+</learningContent>

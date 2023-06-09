@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningPlan.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningPlan id="rdf_basics_learning_plan">
+    <title>Learning Plan</title>
+    <shortdesc>Learning plan for an introductory lesson on the Resource Description Framework
+        (RDF).</shortdesc>
+    <prolog>
+        <author type="creator">Timothy Thompson, Yale University</author>
+        <author type="creator">timothy.thompson@yale.edu</author>        
+        <critdates>
+            <revised modified="2023-05-04"/>            
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+        </critdates>
+        <lcLom>
+            <lomTypicalLearningTime name="minutes" value="30">30 minutes</lomTypicalLearningTime>
+        </lcLom>
+    </prolog>
+    <learningPlanbody>
+        <lcProject>
+            <title><ph keyref="project-title"/></title>
+            <lcClient>
+                <p><ph keyref="client"/></p>
+            </lcClient>
+            <lcPlanTitle>
+                <p>Lesson 1: Introduction to the Resource Description Framework (RDF)</p>
+            </lcPlanTitle>
+            <lcDelivDate>
+                <p>May 10, 2023</p>
+            </lcDelivDate>
+            <lcPlanSubject>
+                <title>Focus</title>
+                <p>This lesson will focus on a basic introduction to the RDF model and syntax.</p>
+            </lcPlanSubject>
+            <lcPlanDescrip>
+                <title>Overview</title>
+                <p>Participants will gain familiarity with RDF fundamentals: the basic
+                    subject-predicate-object syntax of an RDF triple; how triples can be extracted
+                    from non-RDF datasources (e.g., spreadsheets); and how triples can be connected
+                    in the context of knowledge graphs.</p>
+            </lcPlanDescrip>
+            <lcPlanPrereqs>
+                <title>Prerequisites</title>
+                <p>As preparation, participants will have been introduced to the overarching
+                    framework of linked open data and its purpose.</p>
+            </lcPlanPrereqs>
+        </lcProject>              
+        <lcIntervention>
+            <title>Instruction and Activities</title>
+            <lcInterventionItem>
+                <lcLearnStrat>This lesson will begin with a technical introduction to RDF and
+                    knowledge graphs.</lcLearnStrat>
+                <lcPlanObjective>The goal of instruction is for learners to gain a baseline
+                    understanding of RDF as a graph-based semantic model. Participants will learn
+                    about common RDF serializations and gain exposure to Turtle and JSON-LD in
+                    particular.</lcPlanObjective>
+                <lcAssessment>Check for comprehension of content through interactive data entry
+                    exercises.</lcAssessment>
+                <lcDelivery>Content will be delivered in lecture format, combined with excersises
+                    done individually.</lcDelivery>
+            </lcInterventionItem>
+            <lcInterventionItem>
+                <lcLearnStrat>A "personal knowledge graph" will be provisioned for each learner, as
+                    well as a user interface for learners to enter new statements in their
+                    graph.</lcLearnStrat>
+                <lcPlanObjective>By the end of this lesson, learners will have a basic level of
+                    knowledge about how RDF data is structured and how to work with
+                    it.</lcPlanObjective>
+                <lcAssessment>After participants have entered a set of statements, the instructor
+                    should query the triple store to see whether the exercises where completed
+                    successfully. The participant with the most statements added will be
+                    congratulated.</lcAssessment>
+                <lcDelivery>Particpants will work individually with a bespoke user interface to
+                    complete a series of exercises with FOAF to begin populating their personal
+                    knowledge graph.</lcDelivery>
+            </lcInterventionItem>
+        </lcIntervention>
+        
+    </learningPlanbody>
+</learningPlan>

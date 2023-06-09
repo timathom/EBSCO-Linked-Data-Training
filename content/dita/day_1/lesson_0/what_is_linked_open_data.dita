@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="untitled9">
+    <title>What Is Linked Open Data?</title>
+    <shortdesc/>
+    <prolog>
+        <author type="creator">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcChallenge>
+            <p>Let's take apart the term "Linked Open Data" word by word to understand what it
+                entails.</p>
+        </lcChallenge>
+        <lcInstruction>
+            <p>Let's start with the word <b><keyword>data</keyword></b>. How would you define it? Is it
+                singular or plural? How do we talk about it?</p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

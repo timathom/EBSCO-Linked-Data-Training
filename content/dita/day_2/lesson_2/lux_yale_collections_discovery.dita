@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="lux">
+    <title>LUX: Yale Collections Discovery</title>
+    <shortdesc/>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <fig conkeyref="figures-key/fig_trh_4bb_txb"/>
+        </lcInstruction>
+    </learningContentbody>
+    <learningSummary id="lux_summary">
+        <title>Summary</title>
+        <learningSummarybody>
+            <lcReview>
+                <ul>
+                    <li><xref href="https://lux.collections.yale.edu/" format="html"
+                            scope="external">LUX: Yale Collections Discovery</xref> is a linked data
+                        discovery platform developed at Yale University.</li>
+                    <li>Its underlying semantic model is <xref href="https://linked.art/"
+                            format="html" scope="external">Linked.Art</xref>, a profile of the
+                        CIDOC-CRM ontology.</li>
+                    <li>The presentation (slides and video) linked below provides an overview of the
+                        LUX project.</li>
+                </ul>
+            </lcReview>
+        </learningSummarybody>
+        <related-links>
+            <link href="../../resources/presentations/Sanderson_Thompson_LUX_LOUD_LD42021.pdf"
+                format="pdf">
+                <linktext>LUX: Illuminating the Collections of Yale's Museums, Libraries, and
+                    Archives via Linked Open (Usable) Data [Slides]</linktext>
+                <desc>Presentation Slides</desc>
+            </link>
+            <link href="https://www.youtube.com/watch?v=C4lAJHOs1gY" scope="external" format="html">
+                <linktext>LUX: Illuminating the Collections of Yale's Museums, Libraries, and
+                    Archives via Linked Open (Usable) Data [Video]</linktext>
+                <desc>Presentation Video</desc>
+            </link>
+        </related-links>
+    </learningSummary>
+</learningContent>

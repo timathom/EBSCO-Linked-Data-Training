@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningPlan.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningPlan id="plan_qwg_xh5_3xb">
+    <title>Learning Plan</title>
+    <shortdesc>Learning plan for a hands-on lesson focused on next steps with ontologies and
+        semantic data modeling.</shortdesc>
+    <prolog>        
+        <author type="creator">Timothy Thompson, Yale University</author>
+        <author type="creator">timothy.thompson@yale.edu</author>        
+        <critdates>
+            <revised modified="2023-05-04"/>            
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+        </critdates>        
+        <metadata>
+            <keywords>
+                <indexterm>Gabriel García Márquez
+                    <indexterm>One Hundred Years of Solitude</indexterm>
+                </indexterm>
+                <indexterm>MARC 21
+                    <indexterm>Authority Format</indexterm>
+                    <indexterm>Bibliographic Format</indexterm>
+                </indexterm>                
+                <indexterm>Ontologies</indexterm>
+            </keywords>
+        </metadata>
+        <lcLom>
+            <lomTypicalLearningTime name="minutes" value="40">40 minutes</lomTypicalLearningTime>
+        </lcLom>        
+    </prolog>
+    <learningPlanbody>
+        <lcProject>
+            <title><ph keyref="project-title"/></title>
+            <lcClient>
+                <p><ph keyref="client"/></p>
+            </lcClient>
+            <lcPlanTitle>
+                <p>Lesson 5: Next Steps with Semantic Data Modeling and Ontology Development</p>
+            </lcPlanTitle>
+            <lcDelivDate>
+                <p>May 10, 2023</p>
+            </lcDelivDate>            
+            <lcPlanSubject>
+                <title>Focus</title>
+                <p>This lesson will focus on sketching out what an ontology for library information
+                    resources might look like if done from scratch.</p>
+            </lcPlanSubject>
+            <lcPlanDescrip>
+                <title>Overview</title>
+                <p>In this lesson, participants will use the competency questions drafted in the
+                    previous lesson as a terminology source for representing concepts in a domain
+                    ontology for library information resources. They will work on a card-sorting
+                    activity using MARC 21 data to build out their model.</p>
+            </lcPlanDescrip>
+            <lcPlanPrereqs>
+                <title>Prerequisites</title>
+                <p>As preparation for this lesson, participants will have developed a set of competency questions to guide them as they
+                    identify the key entities, relationships, and attributes that will be modeled.
+                    They will understand what an ontology is and how ontologies fit into the broader
+                    linked data ecosystem.</p>
+            </lcPlanPrereqs>
+        </lcProject>      
+        <lcIntervention>
+            <title>Instruction and Activities</title>
+            <lcInterventionItem>
+                <lcLearnStrat>Provide scaffolding for the card-sorting activity. Explain the source
+                    of the data (MARC 21 Bibliographic record for a Library of Congress copy of
+                        <cite>One Hundred Years of Solitude</cite> and MARC 21 Authority record for
+                    Gabriel García Márquez). Explain the information on the labeled versions of the
+                    activity cards.</lcLearnStrat>
+                <lcPlanObjective>The goal of instruction is to ensure that learners understand the
+                    purpose of the activity and are prepared for any challenges that may
+                    arise.</lcPlanObjective>
+                <lcAssessment>Check for comprehension before starting the activity.</lcAssessment>
+            </lcInterventionItem>
+            <lcInterventionItem>
+                <lcLearnStrat>During the card-sorting activity, participants will use inductive
+                    reasoning to classify discrete units of descriptive metadata and reflect on the
+                    limitations of current approaches.</lcLearnStrat>
+                <lcPlanObjective>Existing metadata will be used as a basis for participants to
+                    practice domain modeling and understand the Library of Congress BIBFRAME and
+                    MADS/RDF ontologies.</lcPlanObjective>
+                <lcAssessment>The activity will be assessed through group discussion and
+                    reflection.</lcAssessment>
+                <lcDelivery>Participants will work in groups of four to five people. They will be
+                    given three sets of cards with data elements printed on them and asked to sort
+                    the cards into meaningful groups.</lcDelivery>
+            </lcInterventionItem>
+        </lcIntervention>
+        
+    </learningPlanbody>
+</learningPlan>
+<!-- 
+<lcProject>
+            <lcPlanDescrip>
+                <p>Each group will be given a stack of cards with a data element printed on it and
+                    will sort the cards into categories that make sense to the individuals within
+                    the group.</p>
+            </lcPlanDescrip>
+        </lcProject>
+
+<learningContent id="card_sort_activity_rdf_linked_data">
+    <title>Card Sort Activity: Introduction to Semantic Data Modeling</title>
+    <shortdesc>This card sort activity introduces participants to semantic data modeling procedures and prepares them for a deeper dive into the Library of Congress BIBFRAME ontology.</shortdesc>
+    <learningContentbody>
+        <section>
+            <title>Activity Objectives</title>
+            <ul>
+                <li>Introduce participants to semantic data modeling procedures.</li>
+                <li>Prepare participants for a deeper understanding of the Library of Congress BIBFRAME ontology.</li>
+            </ul>
+        </section>
+        <section>
+            <title>Instructions</title>
+            <ol>
+                <li>Distribute the pre-prepared cards with example data from MARC Bibliographic, Holdings, and Authority records among the participants.</li>
+                <li>Ask the participants to sort the cards into categories based on the semantic relationships between the fields.</li>
+                <li>Allow the participants to discuss and collaborate as they sort the cards, considering how the relationships between the fields could be represented in RDF triples and linked data.</li>
+                <li>Once the participants have finished sorting the cards, review the card groupings as a group, discussing the thought process behind each semantic relationship.</li>
+            </ol>
+        </section>
+        <section>
+            <title>Sample Cards</title>
+            <p>Here are some examples of cards with example data from MARC records:</p>
+            <ul>
+                <li>Bibliographic: 245 - Title Statement - "The Catcher in the Rye"</li>
+                <li>Holdings: 852 - Location - "Main Library, 3rd Floor"</li>
+                <li>Authority: 100 - Heading - Personal Name - "Salinger, J.D."</li>
+            </ul>
+        </section>
+        <section>
+            <title>Discussion</title>
+            <p>After completing the card sort activity, facilitate a group discussion to encourage participants to share their insights and experiences. This will provide an opportunity for everyone to reflect on the activity and deepen their understanding of semantic data modeling. Possible discussion questions include:</p>
+            <ul>
+                <li>What challenges did you encounter while sorting the cards based on semantic relationships?</li>
+                <li>How did this activity change your perspective on cataloging and metadata practices?</li>
+                <li>What insights did you gain about semantic data modeling that could be useful for understanding the BIBFRAME ontology in the future?</li>
+            </ul>
+        </section>
+    </learningContentbody>
+</learningContent>
+
+-->

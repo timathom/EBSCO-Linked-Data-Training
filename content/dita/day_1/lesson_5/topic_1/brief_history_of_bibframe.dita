@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="brief_history_of_bibframe">
+    <title>A Brief History of BIBFRAME</title>
+    <shortdesc/>
+    <prolog>
+        <author type="contributor">timothy.thompson@yale.edu</author>
+        <critdates>
+            <created date="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <ul id="ul_wds_vdv_sxb">
+                <li dir="ltr">
+                    <p dir="ltr"><b>May 2011</b>: the launch of the BIBFRAME Initiative was
+                        announced</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>March 2013</b>: BIBFRAME 1.0 was released</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>2015</b>: the model was reviewed by invited experts, who
+                        recommended:</p>
+                    <ul id="ul_xds_vdv_sxb">
+                        <li dir="ltr">
+                            <p dir="ltr">Reuse of other vocabularies</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Links to things, not strings</p>
+                        </li>
+                        <li dir="ltr">
+                            <p dir="ltr">Rethinking the model for administrative metadata</p>
+                        </li>
+                    </ul>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>April 2016</b>: BIBFRAME 2.0 was launched</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>2018</b>: the Library of Congress BIBFRAME pilot project was
+                        launched</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>2021</b>: the "BIBFRAME 100" project was launched</p>
+                </li>
+                <li dir="ltr">
+                    <p dir="ltr"><b>June 2021</b>: BIBFRAME 2.1 was released</p>
+                </li>
+            </ul>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>
