@@ -24,6 +24,8 @@
             <revised modified="2023-06-08"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
         </critdates>
     </topicmeta>
     <learningGroup collection-type="sequence">
@@ -103,6 +105,28 @@
                 <learningContentComponentRef href="../day_1/lesson_2/blank_nodes.dita"/>
                 <learningContentComponentRef href="../day_1/lesson_2/lists.dita"/>
                 <learningContentComponentRef href="../day_1/lesson_2/type.dita"/>
+            </learningContentRef>
+            <learningContentRef href="../day_1/lesson_2/exercises_with_rdf_and_turtle.dita">
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_1.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_2.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_3.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_4.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_5.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_6.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_7.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_8.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_9.dita"/>
+                <learningContentComponentRef
+                    href="../day_1/lesson_2/exercises_with_rdf_and_turtle_exercise_10.dita"/>
             </learningContentRef>
         </learningObject>
         <!-- Lesson 3: Ontology Development and Competency Questions -->

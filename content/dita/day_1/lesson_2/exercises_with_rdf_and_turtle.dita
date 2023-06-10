@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningContent id="exercises_with_rdf_and_turtle">
+    <title>Exercises with RDF and Turtle</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <created date="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+        </critdates>
+    </prolog>
+    <learningContentbody>
+        <lcInstruction>
+            <p>
+                <ul id="ul_dm5_tlh_txb">
+                    <li>This set of 10 exercises will sharpen your skills in working with RDF and
+                        the Turtle format.</li>
+                    <li>Some exercises ask you to review a vocabulary such as <xref
+                            href="https://schema.org/" format="html" scope="external"
+                            >Schema.org</xref>, but most of them are hands-on and require you to
+                        edit a set of triples.</li>
+                    <li>To validate your work, use an RDF editor such as the <xref
+                            href="https://sketch.zazuko.com/" format="html" scope="external">Sketch
+                            editor</xref>, by Zazuko.</li>
+                </ul>
+            </p>
+        </lcInstruction>
+    </learningContentbody>
+</learningContent>

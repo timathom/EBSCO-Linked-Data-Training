@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:task.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task id="exercises_with_rdf_and_turtle_exercise_5">
+    <title>Exercise 5</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>
+                <codeblock outputclass="language-ttl">
+<![CDATA[
+@prefix schema: <http://schema.org/> .
+
+<> a schema: ;
+schema:name "" ;
+schema:author <> .
+]]>
+                </codeblock>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Use the <codeph>rdf:type</codeph> predicate or the special <codeph>a</codeph> shortcut to say what kind of thing the subject of these statements is.</cmd>
+            </step>
+            <step>
+                <cmd>Choose a term from <xref href="https://schema.org/" format="html"
+                        scope="external">Schema.org</xref>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="https://sketch.zazuko.com/" format="html" scope="external">
+            <linktext>RDF Sketch editor</linktext>
+        </link>
+    </related-links>
+</task>

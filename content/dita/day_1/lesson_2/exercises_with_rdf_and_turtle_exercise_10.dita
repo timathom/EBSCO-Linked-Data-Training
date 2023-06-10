@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:task.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task id="exercises_with_rdf_and_turtle_exercise_10">
+    <title>Exercise 10</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>
+                <codeblock outputclass="language-ttl">
+<![CDATA[
+@prefix bf: <http://id.loc.gov/ontologies/bibframe/> .
+@prefix dcterms: <https://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<> a schema:Book ;
+bf:title [ 
+  a bf:Title ; bf:mainTitle "" ;
+  dcterms:creator [] 
+] .
+]]>
+                </codeblock>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Where are the blank nodes in these statements?</cmd>
+            </step>
+            <step>
+                <cmd> Rewrite the blank nodes using alternative syntax and fill in the statements.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="https://sketch.zazuko.com/" format="html" scope="external">
+            <linktext>RDF Sketch editor</linktext>
+        </link>
+    </related-links>
+</task>

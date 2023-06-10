@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom ⍝ @timathom@indieweb.social]
+author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
 # Individuals

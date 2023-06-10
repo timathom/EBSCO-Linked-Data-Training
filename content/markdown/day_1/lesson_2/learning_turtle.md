@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom ⍝ @timathom@indieweb.social]
+author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
 # Learning Turtle
@@ -11,7 +11,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom ⍝ @tima
 
 **Previous topic:**[RDF](../../day_1/lesson_1/rdf_6.md)
 
-**Next topic:**[What Is an Ontology?](../../day_1/lesson_3/what_is_an_ontology.md)
+**Next topic:**[Exercises with RDF and Turtle](../../day_1/lesson_2/exercises_with_rdf_and_turtle.md)
 
 ## Prefixes
 

@@ -3,7 +3,7 @@
 <learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
   <title>Empowering Global Leaders: A Linked Data Training Program for Library Innovation</title>
   <topicmeta>
-    <author type="creator">Timothy A. Thompson ⍝ @timathom ⍝ @timathom@indieweb.social</author>
+    <author type="creator">Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social</author>
     <author type="contributor">EBSCO Information Services</author>
     <copyright>
       <copyryear year="2023"/>
@@ -35,6 +35,8 @@
       <revised modified="2023-06-08"/>
       <!--timothy.thompson@yale.edu-->
       <revised modified="2023-06-09"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-10"/>
     </critdates>
   </topicmeta>
   <learningGroup collection-type="sequence">

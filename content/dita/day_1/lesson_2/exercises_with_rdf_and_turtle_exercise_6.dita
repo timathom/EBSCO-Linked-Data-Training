@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:task.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task id="exercises_with_rdf_and_turtle_exercise_6">
+    <title>Exercise 6</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>
+                <table frame="all" rowsep="1" colsep="1" id="table_t5y_h4h_txb">
+                    <title>FOAF Triple Templates</title>
+                    <tgroup cols="3">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="newCol2" colnum="2" colwidth="1*"/>
+                        <colspec colname="c2" colnum="3" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry>Subject (Domain)</entry>
+                                <entry>Property</entry>
+                                <entry>Object (Range)</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry/>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Explore the vocabulary specification for <xref
+                        href="http://xmlns.com/foaf/0.1/" format="html" scope="external">FOAF</xref>
+                    (Friend of a Friend) and see what types of entities and properties are defined
+                    there.</cmd>
+            </step>
+            <step>
+                <cmd>List five possible "triple templates" in the table above, using classes that
+                    can be related to each other as subject and object.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

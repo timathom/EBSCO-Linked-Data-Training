@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:rng:task.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<task id="exercises_with_rdf_and_turtle_exercise_2">
+    <title>Exercise 2</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+        </critdates>
+    </prolog>
+    <taskbody>
+        <context>
+            <p>
+                <codeblock outputclass="language-ttl">
+<![CDATA[
+<https://metadatafram.es/data/person1> <http://xmlns.com/foaf/0.1/name> "Alice" .
+<https://metadatafram.es/data/person1> <http://xmlns.com/foaf/0.1/knows> <https://metadatafram.es/data/person2> .
+]]>
+                </codeblock>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Rewrite these triples using the feature of Turtle that allows us to avoid repeating a subject.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="https://sketch.zazuko.com/" format="html" scope="external">
+            <linktext>RDF Sketch editor</linktext>
+        </link>
+    </related-links>
+</task>

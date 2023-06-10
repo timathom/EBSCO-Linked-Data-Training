@@ -1,5 +1,5 @@
 ---
-author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom ⍝ @timathom@indieweb.social]
+author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
 # What Is an Ontology?
@@ -11,7 +11,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom ⍝ @tima
 -   An ontology is a **model of reality** expressed as a formal specification of **classes**, **properties**, and **individuals**.
 -   An ontology is a **semantic schema** that documents the meaning of our data.
 
-**Previous topic:**[Learning Turtle](../../day_1/lesson_2/learning_turtle.md)
+**Previous topic:**[Exercises with RDF and Turtle](../../day_1/lesson_2/exercises_with_rdf_and_turtle.md)
 
 **Next topic:**[Ontology Design](../../day_1/lesson_3/ontology_design.md)
 
