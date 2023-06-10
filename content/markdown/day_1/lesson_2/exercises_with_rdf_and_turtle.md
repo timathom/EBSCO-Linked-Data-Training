@@ -125,7 +125,7 @@ schema:author <> .
 
 1.  Explore the vocabulary specification for [FOAF](http://xmlns.com/foaf/0.1/) \(Friend of a Friend\) and see what types of entities and properties are defined there.
 
-2.  List five possible "triple templates" in the table above, using classes that can be related to each other as subject and object.
+2.  List five possible "triple templates" in a table like the one above, using classes that can be related to each other as subject and object.
 
 
 ## Exercise 7
