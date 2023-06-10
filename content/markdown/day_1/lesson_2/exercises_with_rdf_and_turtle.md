@@ -81,7 +81,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 1.  Explore the [Schema.org](https://schema.org/) vocabulary and see what types of entities and properties are defined there.
 
-2.  List five possible "triple templates" in the table above, using classes that can be related to each other as subject and object.
+2.  List five possible "triple templates" in a table like the one above, using classes that can be related to each other as subject and object.
 
 
 **Related information**  
