@@ -13,8 +13,10 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 ## Summary
 
 -   Let's return to our spreadsheet data.
--   Here is [an example](../../resources/data/spreadsheet_schema.ttl) of a simple ontology expressed using RDFS. Example inspired by the book [*Linked Data: Structured Data on the Web \(Wood et al., 2013\)*](https://www.manning.com/books/linked-data).
+-   Here is [an example](../../resources/data/spreadsheet_schema.ttl) of a simple ontology expressed using RDFS. [1](#fntarg_1)
 -   It provides a semantic schema for the spreadsheet.
 -   It clearly identifies the entities and relationships in the data.
 -   It incorporates concepts from other linked data vocabularies, such as Friend of a Friend \(FOAF\) and Schema.org.
+
+[1](#fnsrc_1) Example inspired by the book [*Linked Data: Structured Data on the Web \(Wood et al., 2013\)*](https://www.manning.com/books/linked-data).
 
