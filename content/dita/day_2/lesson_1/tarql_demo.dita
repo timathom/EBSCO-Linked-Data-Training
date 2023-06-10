@@ -8,6 +8,8 @@
             <created date="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
         </critdates>
     </prolog>
     <learningContentbody>
@@ -21,7 +23,8 @@
             <lcReview>
                 <p>Using a command-line tool such as Tarql, we can easily convert from tabular data
                     and spreadsheets to RDF triples that conform to a semantic schema or
-                    ontology.</p>
+                    ontology. <fn>Example inspired by the book <cite keyref="linked-data-manning">Linked
+                        Data: Structured Data on the Web (Wood et al., 2013)</cite>.</fn></p>
             </lcReview>
         </learningSummarybody>
     </learningSummary>

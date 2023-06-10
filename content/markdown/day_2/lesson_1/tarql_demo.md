@@ -14,7 +14,7 @@ Debugging
 
 ## Summary
 
-Using a command-line tool such as Tarql, we can easily convert from tabular data and spreadsheets to RDF triples that conform to a semantic schema or ontology.
+Using a command-line tool such as Tarql, we can easily convert from tabular data and spreadsheets to RDF triples that conform to a semantic schema or ontology. [1](#fntarg_1)
 
 ## Tarql Demo: Input and Output
 
@@ -31,4 +31,6 @@ Using a command-line tool such as Tarql, we can easily convert from tabular data
 [CSV input data](../../resources/data/participants_fictional.csv)
 
 [Turtle output data](../../resources/data/participants_fictional_mapped.ttl)
+
+[1](#fnsrc_1) Example inspired by the book [*Linked Data: Structured Data on the Web \(Wood et al., 2013\)*](https://www.manning.com/books/linked-data).
 

@@ -4,7 +4,7 @@
 <?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
 <?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
 <?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
-<learningGroupMap xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map learningGroupMap/learningGroupMap " ditaarch:DITAArchVersion="1.3" domains="(map learningAggregationsTopicref-c) (map learningGroupMap+learningMap-d) (topic delay-d) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map learningmap-d) (topic learningmeta-d) (map mapgroup-d) (topic relmgmt-d) (topic ut-d) a(props deliveryTarget)" specializations="@props/deliveryTarget" xtrc="learningGroupMap:1;3:19" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/submaps/day_2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+<learningGroupMap xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map learningGroupMap/learningGroupMap " collection-type="sequence" ditaarch:DITAArchVersion="1.3" domains="(map learningAggregationsTopicref-c) (map learningGroupMap+learningMap-d) (topic delay-d) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (map learningmap-d) (topic learningmeta-d) (map mapgroup-d) (topic relmgmt-d) (topic ut-d) a(props deliveryTarget)" processing-role="normal" specializations="@props/deliveryTarget" toc="yes" xtrc="learningGroupMap:1;3:81" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/submaps/day_2.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
         <navtitle class="- topic/navtitle ">Day 2</navtitle>
         <critdates class="- topic/critdates ">
             
@@ -16,56 +16,56 @@
         </critdates>
     </topicmeta><oxy:front-page-title class="- front-page/front-page-title "/></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
     
-    <learningGroup is-chapter="true" class="+ map/topicref learningmap-d/learningGroup "><learningObject class="+ map/topicref learningmap-d/learningObject "><topicmeta class="- map/topicmeta "><navtitle href="#d139e25" class="- topic/navtitle ">Suggested Schedule for Day 2</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_1" type="learningOverview"><topicmeta class="- map/topicmeta " data-topic-id="learningOverview_j4p_plr_rxb"><resourceid appid="learningOverview_j4p_plr_rxb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Suggested Schedule for Day 2</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Day 2 of the training is intended to begin at 9:00 a.m. and end at 12:30         p.m.</shortdesc><critdates class="- topic/critdates ">
+    <learningGroup is-chapter="true" class="+ map/topicref learningmap-d/learningGroup " processing-role="normal" toc="yes"><learningObject class="+ map/topicref learningmap-d/learningObject " processing-role="normal" toc="yes"><topicmeta class="- map/topicmeta "><navtitle href="#d135e25" class="- topic/navtitle ">Suggested Schedule for Day 2</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_1" processing-role="normal" toc="yes" type="learningOverview"><topicmeta class="- map/topicmeta " data-topic-id="learningOverview_j4p_plr_rxb"><resourceid appid="learningOverview_j4p_plr_rxb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Suggested Schedule for Day 2</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Day 2 of the training is intended to begin at 9:00 a.m. and end at 12:30         p.m.</shortdesc><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject "><topicmeta class="- map/topicmeta "><navtitle href="#d139e48" class="- topic/navtitle ">Review of Day 1</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_2" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="day_2_lesson_0"><resourceid appid="day_2_lesson_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Review of Day 1</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject " processing-role="normal" toc="yes"><topicmeta class="- map/topicmeta "><navtitle href="#d135e48" class="- topic/navtitle ">Review of Day 1</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_2" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="day_2_lesson_0"><resourceid appid="day_2_lesson_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Review of Day 1</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject "><topicmeta class="- map/topicmeta "><navtitle href="#d139e70" class="- topic/navtitle ">Showcase of Tools</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_3" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="content_spj_rnj_kxb"><resourceid appid="content_spj_rnj_kxb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Showcase of Tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Debugging</shortdesc><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject " processing-role="normal" toc="yes"><topicmeta class="- map/topicmeta "><navtitle href="#d135e70" class="- topic/navtitle ">Showcase of Tools</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_3" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="content_spj_rnj_kxb"><resourceid appid="content_spj_rnj_kxb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Showcase of Tools</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Debugging</shortdesc><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_4" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="tarql_demo"><resourceid appid="tarql_demo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Tarql Demo: From Spreadsheets to Triples</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Debugging</shortdesc><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_4" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="tarql_demo"><resourceid appid="tarql_demo" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Tarql Demo: From Spreadsheets to Triples</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Debugging</shortdesc><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta><learningContentComponentRef class="+ map/topicref learningmap-d/learningContentComponentRef " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="tarql_demo_2"><resourceid appid="tarql_demo_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Tarql Demo: Input and Output</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
+        </critdates></topicmeta><learningContentComponentRef class="+ map/topicref learningmap-d/learningContentComponentRef " href="#unique_6" processing-role="normal" toc="yes" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="tarql_demo_2"><resourceid appid="tarql_demo_2" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Tarql Demo: Input and Output</navtitle><?ditaot gentext?><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentComponentRef></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject "><topicmeta class="- map/topicmeta "><navtitle href="#d139e128" class="- topic/navtitle ">Example Use Cases and Applications</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_10" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux"><resourceid appid="lux" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">LUX: Yale Collections Discovery</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentComponentRef></learningContentRef></learningObject><learningObject class="+ map/topicref learningmap-d/learningObject " processing-role="normal" toc="yes"><topicmeta class="- map/topicmeta "><navtitle href="#d135e128" class="- topic/navtitle ">Example Use Cases and Applications</navtitle></topicmeta><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_7" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux"><resourceid appid="lux" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">LUX: Yale Collections Discovery</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_12" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux_yale_collections_discovery_competency_questions"><resourceid appid="lux_yale_collections_discovery_competency_questions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">LUX: Competency Questions</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_9" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux_yale_collections_discovery_competency_questions"><resourceid appid="lux_yale_collections_discovery_competency_questions" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">LUX: Competency Questions</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
             <revised class="- topic/revised " modified="2023-06-04"/>
             
             <revised class="- topic/revised " modified="2023-06-09"/>
-        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_13" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux_yale_collections_discovery_activity"><resourceid appid="lux_yale_collections_discovery_activity" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">LUX Activity</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
+        </critdates></topicmeta></learningContentRef><learningContentRef class="+ map/topicref learningmap-d/learningContentRef " href="#unique_10" processing-role="normal" toc="yes" type="learningContent"><topicmeta class="- map/topicmeta " data-topic-id="lux_yale_collections_discovery_activity"><resourceid appid="lux_yale_collections_discovery_activity" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">LUX Activity</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
             
@@ -73,7 +73,7 @@
             
             <revised class="- topic/revised " modified="2023-06-09"/>
         </critdates></topicmeta></learningContentRef></learningObject></learningGroup>
-</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d139e25" topicrefclass="+ map/topicref learningmap-d/learningObject "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Suggested Schedule for Day 2</ph></title><learningOverview class="- topic/topic learningBase/learningBase     learningOverview/learningOverview " id="unique_1" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="learningOverview_j4p_plr_rxb" oid="learningOverview_j4p_plr_rxb" specializations="@props/deliveryTarget">
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d135e25" topicrefclass="+ map/topicref learningmap-d/learningObject " topicreftoc="yes"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Suggested Schedule for Day 2</ph></title><learningOverview class="- topic/topic learningBase/learningBase     learningOverview/learningOverview " id="unique_1" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="learningOverview_j4p_plr_rxb" oid="learningOverview_j4p_plr_rxb" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Suggested Schedule for Day 2</ph></title>
     <shortdesc class="- topic/shortdesc ">Day 2 of the training is intended to begin at 9:00 a.m. and end at 12:30
         p.m.</shortdesc>
@@ -113,11 +113,10 @@
             </dl>
         </section>
     </learningOverviewbody>
-</learningOverview></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d139e48" topicrefclass="+ map/topicref learningmap-d/learningObject "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Review of Day 1</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_2" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="day_2_lesson_0" oid="day_2_lesson_0" specializations="@props/deliveryTarget">
+</learningOverview></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d135e48" topicrefclass="+ map/topicref learningmap-d/learningObject " topicreftoc="yes"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Review of Day 1</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_2" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="day_2_lesson_0" oid="day_2_lesson_0" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Review of Day 1</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
-        <author class="- topic/author " type="creator">timothy.thompson@yale.edu</author>
         <critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
@@ -154,14 +153,13 @@
         </lcInstruction>
     </learningContentbody>
     <related-links class="- topic/related-links ">
-        <link class="- topic/link " format="pdf" href="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf"><?ditaot usertext?><linktext class="- topic/linktext ">Bibliographic Record Unlabeled (<ph class="- topic/ph "><cite class="- topic/cite ">Cien años de
+        <link class="- topic/link " format="pdf" href="resources/activities/card_sorting_activity/card_sort_activity_bib_unlabeled.pdf" scope="local"><?ditaot usertext?><linktext class="- topic/linktext ">Bibliographic Record Unlabeled (<ph class="- topic/ph "><cite class="- topic/cite ">Cien años de
                 soledad</cite></ph>)</linktext></link>        
     </related-links>
-</learningContent></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d139e70" topicrefclass="+ map/topicref learningmap-d/learningObject "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Showcase of Tools</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_3" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="content_spj_rnj_kxb" oid="content_spj_rnj_kxb" specializations="@props/deliveryTarget">
+</learningContent></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d135e70" topicrefclass="+ map/topicref learningmap-d/learningObject " topicreftoc="yes"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Showcase of Tools</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_3" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="content_spj_rnj_kxb" oid="content_spj_rnj_kxb" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Showcase of Tools</ph></title>
     <shortdesc class="- topic/shortdesc ">Debugging</shortdesc>
     <prolog class="- topic/prolog ">
-        <author class="- topic/author " type="creator">timothy.thompson@yale.edu</author>
         <critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
@@ -175,13 +173,15 @@
         <lcInstruction class="- topic/section learningBase/lcInstruction ">
             <table class="- topic/table " id="unique_3_Connect_42_table_cdy_lx1_txb" nd:nd-id="table_cdy_lx1_txb">
                 <tgroup class="- topic/tgroup " cols="2">
-                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="380px" xtrc="colspec:1;18:74" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/day_2/lesson_1/showcase_of_tools.dita" style="width:380px;"/>
-                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="380px" xtrc="colspec:2;19:74" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/day_2/lesson_1/showcase_of_tools.dita" style="width:380px;"/>
-                    <tbody class="- topic/tbody ">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="380px" xtrc="colspec:1;17:74" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/day_2/lesson_1/showcase_of_tools.dita" style="width:380px;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="380px" xtrc="colspec:2;18:74" xtrf="file:/Users/tt434/Dropbox/YUL/2023/ebsco/content/training/day_2/lesson_1/showcase_of_tools.dita" style="width:380px;"/>
+                    <thead class="- topic/thead ">
                         <row class="- topic/row ">
                             <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Tool</b></entry>
                             <entry class="- topic/entry " colname="col2" dir="ltr" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Free and Open Source?</b></entry>
                         </row>
+                    </thead>
+                    <tbody class="- topic/tbody ">                        
                         <row class="- topic/row ">
                             <entry class="- topic/entry " colname="col1" dir="ltr" dita-ot:x="1" dita-ot:y="2"><xref class="- topic/xref " format="html" href="https://github.com/tarql/tarql" scope="external"><?ditaot usertext?><u class="+ topic/ph hi-d/u ">TARQL</u></xref> (SPARQL for
                                 Tables)</entry>
@@ -220,11 +220,10 @@
             </table>
         </lcInstruction>
     </learningContentbody>
-</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_4" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="tarql_demo" oid="tarql_demo" specializations="@props/deliveryTarget">
+</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_4" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="tarql_demo" oid="tarql_demo" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tarql Demo: From Spreadsheets to Triples</ph></title>
     <shortdesc class="- topic/shortdesc ">Debugging</shortdesc>
     <prolog class="- topic/prolog ">
-        <author class="- topic/author " type="creator">timothy.thompson@yale.edu</author>
         <critdates class="- topic/critdates ">
             
             <revised class="- topic/revised " modified="2023-05-09"/>
@@ -244,12 +243,13 @@
         <learningSummarybody class="- topic/body  learningBase/learningBasebody learningSummary/learningSummarybody ">
             <lcReview class="- topic/section learningBase/lcReview ">
                 <p class="- topic/p ">Using a command-line tool such as Tarql, we can easily convert from tabular data
-                    and spreadsheet to RDF triples that conform to a semantic schema or
-                    ontology.</p>
+                    and spreadsheets to RDF triples that conform to a semantic schema or
+                    ontology. Example inspired by the book <cite class="- topic/cite " keyref="linked-data-manning">Linked
+                        Data: Structured Data on the Web (Wood et al., 2013)</cite>.</p>
             </lcReview>
         </learningSummarybody>
     </learningSummary>
-<topic class="- topic/topic " id="unique_6" topicrefclass="+ map/topicref learningmap-d/learningContentComponentRef " nd:nd-id="tarql_demo_2" oid="tarql_demo_2" specializations="@props/deliveryTarget">
+<topic class="- topic/topic " id="unique_6" topicrefclass="+ map/topicref learningmap-d/learningContentComponentRef " topicreftoc="yes" nd:nd-id="tarql_demo_2" oid="tarql_demo_2" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Tarql Demo: Input and Output</ph></title>
     <prolog class="- topic/prolog ">
         <critdates class="- topic/critdates ">
@@ -277,11 +277,11 @@
         </p>
     </body>
     <related-links class="- topic/related-links ">
-        <link class="- topic/link " href="#unique_7" broken-link="true"><?ditaot usertext?><linktext class="- topic/linktext ">SPARQL Mapping Query</linktext></link>
-        <link class="- topic/link " href="#unique_8" broken-link="true"><?ditaot usertext?><linktext class="- topic/linktext ">CSV input data</linktext></link>
-        <link class="- topic/link " href="#unique_9" broken-link="true"><?ditaot usertext?><linktext class="- topic/linktext ">Turtle output data</linktext></link>
+        <link class="- topic/link " format="rq" href="resources/code/participants_mapping.rq"><?ditaot usertext?><linktext class="- topic/linktext ">SPARQL Mapping Query</linktext></link>
+        <link class="- topic/link " format="csv" href="resources/data/participants_fictional.csv"><?ditaot usertext?><linktext class="- topic/linktext ">CSV input data</linktext></link>
+        <link class="- topic/link " format="ttl" href="resources/data/participants_fictional_mapped.ttl"><?ditaot usertext?><linktext class="- topic/linktext ">Turtle output data</linktext></link>
     </related-links>
-</topic></learningContent></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d139e128" topicrefclass="+ map/topicref learningmap-d/learningObject "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Example Use Cases and Applications</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_10" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="lux" oid="lux" specializations="@props/deliveryTarget">
+</topic></learningContent></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="+ topic/topic pdf2-d/placeholder " id="d135e128" topicrefclass="+ map/topicref learningmap-d/learningObject " topicreftoc="yes"><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Example Use Cases and Applications</ph></title><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_7" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="lux" oid="lux" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">LUX: Yale Collections Discovery</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
@@ -299,7 +299,7 @@
             <fig class="- topic/fig " conkeyref="figures-key/fig_trh_4bb_txb"/>
         </lcInstruction>
     </learningContentbody>
-    <learningSummary class="- topic/topic learningBase/learningBase     learningSummary/learningSummary " id="unique_11" nd:nd-id="lux_summary" oid="lux_summary" specializations="@props/deliveryTarget">
+    <learningSummary class="- topic/topic learningBase/learningBase     learningSummary/learningSummary " id="unique_8" nd:nd-id="lux_summary" oid="lux_summary" specializations="@props/deliveryTarget">
         <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Summary</ph></title>
         <learningSummarybody class="- topic/body  learningBase/learningBasebody learningSummary/learningSummarybody ">
             <lcReview class="- topic/section learningBase/lcReview ">
@@ -315,12 +315,12 @@
         </learningSummarybody>
         <related-links class="- topic/related-links ">
             <link class="- topic/link " format="pdf" href="resources/presentations/Sanderson_Thompson_LUX_LOUD_LD42021.pdf"><?ditaot usertext?><linktext class="- topic/linktext ">LUX: Illuminating the Collections of Yale's Museums, Libraries, and
-                    Archives via Linked Open (Usable) Data (Slides)</linktext><desc class="- topic/desc ">Presentation Slides</desc></link>
+                    Archives via Linked Open (Usable) Data [Slides]</linktext><desc class="- topic/desc ">Presentation Slides</desc></link>
             <link class="- topic/link " format="html" href="https://www.youtube.com/watch?v=C4lAJHOs1gY" scope="external"><?ditaot usertext?><linktext class="- topic/linktext ">LUX: Illuminating the Collections of Yale's Museums, Libraries, and
-                    Archives via Linked Open (Usable) Data (Video)</linktext><desc class="- topic/desc ">Presentation Video</desc></link>
+                    Archives via Linked Open (Usable) Data [Video]</linktext><desc class="- topic/desc ">Presentation Video</desc></link>
         </related-links>
     </learningSummary>
-</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_12" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="lux_yale_collections_discovery_competency_questions" oid="lux_yale_collections_discovery_competency_questions" specializations="@props/deliveryTarget">
+</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_9" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="lux_yale_collections_discovery_competency_questions" oid="lux_yale_collections_discovery_competency_questions" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">LUX: Competency Questions</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
@@ -335,7 +335,7 @@
     </prolog>
     <learningContentbody class="- topic/body  learningBase/learningBasebody learningContent/learningContentbody ">
         <lcInstruction class="- topic/section learningBase/lcInstruction ">
-            <ul class="- topic/ul " id="unique_12_Connect_42_ul_j5g_5cb_txb" nd:nd-id="ul_j5g_5cb_txb">
+            <ul class="- topic/ul " id="unique_9_Connect_42_ul_j5g_5cb_txb" nd:nd-id="ul_j5g_5cb_txb">
                 <li class="- topic/li " dir="ltr">
                     <p class="- topic/p " dir="ltr">What paintings from 1900-2015 are by Jewish women from Britain?</p>
                 </li>
@@ -384,7 +384,7 @@
             </ul>
         </lcInstruction>
     </learningContentbody>    
-</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_13" topicrefclass="+ map/topicref learningmap-d/learningContentRef " nd:nd-id="lux_yale_collections_discovery_activity" oid="lux_yale_collections_discovery_activity" specializations="@props/deliveryTarget">
+</learningContent><learningContent class="- topic/topic learningBase/learningBase learningContent/learningContent " id="unique_10" topicrefclass="+ map/topicref learningmap-d/learningContentRef " topicreftoc="yes" nd:nd-id="lux_yale_collections_discovery_activity" oid="lux_yale_collections_discovery_activity" specializations="@props/deliveryTarget">
     <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">LUX Activity</ph></title>
     <shortdesc class="- topic/shortdesc "/>
     <prolog class="- topic/prolog ">
@@ -399,7 +399,7 @@
     </prolog>
     <learningContentbody class="- topic/body  learningBase/learningBasebody learningContent/learningContentbody ">
         <lcInstruction class="- topic/section learningBase/lcInstruction ">
-            <ul class="- topic/ul " id="unique_13_Connect_42_ul_t25_xcb_txb" nd:nd-id="ul_t25_xcb_txb">
+            <ul class="- topic/ul " id="unique_10_Connect_42_ul_t25_xcb_txb" nd:nd-id="ul_t25_xcb_txb">
                 <li class="- topic/li " dir="ltr">
                     <p class="- topic/p " dir="ltr">Explore the user interface. What do you like or dislike about
                         it?</p>

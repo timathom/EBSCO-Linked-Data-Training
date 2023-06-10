@@ -22,6 +22,8 @@
             <revised modified="2023-06-08"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
         </critdates>
     </topicmeta>
     <keydef keys="project-title">
@@ -52,6 +54,8 @@
         href="https://www.youtube.com/watch?v=4x_xzT5eF5Q"/>
     <keydef keys="what-is-rdf" scope="external" format="html"
         href="https://www.bobdc.com/blog/whatisrdf/"/>
+    <keydef keys="linked-data-manning" scope="external" format="html"
+        href="https://www.manning.com/books/linked-data"/>
     <topicgroup>
         <topicmeta>
             <navtitle>Images</navtitle>

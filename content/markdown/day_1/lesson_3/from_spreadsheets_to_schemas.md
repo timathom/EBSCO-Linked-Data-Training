@@ -13,5 +13,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 ## Summary
 
 -   Tabular data, such as what we find in spreadsheets, is not self-documenting.
--   We can guess about the meaning of columns and fields, but without a **semantic** schema, we can't be sure that our interpretation is correct.
+-   We can guess about the meaning of columns and fields, but without a **semantic** schema, we can't be sure that our interpretation is correct. [1](#fntarg_1)
+
+[1](#fnsrc_1) Example inspired by the book [*Linked Data: Structured Data on the Web \(Wood et al., 2013\)*](https://www.manning.com/books/linked-data).
 

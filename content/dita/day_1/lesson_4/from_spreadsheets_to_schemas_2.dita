@@ -8,6 +8,8 @@
             <created date="2023-06-07"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
         </critdates>
     </prolog>
     <learningContentbody>
@@ -24,7 +26,8 @@
                         <li>Let's return to our spreadsheet data.</li>
                         <li>Here is <xref href="../../resources/data/spreadsheet_schema.ttl"
                                 format="ttl">an example</xref> of a simple ontology expressed using
-                            RDFS.</li>
+                            RDFS. Example inspired by the book <cite keyref="linked-data-manning">Linked
+                                Data: Structured Data on the Web (Wood et al., 2013)</cite>.</li>
                         <li>It provides a semantic schema for the spreadsheet.</li>
                         <li>It clearly identifies the entities and relationships in the data.</li>
                         <li>It incorporates concepts from other linked data vocabularies, such as

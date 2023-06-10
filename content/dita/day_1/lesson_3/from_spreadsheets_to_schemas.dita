@@ -2,17 +2,19 @@
 <?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <learningContent id="from_spreadsheets_to_schemas">
     <title>From Spreadsheets to Schemas</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <prolog>
         <critdates>
             <created date="2023-06-07"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
         </critdates>
     </prolog>
     <learningContentbody>
         <lcInstruction>
-          <fig conkeyref="figures-key/fig_s1f_21n_sxb"/>
+            <fig conkeyref="figures-key/fig_s1f_21n_sxb"/>
         </lcInstruction>
     </learningContentbody>
     <learningSummary id="learningSummary_f1j_31n_sxb">
@@ -25,11 +27,13 @@
                             self-documenting.</li>
                         <li>We can guess about the meaning of columns and fields, but without a
                                 <b>semantic</b> schema, we can't be sure that our interpretation is
-                            correct.</li>
+                            correct. <fn>Example inspired by the book <cite
+                                    keyref="linked-data-manning">Linked Data: Structured Data on the
+                                    Web (Wood et al., 2013)</cite>.</fn></li>
                     </ul>
                 </p>
             </lcReview>
         </learningSummarybody>
     </learningSummary>
-    
+
 </learningContent>
