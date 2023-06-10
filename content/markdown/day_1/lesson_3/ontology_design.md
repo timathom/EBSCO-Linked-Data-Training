@@ -4,7 +4,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 # Ontology Design
 
--   One of the first steps toward creating an ontology in to develop a set of **competency questions**.
+-   One of the first steps toward creating an ontology is to develop a set of **competency questions**.
 
 -   These are questions that serve to define the scope of an ontology and test its usefulness later on.
 
