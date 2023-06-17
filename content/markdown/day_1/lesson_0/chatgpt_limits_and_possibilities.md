@@ -12,7 +12,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 -   Does ChatGPT undermine the linked data thesis?
 
--   Can machine understanding can be achieved **without** semantics, by learning complex probability distributions from unstructured data?
+-   Can machine understanding be achieved **without** semantics, by learning complex probability distributions from unstructured data?
 
 
 **Previous topic:**[Machine Understanding](../../day_1/lesson_0/machine_understanding_2.md)
