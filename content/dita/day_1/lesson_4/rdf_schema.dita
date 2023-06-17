@@ -14,7 +14,7 @@
         <lcInstruction>
             <ul id="ul_kys_xzm_sxb">
                 <li dir="ltr">
-                    <p dir="ltr">RDF includes a schema extension focused on the laying the
+                    <p dir="ltr">RDF includes a schema extension focused on laying the
                         foundation for ontology development and semantic data modeling, <xref
                             href="https://www.w3.org/TR/rdf12-schema/" format="html"
                             scope="external">RDF Schema</xref> (RDFS) </p>
