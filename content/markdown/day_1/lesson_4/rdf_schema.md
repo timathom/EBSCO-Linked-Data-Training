@@ -4,7 +4,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 # RDF Schema
 
--   RDF includes a schema extension focused on the laying the foundation for ontology development and semantic data modeling, [RDF Schema](https://www.w3.org/TR/rdf12-schema/) \(RDFS\)
+-   RDF includes a schema extension focused on laying the foundation for ontology development and semantic data modeling, [RDF Schema](https://www.w3.org/TR/rdf12-schema/) \(RDFS\)
 
 -   It defines modeling concepts such as:
 
