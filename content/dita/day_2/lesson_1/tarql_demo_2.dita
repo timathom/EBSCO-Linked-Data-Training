@@ -10,15 +10,15 @@
     <body>
         <p>
             <ul id="ul_sr3_vz1_txb">
-                <li>After downloaded Tarql, we run it from the command line like this: <codeph>sh
+                <li>After downloading Tarql, we run it from the command line like this: <codeph>sh
                         bin/tarql -v participants_mapping.rq participants_fictional.csv >
                         participants_mapped.ttl</codeph></li>
                 <li>We need to specify a SPARQL query to map our data
                         (<codeph>participants_mapping.rq</codeph>), an input CSV file
-                        (<codeph>participants_fictional.csv</codeph>) and a Turtle file for saving
+                        (<codeph>participants_fictional.csv</codeph>), and a Turtle file for saving
                     our output (<codeph>participants_fictional_mapped.ttl</codeph>).</li>
                 <li>The Turtle file can then be loaded into a triple store for querying.</li>
-                <li>You can see examples below under Related Links.</li>
+                <li>You can see examples below under Related information.</li>
             </ul>
         </p>
     </body>
