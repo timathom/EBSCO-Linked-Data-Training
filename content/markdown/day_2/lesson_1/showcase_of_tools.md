@@ -8,7 +8,7 @@ Debugging
 
 |**Tool**|**Free and Open Source?**|
 |--------|-------------------------|
-|[TARQL](https://github.com/tarql/tarql) \(SPARQL for Tables\)|Yes|
+|[Tarql](https://github.com/tarql/tarql) \(SPARQL for Tables\)|Yes|
 |ChatGPT \(for data conversion\)|No|
 |marc2bibframe2 \([hosted](https://id.loc.gov/tools/bibframe/comparebf-lccn/86197491.txt) \| also available as a Metaproxy Z39.50 plugin\)|Yes|
 |[Sparnatural](https://sparnatural.eu/) \(visual SPARQL explorer\)|Yes|
