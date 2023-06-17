@@ -16,7 +16,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 -   It consists of a relation between **subject** and **object**, defined by a **predicate.**
 
--   A **resource**is anything that we want to say something about.
+-   A **resource** is anything that we want to say something about.
 
 
 -   To make statements about resources, we need to **identify** them.
