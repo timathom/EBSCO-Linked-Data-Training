@@ -19,7 +19,7 @@ Using a command-line tool such as Tarql, we can easily convert from tabular data
 -   After downloading Tarql, we run it from the command line like this: `sh bin/tarql -v participants_mapping.rq participants_fictional.csv > participants_mapped.ttl`
 -   We need to specify a SPARQL query to map our data \(`participants_mapping.rq`\), an input CSV file \(`participants_fictional.csv`\), and a Turtle file for saving our output \(`participants_fictional_mapped.ttl`\).
 -   The Turtle file can then be loaded into a triple store for querying.
--   You can see examples below under Related Links.
+-   You can see examples below under Related information.
 
 **Related information**  
 
