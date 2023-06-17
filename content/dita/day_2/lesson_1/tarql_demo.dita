@@ -2,7 +2,7 @@
 <?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <learningContent id="tarql_demo">
     <title>Tarql Demo: From Spreadsheets to Triples</title>
-    <shortdesc>Debugging</shortdesc>
+    <shortdesc></shortdesc>
     <prolog>
         <critdates>
             <created date="2023-05-09"/>
