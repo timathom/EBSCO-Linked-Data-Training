@@ -4,7 +4,7 @@ author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom
 
 # Ontologies and Controlled Vocabularies
 
--   An ontology allows us to define a data model the reflects reality in all its complexity.
+-   An ontology allows us to define a data model that reflects reality in all its complexity.
 
 
 -   For its part, a controlled vocabulary has a simpler intent.
