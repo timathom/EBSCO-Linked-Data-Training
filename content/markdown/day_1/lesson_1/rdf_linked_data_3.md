@@ -18,7 +18,7 @@ Challenge participants to think about the *type* of entity represented by this U
 -   A *part of* relation to the dictionary as a whole
 -   Or a single dictionary entry might consist of multiple *definitions*
 -   Each definition might be related to a specific domain \(e.g., computer science\)
--   An entry might also include multiple *phrases* or *expressions* is which a term is frequently used \(e.g., *base de datos*\).
+-   An entry might also include multiple *phrases* or *expressions* in which a term is frequently used \(e.g., *base de datos*\).
 
 **Previous topic:**[RDF/Linked Data](../../day_1/lesson_1/rdf_linked_data_2.md)
 
