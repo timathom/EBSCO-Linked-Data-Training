@@ -6,6 +6,8 @@ The content of these training modules was originally developed for the workshop 
 ## Content
 These [training modules](https://github.com/timathom/EBSCO-Linked-Data-Training/tree/main/content/dita) have been developed using the Learning and Training Specialization of the [Darwin Information Typing Architecture](https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture) (DITA). As an XML format, DITA lends itself to reuse, translation, and reformatting. DITA projects can be transformed into other formats using the [DITA Open Toolkit](https://www.dita-ot.org/), an open-source publishing engine for DITA documentation, or edited using a platform like the [oXygen XML Editor](https://www.oxygenxml.com/doc/versions/25.1/ug-editor/topics/eppo-first-dita-topic.html).
 
+Using the [Fluenta DITA Translation Manager](https://maxprograms.com/products/fluenta.html), the modules have been converted to an [XLIFF file](https://github.com/timathom/EBSCO-Linked-Data-Training/blob/main/content/xliff/ebsco_training_es.ditamap.xlf) to support translation workflows.
+
 The content is also available here as [Markdown](https://github.com/timathom/EBSCO-Linked-Data-Training/blob/main/content/markdown/index.md) and could be transformed into other formats as needed.
 
 ## License and Attribution
