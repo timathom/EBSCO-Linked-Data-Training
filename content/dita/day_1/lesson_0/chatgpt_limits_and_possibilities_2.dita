@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningContent.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <learningContent id="chatgpt_limits_and_possibilities_2">
-    <title>ChatGPT: Limits and Possbilities</title>
+    <title>ChatGPT: Limits and Possibilities</title>
     <shortdesc/>
     <prolog>
         <critdates>
@@ -12,6 +12,8 @@
             <revised modified="2023-05-09"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-20"/>
         </critdates>
     </prolog>
     <learningContentbody>
