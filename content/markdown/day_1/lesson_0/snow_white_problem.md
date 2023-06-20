@@ -2,7 +2,7 @@
 author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
-# ChatGPT: Limits and Possbilities
+# ChatGPT: Limits and Possibilities
 
 ![Abstract cartoon depiction of Snow White sitting at a laptop computer that has a red apple on top of the keyboard.](../../submaps/../img/introduction/rdfox_chatgpt.png "ChatGPT's Snow White Problem")
 
