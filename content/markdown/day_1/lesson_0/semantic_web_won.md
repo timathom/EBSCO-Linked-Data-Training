@@ -2,7 +2,7 @@
 author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
-# ChatGPT: Limits and Possbilities
+# ChatGPT: Limits and Possibilities
 
 ![Tweet by Adrian Gschwend showing a screenshot of a table with statistics about websites in the Common Crawl corpus, showing that 1518609988 webpages (about 50% of the total) include RDF triples.](../../submaps/../img/introduction/common_crawl_tweet.png "Tweet by Adrian Gschwend (@linkedktk)")
 
