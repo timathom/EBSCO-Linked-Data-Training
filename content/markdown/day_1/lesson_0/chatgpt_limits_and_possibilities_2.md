@@ -2,7 +2,7 @@
 author: [EBSCO Information Services, Timothy A. Thompson ⍝ @timathom @timathom@indieweb.social]
 ---
 
-# ChatGPT: Limits and Possbilities
+# ChatGPT: Limits and Possibilities
 
 -   ChatGPT has undoubtedly already benefited from structured data on the web.
 
