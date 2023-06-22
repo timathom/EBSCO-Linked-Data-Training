@@ -24,6 +24,8 @@
             <revised modified="2023-06-09"/>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-06-10"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-22"/>
         </critdates>
     </prolog>
     <body>
@@ -301,9 +303,11 @@
                 book held by Yale University Library. This example references the Art and Rare
                 Materials (ARM) ontology, which builds on BIBFRAME to support detailed described of
                 rare materials and special collections.</desc>
-            <image keyref="arm-example" id="image_dcr_hjb_txb">
-                <alt>Network diagram showing a BIBFRAME Item marked by a Stamp, with a Contribution
-                    by Yale University Library with a Role of owner and a date of 1945-01-04.</alt>
+            <image keyref="bf-patterns-contribution" id="image_dcr_hjb_txb">
+                <alt>Network diagram showing an example BIBFRAME model for contributors to an
+                    inscription. The Inscription class comes from the ARM ontology. One contribution
+                    is defined with role giver and agent Zora Neale Hurston (Person), and another is
+                    defined with role receiver and agent Carl Van Vechten (Person).</alt>
             </image>
         </fig>
         <fig frame="all" id="fig_vmd_m2n_sxb">
