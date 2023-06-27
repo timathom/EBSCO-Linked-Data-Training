@@ -1,0 +1,149 @@
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:zs="http://www.loc.gov/zing/srw/">
+  <leader>02168cam a2200457 a 4500</leader>
+  <controlfield tag="001">2414969</controlfield>
+  <controlfield tag="005">20191106143731.0</controlfield>
+  <controlfield tag="008">860822s1982    nyuaf         000 1 eng  </controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">(DLC)   86197491</subfield>
+  </datafield>
+  <datafield tag="906" ind1=" " ind2=" ">
+    <subfield code="a">7</subfield>
+    <subfield code="b">cbc</subfield>
+    <subfield code="c">orignew</subfield>
+    <subfield code="d">2</subfield>
+    <subfield code="e">ncip</subfield>
+    <subfield code="f">19</subfield>
+    <subfield code="g">y-gencatlg</subfield>
+  </datafield>
+  <datafield tag="955" ind1=" " ind2=" ">
+    <subfield code="b">he00</subfield>
+    <subfield code="c">he03 2010-07-07 added copy</subfield>
+    <subfield code="e">he03 2010-07-07</subfield>
+  </datafield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">   86197491 </subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DLC</subfield>
+    <subfield code="c">DLC</subfield>
+    <subfield code="d">DLC</subfield>
+    <subfield code="d">OCoLC</subfield>
+    <subfield code="d">DLC</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">eng</subfield>
+    <subfield code="h">spa</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+    <subfield code="a">cl-----</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2="0">
+    <subfield code="a">PQ8180.17.A73</subfield>
+    <subfield code="b">C513 1982</subfield>
+  </datafield>
+  <datafield tag="051" ind1=" " ind2=" ">
+    <subfield code="a">LEC no. 532</subfield>
+    <subfield code="c">Copy no. 285, in slipcase, acquired as part of an archival set from the publisher in 2008. No. 532 (Sept. 1982) of Monthly letter of Limited Editions Club laid in.</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="0">
+    <subfield code="a">863</subfield>
+    <subfield code="2">19</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">García Márquez, Gabriel,</subfield>
+    <subfield code="d">1927-2014.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Cien años de soledad.</subfield>
+    <subfield code="l">English</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">One hundred years of solitude /</subfield>
+    <subfield code="c">Gabriel García Márquez ; [translated from the Spanish by Gregory Rabassa ; illustrated by Rafael Ferrer ; introduced by Alastair Reid].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[New York :</subfield>
+    <subfield code="b">Limited Editions Club,</subfield>
+    <subfield code="c">1982]</subfield>
+    <subfield code="e">(Lunenburg, Vt. :</subfield>
+    <subfield code="f">Stinehour Press)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xii, 348 p., [8] leaves of plates :</subfield>
+    <subfield code="b">ill. (some col.) ;</subfield>
+    <subfield code="c">29 cm.</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">Translation of: Cien años de soledad.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Limited ed. of 2,000 copies, signed by Rabassa, Ferrer, and Reid.</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Newman &amp; Wiche. Great and good books,</subfield>
+    <subfield code="c">532</subfield>
+  </datafield>
+  <datafield tag="510" ind1="4" ind2=" ">
+    <subfield code="a">Limited Editions Club. Bibliography of the fine books published by the Limited Editions Club, 1929-1985,</subfield>
+    <subfield code="c">no. 532</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">LC has copyright deposit copy (formerly numbered "980" at colophon).</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Macondo (Imaginary place)</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Latin America</subfield>
+    <subfield code="x">Social conditions</subfield>
+    <subfield code="v">Fiction.</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Epic literature.</subfield>
+    <subfield code="2">gsafd</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Ferrer, Rafael,</subfield>
+    <subfield code="e">ill.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Rabassa, Gregory,</subfield>
+    <subfield code="e">tr.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Stinehour Press,</subfield>
+    <subfield code="e">printer.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Limited Editions Club,</subfield>
+    <subfield code="e">former owner.</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Limited Editions Club Collection (Library of Congress)</subfield>
+    <subfield code="5">DLC</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="a">LAC tnb 2019-11-06 no edits (1 card)</subfield>
+  </datafield>
+  <datafield tag="984" ind1=" " ind2=" ">
+    <subfield code="a">rsl</subfield>
+    <subfield code="d">2019-11-06</subfield>
+  </datafield>
+  <datafield tag="984" ind1=" " ind2=" ">
+    <subfield code="a">gsl</subfield>
+  </datafield>
+  <datafield tag="985" ind1=" " ind2=" ">
+    <subfield code="a">rblacfederal</subfield>
+    <subfield code="d">20191106</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="b">c-RareBook</subfield>
+    <subfield code="h">PQ8180.17.A73</subfield>
+    <subfield code="i">C513 1982</subfield>
+    <subfield code="t">Copy 1</subfield>
+    <subfield code="w">BOOKS</subfield>
+  </datafield>
+</record>

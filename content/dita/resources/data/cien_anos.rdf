@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">
+  <bf:Work rdf:about="http://example.org/2414969#Work">
+    <bf:adminMetadata>
+      <bf:AdminMetadata>
+        <bf:generationProcess>
+          <bf:GenerationProcess>
+            <rdfs:label>DLC marc2bibframe2 v2.3.0</rdfs:label>
+            <bf:generationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-27T12:18:56-04:00</bf:generationDate>
+          </bf:GenerationProcess>
+        </bf:generationProcess>
+        <bf:status>
+          <bf:Status rdf:about="http://id.loc.gov/vocabulary/mstatus/c">
+            <rdfs:label>changed</rdfs:label>
+          </bf:Status>
+        </bf:status>
+        <bflc:encodingLevel>
+          <bflc:EncodingLevel rdf:about="http://id.loc.gov/vocabulary/menclvl/f">
+            <rdfs:label>full</rdfs:label>
+          </bflc:EncodingLevel>
+        </bflc:encodingLevel>
+        <bf:descriptionConventions>
+          <bf:DescriptionConventions rdf:about="http://id.loc.gov/vocabulary/descriptionConventions/aacr">
+            <bf:code>aacr</bf:code>
+          </bf:DescriptionConventions>
+        </bf:descriptionConventions>
+        <bf:identifiedBy>
+          <bf:Local>
+            <rdf:value>2414969</rdf:value>
+            <bf:assigner>
+              <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                <bf:code>DLC</bf:code>
+              </bf:Agent>
+            </bf:assigner>
+          </bf:Local>
+        </bf:identifiedBy>
+        <bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-06T14:37:31</bf:changeDate>
+        <bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1986-08-22</bf:creationDate>
+        <bf:assigner>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+            <bf:code>DLC</bf:code>
+          </bf:Agent>
+        </bf:assigner>
+        <bf:descriptionModifier>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+            <bf:code>DLC</bf:code>
+          </bf:Agent>
+        </bf:descriptionModifier>
+      </bf:AdminMetadata>
+    </bf:adminMetadata>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+    <bf:content>
+      <bf:Content rdf:about="http://id.loc.gov/vocabulary/contentTypes/txt">
+        <rdfs:label>text</rdfs:label>
+      </bf:Content>
+    </bf:content>
+    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Monograph"/>
+    <bf:language>
+      <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/eng"/>
+    </bf:language>
+    <bf:illustrativeContent>
+      <bf:Illustration rdf:about="http://id.loc.gov/vocabulary/millus/ill">
+        <rdfs:label>illustrations</rdfs:label>
+      </bf:Illustration>
+    </bf:illustrativeContent>
+    <bf:illustrativeContent>
+      <bf:Illustration rdf:about="http://id.loc.gov/vocabulary/millus/plt">
+        <rdfs:label>plates</rdfs:label>
+      </bf:Illustration>
+    </bf:illustrativeContent>
+    <bf:genreForm>
+      <bf:GenreForm rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026339">
+        <rdfs:label>Fiction</rdfs:label>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <bf:note>
+      <bf:Note>
+        <rdfs:label>Includes translation</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:language>
+      <bf:Language>
+        <rdf:value rdf:resource="http://id.loc.gov/vocabulary/languages/eng"/>
+      </bf:Language>
+    </bf:language>
+    <bf:language>
+      <bf:Language>
+        <bf:part>original</bf:part>
+        <rdf:value rdf:resource="http://id.loc.gov/vocabulary/languages/spa"/>
+      </bf:Language>
+    </bf:language>
+    <bf:geographicCoverage rdf:resource="http://id.loc.gov/vocabulary/geographicAreas/cl"/>
+    <bf:classification>
+      <bf:ClassificationLcc>
+        <bf:classificationPortion>PQ8180.17.A73</bf:classificationPortion>
+        <bf:itemPortion>C513 1982</bf:itemPortion>
+        <bf:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <bf:status rdf:resource="http://id.loc.gov/vocabulary/mstatus/uba"/>
+      </bf:ClassificationLcc>
+    </bf:classification>
+    <bf:classification>
+      <bf:ClassificationDdc>
+        <bf:classificationPortion>863</bf:classificationPortion>
+        <bf:source>
+          <bf:Source>
+            <bf:code>19</bf:code>
+          </bf:Source>
+        </bf:source>
+        <bf:edition>full</bf:edition>
+        <bf:assigner>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        </bf:assigner>
+      </bf:ClassificationDdc>
+    </bf:classification>
+    <bf:contribution>
+      <bf:Contribution>
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution"/>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n79063441">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <bflc:marcKey>1001 $aGarcía Márquez, Gabriel,$d1927-2014.</bflc:marcKey>
+            <rdfs:label>García Márquez, Gabriel, 1927-2014</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+        </bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:expressionOf>
+      <bf:Hub rdf:about="http://example.org/2414969#Hub240-16">
+        <bf:contribution>
+          <bf:Contribution>
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution"/>
+            <bf:agent>
+              <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n79063441">
+                <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+                <bflc:marcKey>1001 $aGarcía Márquez, Gabriel,$d1927-2014.</bflc:marcKey>
+                <rdfs:label>García Márquez, Gabriel, 1927-2014</rdfs:label>
+              </bf:Agent>
+            </bf:agent>
+            <bf:role>
+              <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+            </bf:role>
+          </bf:Contribution>
+        </bf:contribution>
+        <bf:title>
+          <bf:Title>
+            <bf:mainTitle>Cien años de soledad. English</bf:mainTitle>
+          </bf:Title>
+        </bf:title>
+        <bf:language>
+          <bf:Language>
+            <rdfs:label>English</rdfs:label>
+          </bf:Language>
+        </bf:language>
+        <bflc:marcKey>1001 $aGarcía Márquez, Gabriel,$d1927-2014.$tCien años de soledad.$lEnglish</bflc:marcKey>
+      </bf:Hub>
+    </bf:expressionOf>
+    <bf:title>
+      <bf:Title>
+        <bf:mainTitle>One hundred years of solitude</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:note>
+      <bf:Note>
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/lang"/>
+        <rdfs:label>Translation of: Cien años de soledad.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:references>
+      <bf:Work>
+        <bf:title>
+          <bf:Title>
+            <bf:mainTitle>Newman &amp; Wiche. Great and good books</bf:mainTitle>
+          </bf:Title>
+        </bf:title>
+        <bf:note>
+          <bf:Note>
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/loc"/>
+            <rdfs:label>532</rdfs:label>
+          </bf:Note>
+        </bf:note>
+      </bf:Work>
+    </bf:references>
+    <bf:references>
+      <bf:Work>
+        <bf:title>
+          <bf:Title>
+            <bf:mainTitle>Limited Editions Club. Bibliography of the fine books published by the Limited Editions Club, 1929-1985</bf:mainTitle>
+          </bf:Title>
+        </bf:title>
+        <bf:note>
+          <bf:Note>
+            <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/loc"/>
+            <rdfs:label>no. 532</rdfs:label>
+          </bf:Note>
+        </bf:note>
+      </bf:Work>
+    </bf:references>
+    <bf:subject>
+      <bf:Topic rdf:about="http://example.org/2414969#Topic650-25">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <rdfs:label>Macondo (Imaginary place)--Fiction</rdfs:label>
+        <madsrdf:authoritativeLabel>Macondo (Imaginary place)--Fiction</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:Topic>
+            <madsrdf:authoritativeLabel>Macondo (Imaginary place)</madsrdf:authoritativeLabel>
+          </madsrdf:Topic>
+          <madsrdf:GenreForm>
+            <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+          </madsrdf:GenreForm>
+        </madsrdf:componentList>
+        <bf:source rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </bf:Topic>
+    </bf:subject>
+    <bf:subject>
+      <bf:Place rdf:about="http://example.org/2414969#Place651-26">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#ComplexSubject"/>
+        <rdfs:label>Latin America--Social conditions--Fiction</rdfs:label>
+        <madsrdf:authoritativeLabel>Latin America--Social conditions--Fiction</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects"/>
+        <madsrdf:componentList rdf:parseType="Collection">
+          <madsrdf:Geographic>
+            <madsrdf:authoritativeLabel>Latin America</madsrdf:authoritativeLabel>
+          </madsrdf:Geographic>
+          <madsrdf:Topic>
+            <madsrdf:authoritativeLabel>Social conditions</madsrdf:authoritativeLabel>
+          </madsrdf:Topic>
+          <madsrdf:GenreForm>
+            <madsrdf:authoritativeLabel>Fiction</madsrdf:authoritativeLabel>
+          </madsrdf:GenreForm>
+        </madsrdf:componentList>
+        <bf:source rdf:resource="http://id.loc.gov/authorities/subjects"/>
+      </bf:Place>
+    </bf:subject>
+    <bf:genreForm>
+      <bf:GenreForm rdf:about="http://id.loc.gov/authorities/subjects/sh85044272">
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <rdfs:label>Epic literature</rdfs:label>
+        <madsrdf:authoritativeLabel>Epic literature</madsrdf:authoritativeLabel>
+        <bf:source>
+          <bf:Source rdf:about="http://id.loc.gov/vocabulary/genreFormSchemes/gsafd">
+            <bf:code>gsafd</bf:code>
+          </bf:Source>
+        </bf:source>
+      </bf:GenreForm>
+    </bf:genreForm>
+    <bf:contribution>
+      <bf:Contribution>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n82156798">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <bflc:marcKey>7001 $aFerrer, Rafael,$eill.</bflc:marcKey>
+            <rdfs:label>Ferrer, Rafael</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role>
+            <rdfs:label>ill.</rdfs:label>
+          </bf:Role>
+        </bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+      <bf:Contribution>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n96008385">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person"/>
+            <bflc:marcKey>7001 $aRabassa, Gregory,$etr.</bflc:marcKey>
+            <rdfs:label>Rabassa, Gregory</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role>
+            <rdfs:label>tr</rdfs:label>
+          </bf:Role>
+        </bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+      <bf:Contribution>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n85349186">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+            <bflc:marcKey>7102 $aStinehour Press,$eprinter.</bflc:marcKey>
+            <rdfs:label>Stinehour Press</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/prt">
+            <rdfs:label>printer</rdfs:label>
+          </bf:Role>
+        </bf:role>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+      <bf:Contribution>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n80036752">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+            <bflc:marcKey>7102 $aLimited Editions Club,$eformer owner.$5DLC</bflc:marcKey>
+            <rdfs:label>Limited Editions Club</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/fmo">
+            <rdfs:label>former owner</rdfs:label>
+          </bf:Role>
+        </bf:role>
+        <bflc:applicableInstitution>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+            <bf:code>DLC</bf:code>
+          </bf:Agent>
+        </bflc:applicableInstitution>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:contribution>
+      <bf:Contribution>
+        <bf:agent>
+          <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n2009070705">
+            <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+            <bflc:marcKey>7102 $aLimited Editions Club Collection (Library of Congress)$5DLC</bflc:marcKey>
+            <rdfs:label>Limited Editions Club Collection (Library of Congress)</rdfs:label>
+          </bf:Agent>
+        </bf:agent>
+        <bf:role>
+          <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+        </bf:role>
+        <bflc:applicableInstitution>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+            <bf:code>DLC</bf:code>
+          </bf:Agent>
+        </bflc:applicableInstitution>
+      </bf:Contribution>
+    </bf:contribution>
+    <bf:hasInstance rdf:resource="http://example.org/2414969#Instance"/>
+  </bf:Work>
+  <bf:Instance rdf:about="http://example.org/2414969#Instance">
+    <bf:issuance rdf:resource="http://id.loc.gov/vocabulary/issuance/mono"/>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+        <bf:date rdf:datatype="http://id.loc.gov/datatypes/edtf">1982</bf:date>
+        <bf:place rdf:resource="http://id.loc.gov/vocabulary/countries/nyu"/>
+        <bflc:simplePlace>[New York]</bflc:simplePlace>
+        <bflc:simpleAgent>[Limited Editions Club]</bflc:simpleAgent>
+        <bflc:simpleDate>[1982]</bflc:simpleDate>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bflc:publicationStatement>[New York]: [Limited Editions Club]; [1982]</bflc:publicationStatement>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Publication"/>
+        <bflc:simplePlace>[New York]</bflc:simplePlace>
+        <bflc:simpleAgent>[Limited Editions Club]</bflc:simpleAgent>
+        <bflc:simpleDate>[1982]</bflc:simpleDate>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bflc:publicationStatement>[New York]: [Limited Editions Club]; [1982]</bflc:publicationStatement>
+    <bf:provisionActivity>
+      <bf:ProvisionActivity>
+        <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Manufacture"/>
+        <bflc:simplePlace>Lunenburg, Vt</bflc:simplePlace>
+        <bflc:simpleAgent>Stinehour Press</bflc:simpleAgent>
+      </bf:ProvisionActivity>
+    </bf:provisionActivity>
+    <bflc:manufactureStatement>Lunenburg, Vt: Stinehour Press</bflc:manufactureStatement>
+    <bf:carrier>
+      <bf:Carrier rdf:about="http://id.loc.gov/vocabulary/carriers/nc">
+        <rdfs:label>volume</rdfs:label>
+      </bf:Carrier>
+    </bf:carrier>
+    <bf:media>
+      <bf:Media rdf:about="http://id.loc.gov/vocabulary/mediaTypes/n">
+        <rdfs:label>unmediated</rdfs:label>
+      </bf:Media>
+    </bf:media>
+    <bf:identifiedBy>
+      <bf:Lccn>
+        <rdf:value>   86197491 </rdf:value>
+      </bf:Lccn>
+    </bf:identifiedBy>
+    <bf:responsibilityStatement>Gabriel García Márquez ; [translated from the Spanish by Gregory Rabassa ; illustrated by Rafael Ferrer ; introduced by Alastair Reid]</bf:responsibilityStatement>
+    <bf:title>
+      <bf:Title>
+        <bf:mainTitle>One hundred years of solitude</bf:mainTitle>
+      </bf:Title>
+    </bf:title>
+    <bf:extent>
+      <bf:Extent>
+        <rdfs:label>xii, 348 p., [8] leaves of plates</rdfs:label>
+      </bf:Extent>
+    </bf:extent>
+    <bf:note>
+      <bf:Note>
+        <rdf:type rdf:resource="http://id.loc.gov/vocabulary/mnotetype/physical"/>
+        <rdfs:label>ill. (some col.)</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:dimensions>29 cm.</bf:dimensions>
+    <bf:note>
+      <bf:Note>
+        <rdfs:label>Limited ed. of 2,000 copies, signed by Rabassa, Ferrer, and Reid.</rdfs:label>
+      </bf:Note>
+    </bf:note>
+    <bf:note>
+      <bf:Note>
+        <rdfs:label>LC has copyright deposit copy (formerly numbered "980" at colophon).</rdfs:label>
+        <bflc:applicableInstitution>
+          <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+            <bf:code>DLC</bf:code>
+          </bf:Agent>
+        </bflc:applicableInstitution>
+      </bf:Note>
+    </bf:note>
+    <bf:instanceOf rdf:resource="http://example.org/2414969#Work"/>
+    <bf:hasItem>
+      <bf:Item rdf:about="http://example.org/2414969#Item">
+        <bf:heldBy rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+        <bf:contribution>
+          <bf:Contribution>
+            <bf:agent>
+              <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n80036752">
+                <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+                <bflc:marcKey>7102 $aLimited Editions Club,$eformer owner.$5DLC</bflc:marcKey>
+                <rdfs:label>Limited Editions Club</rdfs:label>
+              </bf:Agent>
+            </bf:agent>
+            <bf:role>
+              <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/fmo">
+                <rdfs:label>former owner</rdfs:label>
+              </bf:Role>
+            </bf:role>
+            <bflc:applicableInstitution>
+              <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                <bf:code>DLC</bf:code>
+              </bf:Agent>
+            </bflc:applicableInstitution>
+          </bf:Contribution>
+        </bf:contribution>
+        <bf:contribution>
+          <bf:Contribution>
+            <bf:agent>
+              <bf:Agent rdf:about="http://id.loc.gov/authorities/names/n2009070705">
+                <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization"/>
+                <bflc:marcKey>7102 $aLimited Editions Club Collection (Library of Congress)$5DLC</bflc:marcKey>
+                <rdfs:label>Limited Editions Club Collection (Library of Congress)</rdfs:label>
+              </bf:Agent>
+            </bf:agent>
+            <bf:role>
+              <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+            </bf:role>
+            <bflc:applicableInstitution>
+              <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                <bf:code>DLC</bf:code>
+              </bf:Agent>
+            </bflc:applicableInstitution>
+          </bf:Contribution>
+        </bf:contribution>
+        <bf:note>
+          <bf:Note>
+            <rdfs:label>LC has copyright deposit copy (formerly numbered "980" at colophon).</rdfs:label>
+            <bflc:applicableInstitution>
+              <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                <bf:code>DLC</bf:code>
+              </bf:Agent>
+            </bflc:applicableInstitution>
+          </bf:Note>
+        </bf:note>
+        <bf:classification>
+          <bf:ClassificationLcc>
+            <bf:classificationPortion>LEC no. 532</bf:classificationPortion>
+            <bf:note>
+              <bf:Note>
+                <rdfs:label>Copy no. 285, in slipcase, acquired as part of an archival set from the publisher in 2008. No. 532 (Sept. 1982) of Monthly letter of Limited Editions Club laid in.</rdfs:label>
+              </bf:Note>
+            </bf:note>
+            <bf:assigner rdf:resource="http://id.loc.gov/vocabulary/organizations/dlc"/>
+          </bf:ClassificationLcc>
+        </bf:classification>
+        <bf:itemOf rdf:resource="http://example.org/2414969#Instance"/>
+      </bf:Item>
+    </bf:hasItem>
+  </bf:Instance>
+</rdf:RDF>

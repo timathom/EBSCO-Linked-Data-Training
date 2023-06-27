@@ -218,7 +218,7 @@
                     keyref="what-is-rdf">What Is RDF?</cite></desc>
             <image keyref="rdf-graph" id="image_n5q_2jg_sxb">
                 <alt>Illustration of an RDF triple in a node-edge-node network diagram. Nodes are
-                    circles with the same pastel-orange color. The edge is an orange-colored arrows.
+                    circles with the same pastel-orange color. The edge is an orange-colored arrow.
                     The subject node on the left and is labeled book1; the edge arrow pointing from
                     the subject node to a corrsponding object node is labeled creator in the center
                     of the line. On the right, the object node is labeled person1. Beneath each part
