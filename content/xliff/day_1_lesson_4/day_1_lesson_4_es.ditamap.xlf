@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <xliff srcLang="en-US" xmlns:mtc="urn:oasis:names:tc:xliff:matches:2.0" version="2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
-  <file original="../day_1/lesson_3/activity_competency_questions.dita" id="1">
+  <file original="../day_1/lesson_4/activity_card_sorting.dita" id="1">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
 dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
 LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
@@ -24,31 +24,43 @@ KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
 ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
 IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
 Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
-bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImFjdGl2aXR5X2NvbXBldGVuY3lfcXVlc3Rpb25z
-Ij4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQolJSUyJSUlCjwvdGl0bGU+
-IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSIt
-IHRvcGljL3Byb2xvZyAiPiA8Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAl
-JSUzJSUlCjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUlNCUlJQo8L2NyaXRk
-YXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0NvbnRlbnRib2R5IGNsYXNzPSItIHRvcGljL2JvZHkg
-IGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vib2R5IGxlYXJuaW5nQ29udGVudC9sZWFybmluZ0Nv
-bnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9uIGNsYXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5p
-bmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPG9sIGNsYXNzPSItIHRvcGljL29sICIgaWQ9Im9sX3Vy
-NV94d3Rfc3hiIj4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0
-ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNs
-YXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlNiUl
-JQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJs
-dHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU3JSUlCjwvcD4gPC9saT4gPGxpIGRpcj0ibHRyIiBj
-bGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTgl
-JSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0i
-bHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlOSUlJQo8L3A+IDwvbGk+IDwvb2w+IDwvbGNJbnN0
-cnVjdGlvbj4gPC9sZWFybmluZ0NvbnRlbnRib2R5PiA8L2xlYXJuaW5nQ29udGVudD4=</skeleton>
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImFjdGl2aXR5X2NhcmRfc29ydGluZyI+IDx0aXRs
+ZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTElJSUKJSUlMiUlJQo8L3RpdGxlPiA8c2hvcnRk
+ZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9w
+cm9sb2cgIj4gPGNyaXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMyUlJQo8
+IS0tIHRpbW90aHkudGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTQlJSUKPCEtLSB0aW1vdGh5LnRo
+b21wc29uQHlhbGUuZWR1IC0tPiAlJSU1JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxlYXJu
+aW5nQ29udGVudGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJuaW5n
+QmFzZWJvZHkgbGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5zdHJ1
+Y3Rpb24gY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlvbiAi
+PiA8b2wgY2xhc3M9Ii0gdG9waWMvb2wgIiBpZD0ib2xfZjJ2X2h4dF9zeGIiPiA8bGkgZGlyPSJs
+dHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+
+JSUlNiUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAg
+ZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU3JSUlCjwvcD4gPC9saT4gPGxpIGRpcj0i
+bHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAi
+PiUlJTglJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxw
+IGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlOSUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9
+Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSUxMCUlJQolJSUxMSUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9w
+aWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSUxMiUlJQo8L3A+IDwv
+bGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNz
+PSItIHRvcGljL3AgIj4lJSUxMyUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0g
+dG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSUxNCUlJQo8L3A+
+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNs
+YXNzPSItIHRvcGljL3AgIj4lJSUxNSUlJQo8L3A+IDwvbGk+IDwvb2w+IDwvbGNJbnN0cnVjdGlv
+bj4gPC9sZWFybmluZ0NvbnRlbnRib2R5PiA8cmVsYXRlZC1saW5rcyBjbGFzcz0iLSB0b3BpYy9y
+ZWxhdGVkLWxpbmtzICI+IDxsaW5rIGhyZWY9Ii4uLy4uL3Jlc291cmNlcy9hY3Rpdml0aWVzL2Nh
+cmRfc29ydGluZ19hY3Rpdml0eS9jYXJkX3NvcnRfYWN0aXZpdHlfYmliX3VubGFiZWxlZC5wZGYi
+IHNjb3BlPSJsb2NhbCIgY2xhc3M9Ii0gdG9waWMvbGluayAiIGZvcm1hdD0icGRmIj48bGlua3Rl
+eHQgY2xhc3M9Ii0gdG9waWMvbGlua3RleHQgIj4lJSUxNiUlJQo8L2xpbmt0ZXh0PjwvbGluaz4g
+PC9yZWxhdGVkLWxpbmtzPiA8L2xlYXJuaW5nQ29udGVudD4=</skeleton>
     <mda:metadata>
       <mda:metaGroup category="format">
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -67,7 +79,394 @@ cnVjdGlvbj4gPC9sZWFybmluZ0NvbnRlbnRib2R5PiA8L2xlYXJuaW5nQ29udGVudD4=</skeleton>
     </unit>
     <unit id="2">
       <segment state="initial" id="2">
-        <source xml:space="preserve"> Competency Questions</source>
+        <source xml:space="preserve"> Card Sorting</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Let's use the competency questions from the previous lesson as a terminology source for beginning to specify terms in our ontology.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Open the PDF documents under "Card-Sorting Activity."</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Start with the first file ("Bibliographic Record Unlabeled").</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <mda:metadata id="9">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-italic</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;i class="+ topic/ph hi-d/i "&gt;</data>
+        <data id="ph1">&lt;/i&gt;</data>
+      </originalData>
+      <segment state="initial" id="9">
+        <source xml:space="preserve">You will see a series of numbered cards with information extracted from a MARC 21 Bibliographic record for the novel <ph id="ph0"/>Cien años de soledad<ph id="ph1"/>.</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">The cards are in the order they appear in the record.</source>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment state="initial" id="11">
+        <source xml:space="preserve"> When a card has decimal numbers, it means that the data elements come from the same field.</source>
+      </segment>
+    </unit>
+    <unit id="12">
+      <segment state="initial" id="12">
+        <source xml:space="preserve">Using the numbers, group the cards into categories.</source>
+      </segment>
+    </unit>
+    <unit id="13">
+      <segment state="initial" id="13">
+        <source xml:space="preserve">Try to identify the types of entities that are represented.</source>
+      </segment>
+    </unit>
+    <unit id="14">
+      <segment state="initial" id="14">
+        <source xml:space="preserve">Once you identify a group, give it a name and write down the criteria used for creating it.</source>
+      </segment>
+    </unit>
+    <unit id="15">
+      <segment state="initial" id="15">
+        <source xml:space="preserve">For example, "New York" is a type of Place (or City, or Populated Place, which are specific kinds of Place).</source>
+      </segment>
+    </unit>
+    <unit id="16">
+      <segment state="initial" id="16">
+        <source xml:space="preserve">Bibliographic Record Unlabeled</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/activity_card_sorting_2.dita" id="2">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImFjdGl2aXR5X2NhcmRfc29ydGluZ18yIj4gPHRp
+dGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQolJSUyJSUlCjwvdGl0bGU+IDxzaG9y
+dGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGlj
+L3Byb2xvZyAiPiA8Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUzJSUl
+CjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUlNCUlJQo8IS0tIHRpbW90aHku
+dGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTUlJSUKPC9jcml0ZGF0ZXM+IDwvcHJvbG9nPiA8bGVh
+cm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVhcm5p
+bmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9keSAiPiA8bGNJbnN0
+cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY0luc3RydWN0aW9u
+ICI+IDxvbCBjbGFzcz0iLSB0b3BpYy9vbCAiIGlkPSJvbF9xZHFfbXh0X3N4YiI+IDxsaSBkaXI9
+Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSU2JSUlCjwvcD4gPC9saT4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8
+cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTclJSUKPC9wPiA8L2xpPiA8L29sPiA8
+L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPHJlbGF0ZWQtbGlua3MgY2xh
+c3M9Ii0gdG9waWMvcmVsYXRlZC1saW5rcyAiPiA8bGluayBocmVmPSIuLi8uLi9yZXNvdXJjZXMv
+YWN0aXZpdGllcy9jYXJkX3NvcnRpbmdfYWN0aXZpdHkvY2FyZF9zb3J0X2FjdGl2aXR5X2JpYl9s
+YWJlbGVkLnBkZiIgc2NvcGU9ImxvY2FsIiBjbGFzcz0iLSB0b3BpYy9saW5rICIgZm9ybWF0PSJw
+ZGYiPjxsaW5rdGV4dCBjbGFzcz0iLSB0b3BpYy9saW5rdGV4dCAiPiUlJTglJSUKPC9saW5rdGV4
+dD48L2xpbms+IDwvcmVsYXRlZC1saW5rcz4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Activity:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Card Sorting, Part 2</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Now look through the labeled version ("Bibliographic Record Labeled") of the same cards.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Does anything else stand out to you?</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Bibliographic Record Labeled</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/activity_card_sorting_3.dita" id="3">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImFjdGl2aXR5X2NhcmRfc29ydGluZ18zIj4gPHRp
+dGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQolJSUyJSUlCjwvdGl0bGU+IDxzaG9y
+dGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGlj
+L3Byb2xvZyAiPiA8Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUzJSUl
+CjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUlNCUlJQo8IS0tIHRpbW90aHku
+dGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTUlJSUKPC9jcml0ZGF0ZXM+IDwvcHJvbG9nPiA8bGVh
+cm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVhcm5p
+bmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9keSAiPiA8bGNJbnN0
+cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY0luc3RydWN0aW9u
+ICI+IDxvbCBjbGFzcz0iLSB0b3BpYy9vbCAiIGlkPSJvbF9ocDNfcHh0X3N4YiI+IDxsaSBkaXI9
+Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSU2JSUlCjwvcD4gPC9saT4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8
+cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTclJSUKPC9wPiA8L2xpPiA8L29sPiA8
+L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPHJlbGF0ZWQtbGlua3MgY2xh
+c3M9Ii0gdG9waWMvcmVsYXRlZC1saW5rcyAiPiA8bGluayBocmVmPSIuLi8uLi9yZXNvdXJjZXMv
+YWN0aXZpdGllcy9jYXJkX3NvcnRpbmdfYWN0aXZpdHkvY2FyZF9zb3J0X2FjdGl2aXR5X2JpYl91
+bmxhYmVsZWQucGRmIiBzY29wZT0ibG9jYWwiIGNsYXNzPSItIHRvcGljL2xpbmsgIiBmb3JtYXQ9
+InBkZiI+PGxpbmt0ZXh0IGNsYXNzPSItIHRvcGljL2xpbmt0ZXh0ICI+JSUlOCUlJQo8L2xpbmt0
+ZXh0PjwvbGluaz4gPC9yZWxhdGVkLWxpbmtzPiA8L2xlYXJuaW5nQ29udGVudD4=</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Activity:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Card Sorting, Part 3</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Look through the third document, with labeled cards representing the Library of Congress Name Authority record for Gabriel García Márquez ("Authority Record Labeled").</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Write down additional categories.</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Authority Record Labeled</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/activity_card_sorting_4.dita" id="4">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImFjdGl2aXR5X2NhcmRfc29ydGluZ180Ij4gPHRp
+dGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQolJSUyJSUlCjwvdGl0bGU+IDxzaG9y
+dGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGlj
+L3Byb2xvZyAiPiA8Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUzJSUl
+CjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUlNCUlJQo8L2NyaXRkYXRlcz4g
+PC9wcm9sb2c+IDxsZWFybmluZ0NvbnRlbnRib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJu
+aW5nQmFzZS9sZWFybmluZ0Jhc2Vib2R5IGxlYXJuaW5nQ29udGVudC9sZWFybmluZ0NvbnRlbnRi
+b2R5ICI+IDxsY0luc3RydWN0aW9uIGNsYXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNl
+L2xjSW5zdHJ1Y3Rpb24gIj4gPG9sIGNsYXNzPSItIHRvcGljL29sICIgaWQ9Im9sX3NjNV9xeHRf
+c3hiIj4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xh
+c3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSIt
+IHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlNiUlJQo8L3A+
+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNs
+YXNzPSItIHRvcGljL3AgIj4lJSU3JSUlCjwvcD4gPC9saT4gPC9vbD4gPC9sY0luc3RydWN0aW9u
+PiA8L2xlYXJuaW5nQ29udGVudGJvZHk+IDwvbGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Activity:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Card Sorting, Part 4</source>
       </segment>
     </unit>
     <unit id="3">
@@ -90,31 +489,294 @@ cnVjdGlvbj4gPC9sZWFybmluZ0NvbnRlbnRib2R5PiA8L2xlYXJuaW5nQ29udGVudD4=</skeleton>
     </unit>
     <unit id="5">
       <segment state="initial" id="5">
-        <source xml:space="preserve">Imagine you are a library user doing research for a literature course.</source>
+        <source xml:space="preserve">Try to check your competency questions against the categories you have identified.</source>
       </segment>
     </unit>
     <unit id="6">
       <segment state="initial" id="6">
-        <source xml:space="preserve">Think about the different information retrieval tasks you would like to perform using the library catalog.</source>
+        <source xml:space="preserve">Is anything missing?</source>
       </segment>
     </unit>
     <unit id="7">
       <segment state="initial" id="7">
-        <source xml:space="preserve">What kinds of questions about you like to ask?</source>
+        <source xml:space="preserve">Now, use your sketch pad to create some graph diagrams showing the graph of properties and relationships among the entity types you have identified.</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/classes.dita" id="5">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImNsYXNzZXMiPiA8dGl0bGUgY2xhc3M9Ii0gdG9w
+aWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMvc2hv
+cnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3Byb2xvZyAiPiA8Y3JpdGRhdGVzIGNs
+YXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwhLS0gdGltb3RoeS50aG9tcHNvbkB5
+YWxlLmVkdSAtLT4gJSUlMyUlJQo8L2NyaXRkYXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0NvbnRl
+bnRib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vib2R5
+IGxlYXJuaW5nQ29udGVudC9sZWFybmluZ0NvbnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9uIGNs
+YXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPHVsIGNs
+YXNzPSItIHRvcGljL3VsICIgaWQ9InVsX3Jsel9uY25fc3hiIj4gPGxpIGRpcj0ibHRyIiBjbGFz
+cz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQlJSUK
+IDxscSBjbGFzcz0iLSB0b3BpYy9scSAiPiUlJTUlJSUKIC4lJSU2JSUlCiUlJTclJSUKJSUlOCUl
+JQolJSU5JSUlCjwvbHE+PC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xp
+ICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMTAlJSUKPC9wPiA8L2xpPiA8
+L3VsPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPC9sZWFybmluZ0Nv
+bnRlbnQ+</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Classes</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <segment state="initial" id="4">
+        <source xml:space="preserve">According to W3C standards:</source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">A class is defined as a group of individuals that [.</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve"> .] share certain properties.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve"> For example, Deborah and Frank are members of the class Person.</source>
       </segment>
     </unit>
     <unit id="8">
       <segment state="initial" id="8">
-        <source xml:space="preserve">Develop a set of competency questions for a domain ontology about library information resources.</source>
+        <source xml:space="preserve"> Classes can be organized in hierarchies of specialization.</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <mda:metadata id="9">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-link</mda:meta>
+        </mda:metaGroup>
+        <mda:metaGroup category="attributes" id="ph1">
+          <mda:meta type="ctype">x-underlined</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
+        <data id="ph2">&lt;/u&gt;</data>
+        <data id="ph3">&lt;/xref&gt;</data>
+      </originalData>
+      <segment state="initial" id="9">
+        <source xml:space="preserve"> (<ph id="ph0"/><ph id="ph1"/>W3C<ph id="ph2"/><ph id="ph3"/>)</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">Names of classes are typically written with an uppercase letter.</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/classes_2.dita" id="6">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImNsYXNzZXNfMiI+IDx0aXRsZSBjbGFzcz0iLSB0
+b3BpYy90aXRsZSAiPiUlJTElJSUKJSUlMiUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSIt
+IHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9sb2cgIj4gPGNy
+aXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMyUlJQo8IS0tIHRpbW90aHku
+dGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTQlJSUKPCEtLSB0aW1vdGh5LnRob21wc29uQHlhbGUu
+ZWR1IC0tPiAlJSU1JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxlYXJuaW5nQ29udGVudGJv
+ZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZWJvZHkgbGVh
+cm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5zdHJ1Y3Rpb24gY2xhc3M9
+Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlvbiAiPiA8dGFibGUgY2xh
+c3M9Ii0gdG9waWMvdGFibGUgIiBpZD0idGFibGVfZHRqX3Rjbl9zeGIiPiA8dGl0bGUgY2xhc3M9
+Ii0gdG9waWMvdGl0bGUgIj4lJSU2JSUlCjwvdGl0bGU+IDx0Z3JvdXAgY2xhc3M9Ii0gdG9waWMv
+dGdyb3VwICIgY29scz0iMSI+IDxjb2xzcGVjIGNsYXNzPSItIHRvcGljL2NvbHNwZWMgIiBjb2xu
+YW1lPSJjb2wxIiBjb2xudW09IjEiIGNvbHdpZHRoPSI3NjBweCIvPiA8dGhlYWQgY2xhc3M9Ii0g
+dG9waWMvdGhlYWQgIj4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IGNsYXNzPSIt
+IHRvcGljL2VudHJ5ICI+JSUlNyUlJQo8L2VudHJ5PiA8L3Jvdz4gPC90aGVhZD4gPHRib2R5IGNs
+YXNzPSItIHRvcGljL3Rib2R5ICI+IDxyb3cgY2xhc3M9Ii0gdG9waWMvcm93ICI+IDxlbnRyeSBk
+aXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvZW50cnkgIj48YiBjbGFzcz0iKyB0b3BpYy9waCBoaS1k
+L2IgIj4lJSU4JSUlCjwvYj48L2VudHJ5PiA8L3Jvdz4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cg
+Ij4gPGVudHJ5IGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPjxiIGNsYXNzPSIrIHRv
+cGljL3BoIGhpLWQvYiAiPiUlJTklJSUKPC9iPjwvZW50cnk+IDwvcm93PiA8cm93IGNsYXNzPSIt
+IHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2VudHJ5ICI+PGIg
+Y2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTAlJSUKPC9iPjwvZW50cnk+IDwvcm93PiA8
+cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGlj
+L2VudHJ5ICI+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTElJSUKPC9iPjwvZW50
+cnk+IDwvcm93PiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIiIGNs
+YXNzPSItIHRvcGljL2VudHJ5ICI+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTIl
+JSUKPC9iPjwvZW50cnk+IDwvcm93PiA8L3Rib2R5PiA8L3Rncm91cD4gPC90YWJsZT4gPC9sY0lu
+c3RydWN0aW9uPiA8L2xlYXJuaW5nQ29udGVudGJvZHk+IDwvbGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Classes:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Examples</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Example BIBFRAME Classes</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Class</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Contribution</source>
       </segment>
     </unit>
     <unit id="9">
       <segment state="initial" id="9">
-        <source xml:space="preserve">Write each question on a Post-it note.</source>
+        <source xml:space="preserve">Item</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">Organization</source>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment state="initial" id="11">
+        <source xml:space="preserve">Role</source>
+      </segment>
+    </unit>
+    <unit id="12">
+      <segment state="initial" id="12">
+        <source xml:space="preserve">Stamp</source>
       </segment>
     </unit>
   </file>
-  <file original="../day_1/lesson_3/from_spreadsheets_to_schemas.dita" id="2">
+  <file original="../day_1/lesson_4/domain_and_range.dita" id="7">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+Cjw/eG1sLW1vZGVsIGhyZWY9
 InVybjpvYXNpczpuYW1lczp0YzpkaXRhOnNwZWM6bGVhcm5pbmc6cm5nOmxlYXJuaW5nQ29udGVu
 dC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDovL3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAi
@@ -138,62 +800,441 @@ KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
 ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
 IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
 Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
-bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImZyb21fc3ByZWFkc2hlZXRzX3RvX3NjaGVtYXMi
-PiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRl
-c2MgY2xhc3M9Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3By
-b2xvZyAiPiA8Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwh
-LS0gIHRpbW90aHkudGhvbXBzb25AeWFsZS5lZHUgIC0tPiAlJSUzJSUlCjwhLS0gIHRpbW90aHku
-dGhvbXBzb25AeWFsZS5lZHUgIC0tPiAlJSU0JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxl
-YXJuaW5nQ29udGVudGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJu
-aW5nQmFzZWJvZHkgbGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5z
-dHJ1Y3Rpb24gY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlv
-biAiPiA8ZmlnIHN0YXR1cz0icmVtb3ZlQ29udGVudCIgY29ua2V5cmVmPSJmaWd1cmVzLWtleS9m
-aWdfczFmXzIxbl9zeGIiIGNsYXNzPSItIHRvcGljL2ZpZyAiPiA8dGl0bGUgY2xhc3M9Ii0gdG9w
-aWMvdGl0bGUgIj4lJSU1JSUlCjwvdGl0bGU+IDxkZXNjIGNsYXNzPSItIHRvcGljL2Rlc2MgIj4l
-JSU2JSUlCiUlJTclJSUKJSUlOCUlJQo8L2Rlc2M+IDxpbWFnZSBrZXlyZWY9InBhcnRpY2lwYW50
-cy1zcHJlYWRzaGVldCIgcGxhY2VtZW50PSJpbmxpbmUiIGNsYXNzPSItIHRvcGljL2ltYWdlICIg
-aWQ9ImltYWdlX3QxZl8yMW5fc3hiIj4gPGFsdCBjbGFzcz0iLSB0b3BpYy9hbHQgIj4lJSU5JSUl
-CiUlJTEwJSUlCiUlJTExJSUlCiUlJTEyJSUlCiUlJTEzJSUlCiUlJTE0JSUlCiUlJTE1JSUlCiUl
-JTE2JSUlCiUlJTE3JSUlCiUlJTE4JSUlCiUlJTE5JSUlCiUlJTIwJSUlCiUlJTIxJSUlCjwvYWx0
-PiA8L2ltYWdlPiA8L2ZpZz4gPC9sY0luc3RydWN0aW9uPiA8L2xlYXJuaW5nQ29udGVudGJvZHk+
-IDxsZWFybmluZ1N1bW1hcnkgZG9tYWlucz0iICAgICAgICAgICAgICAgICAgICAgICAgICAodG9w
-aWMgY29uY2VwdCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBoaS1kKSAgICAgICAg
-ICAgICAgICAgICAgICAgICAgKHRvcGljIGluZGV4aW5nLWQpICAgICAgICAgICAgICAgICAgICAg
-ICAgICAodG9waWMgbGVhcm5pbmdCYXNlK2xlYXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQpICAgICAg
-ICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdCYXNlK2xlYXJuaW5nSW50ZXJhY3Rp
-b25CYXNlLWQgbGVhcm5pbmdBc3Nlc3NtZW50KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
-cGljIGxlYXJuaW5nQmFzZSBsZWFybmluZ1N1bW1hcnkpICAgICAgICAgICAgICAgICAgICAgICAg
-ICAodG9waWMgbGVhcm5pbmdCYXNlK2xlYXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQgbGVhcm5pbmdD
-b250ZW50KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFy
-bmluZ0ludGVyYWN0aW9uQmFzZS1kK2xlYXJuaW5nSW50ZXJhY3Rpb25CYXNlMikgICAgICAgICAg
-ICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
-LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJh
-c2UtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0ludGVyYWN0aW9u
-QmFzZTItZCBsZWFybmluZzItZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFy
-bmluZ0ludGVyYWN0aW9uQmFzZTItZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBs
-ZWFybmluZ21ldGEtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWZlcmVuY2Up
-ICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVsbWdtdC1kKSAgICAgICAgICAgICAg
-ICAgICAgICAgICAgKHRvcGljIHRhc2spICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
-dXQtZCkgICAgICAgICAgICAgICAgICAgICAgICAgIGEocHJvcHMgZGVsaXZlcnlUYXJnZXQpIiBj
-bGFzcz0iLSB0b3BpYy90b3BpYyBsZWFybmluZ0Jhc2UvbGVhcm5pbmdCYXNlICAgICBsZWFybmlu
-Z1N1bW1hcnkvbGVhcm5pbmdTdW1tYXJ5ICIgaWQ9ImxlYXJuaW5nU3VtbWFyeV9mMWpfMzFuX3N4
-YiI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTIyJSUlCjwvdGl0bGU+IDxsZWFy
-bmluZ1N1bW1hcnlib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmlu
-Z0Jhc2Vib2R5IGxlYXJuaW5nU3VtbWFyeS9sZWFybmluZ1N1bW1hcnlib2R5ICI+IDxsY1Jldmll
-dyBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY1JldmlldyAiIGlkPSJsY1Jl
-dmlld190YnpfMzFuX3N4YiI+IDxwIGNsYXNzPSItIHRvcGljL3AgIj4gPHVsIGNsYXNzPSItIHRv
-cGljL3VsICIgaWQ9InVsX2oydl9qMW5fc3hiIj4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUl
-MjMlJSUKPC9saT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+JSUlMjQlJSUKIDxmbiBjbGFzcz0i
-LSB0b3BpYy9mbiAiPiUlJTI1JSUlCiUlJTI2JSUlCjwvZm4+PC9saT4gPC91bD4gPC9wPiA8L2xj
-UmV2aWV3PiA8L2xlYXJuaW5nU3VtbWFyeWJvZHk+IDwvbGVhcm5pbmdTdW1tYXJ5PiA8L2xlYXJu
-aW5nQ29udGVudD4=</skeleton>
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImRvbWFpbl9hbmRfcmFuZ2UiPiA8dGl0bGUgY2xh
+c3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0g
+dG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3Byb2xvZyAiPiA8Y3Jp
+dGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwhLS0gIHRpbW90aHku
+dGhvbXBzb25AeWFsZS5lZHUgIC0tPiAlJSUzJSUlCjwhLS0gIHRpbW90aHkudGhvbXBzb25AeWFs
+ZS5lZHUgIC0tPiAlJSU0JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxlYXJuaW5nQ29udGVu
+dGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZWJvZHkg
+bGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5zdHJ1Y3Rpb24gY2xh
+c3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlvbiAiPiA8ZmlnIHN0
+YXR1cz0icmVtb3ZlQ29udGVudCIgY29ua2V5cmVmPSJmaWd1cmVzLWtleS9maWdfdm1kX20ybl9z
+eGIiIGNsYXNzPSItIHRvcGljL2ZpZyAiPiA8dGl0bGUgY2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4l
+JSU1JSUlCjwvdGl0bGU+IDxkZXNjIGNsYXNzPSItIHRvcGljL2Rlc2MgIj4lJSU2JSUlCjwvZGVz
+Yz4gPGltYWdlIGtleXJlZj0iZG9tYWluLXJhbmdlIiBwbGFjZW1lbnQ9ImlubGluZSIgY2xhc3M9
+Ii0gdG9waWMvaW1hZ2UgIiBpZD0iaW1hZ2Vfd21kX20ybl9zeGIiPiA8YWx0IGNsYXNzPSItIHRv
+cGljL2FsdCAiPiUlJTclJSUKPC9hbHQ+IDwvaW1hZ2U+IDwvZmlnPiA8L2xjSW5zdHJ1Y3Rpb24+
+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPGxlYXJuaW5nU3VtbWFyeSBkb21haW5zPSIgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBjb25jZXB0KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGhpLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmct
+ZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJ
+bnRlcmFjdGlvbkJhc2UtZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmlu
+Z0Jhc2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmluZ0Fzc2Vzc21lbnQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdCYXNlIGxlYXJuaW5nU3VtbWFyeSkg
+ICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJbnRl
+cmFjdGlvbkJhc2UtZCBsZWFybmluZ0NvbnRlbnQpICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgbGVhcm5pbmdCYXNlK2xlYXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQrbGVhcm5pbmdJbnRl
+cmFjdGlvbkJhc2UyKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50
+ZXJhY3Rpb25CYXNlLWQgbGVhcm5pbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3Bp
+YyBsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNlMi1kIGxlYXJuaW5nMi1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNlMi1kKSAgICAgICAgICAg
+ICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nbWV0YS1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIHJlZmVyZW5jZSkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBy
+ZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgdGFzaykgICAgICAgICAg
+ICAgICAgICAgICAgICAgICh0b3BpYyB1dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgYShw
+cm9wcyBkZWxpdmVyeVRhcmdldCkiIGNsYXNzPSItIHRvcGljL3RvcGljIGxlYXJuaW5nQmFzZS9s
+ZWFybmluZ0Jhc2UgICAgIGxlYXJuaW5nU3VtbWFyeS9sZWFybmluZ1N1bW1hcnkgIiBpZD0ibGVh
+cm5pbmdTdW1tYXJ5X2Y1c19rMm5fc3hiIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+
+JSUlOCUlJQo8L3RpdGxlPiA8bGVhcm5pbmdTdW1tYXJ5Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5
+ICBsZWFybmluZ0Jhc2UvbGVhcm5pbmdCYXNlYm9keSBsZWFybmluZ1N1bW1hcnkvbGVhcm5pbmdT
+dW1tYXJ5Ym9keSAiPiA8bGNSZXZpZXcgY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jh
+c2UvbGNSZXZpZXcgIiBpZD0ibGNSZXZpZXdfcWdmX2wybl9zeGIiPiA8cCBkaXI9Imx0ciIgY2xh
+c3M9Ii0gdG9waWMvcCAiPiUlJTklJSUKIDxscSBjbGFzcz0iLSB0b3BpYy9scSAiPiA8cCBjbGFz
+cz0iLSB0b3BpYy9wICI+JSUlMTAlJSUKPC9wPiA8cCBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMTEl
+JSUKJSUlMTIlJSUKPC9wPiA8L2xxPjwvcD4gPC9sY1Jldmlldz4gPC9sZWFybmluZ1N1bW1hcnli
+b2R5PiA8L2xlYXJuaW5nU3VtbWFyeT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
     <mda:metadata>
       <mda:metaGroup category="format">
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">UTF-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Domain and Range</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">Domain and Range</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">The domain of a property defines the class it starts from, whereas the range defines the class it points to.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Simple network diagram showing two nodes (Domain on the left and Range on the right) linked by an edge labeled Property.</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Summary</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <mda:metadata id="9">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-bold</mda:meta>
+        </mda:metaGroup>
+        <mda:metaGroup category="attributes" id="ph2">
+          <mda:meta type="ctype">x-bold</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
+        <data id="ph1">&lt;/b&gt;</data>
+        <data id="ph2">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
+        <data id="ph3">&lt;/b&gt;</data>
+      </originalData>
+      <segment state="initial" id="9">
+        <source xml:space="preserve">The <ph id="ph0"/>domain<ph id="ph1"/> and <ph id="ph2"/>range<ph id="ph3"/> of a property can also be defined.</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">A property domain limits the individuals that property can apply to.</source>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment state="initial" id="11">
+        <source xml:space="preserve">The range of a property limits the individuals it can take as its object.</source>
+      </segment>
+    </unit>
+    <unit id="12">
+      <mda:metadata id="12">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-link</mda:meta>
+        </mda:metaGroup>
+        <mda:metaGroup category="attributes" id="ph1">
+          <mda:meta type="ctype">x-underlined</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
+        <data id="ph2">&lt;/u&gt;</data>
+        <data id="ph3">&lt;/xref&gt;</data>
+      </originalData>
+      <segment state="initial" id="12">
+        <source xml:space="preserve"> (<ph id="ph0"/><ph id="ph1"/>W3C<ph id="ph2"/><ph id="ph3"/>)</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/domain_and_range_2.dita" id="8">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImRvbWFpbl9hbmRfcmFuZ2VfMiI+IDx0aXRsZSBj
+bGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTElJSUKJSUlMiUlJQo8L3RpdGxlPiA8c2hvcnRkZXNj
+IGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9s
+b2cgIj4gPGNyaXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMyUlJQo8IS0t
+IHRpbW90aHkudGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTQlJSUKPCEtLSB0aW1vdGh5LnRob21w
+c29uQHlhbGUuZWR1IC0tPiAlJSU1JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxlYXJuaW5n
+Q29udGVudGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFz
+ZWJvZHkgbGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5zdHJ1Y3Rp
+b24gY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlvbiAiPiA8
+dGFibGUgY2xhc3M9Ii0gdG9waWMvdGFibGUgIiBpZD0idGFibGVfemZ4X3kybl9zeGIiPiA8dGdy
+b3VwIGNsYXNzPSItIHRvcGljL3Rncm91cCAiIGNvbHM9IjMiPiA8Y29sc3BlYyBjbGFzcz0iLSB0
+b3BpYy9jb2xzcGVjICIgY29sbmFtZT0iY29sMSIgY29sbnVtPSIxIiBjb2x3aWR0aD0iMjUzcHgi
+Lz4gPGNvbHNwZWMgY2xhc3M9Ii0gdG9waWMvY29sc3BlYyAiIGNvbG5hbWU9ImNvbDIiIGNvbG51
+bT0iMiIgY29sd2lkdGg9IjI1M3B4Ii8+IDxjb2xzcGVjIGNsYXNzPSItIHRvcGljL2NvbHNwZWMg
+IiBjb2xuYW1lPSJjb2wzIiBjb2xudW09IjMiIGNvbHdpZHRoPSIyNTNweCIvPiA8dGhlYWQgY2xh
+c3M9Ii0gdG9waWMvdGhlYWQgIj4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IGRp
+cj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPjxiIGNsYXNzPSIrIHRvcGljL3BoIGhpLWQv
+YiAiPiUlJTYlJSUKPC9iPjwvZW50cnk+IDxlbnRyeSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMv
+ZW50cnkgIj48YiBjbGFzcz0iKyB0b3BpYy9waCBoaS1kL2IgIj4lJSU3JSUlCjwvYj48L2VudHJ5
+PiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2VudHJ5ICI+PGIgY2xhc3M9IisgdG9w
+aWMvcGggaGktZC9iICI+JSUlOCUlJQo8L2I+PC9lbnRyeT4gPC9yb3c+IDwvdGhlYWQ+IDx0Ym9k
+eSBjbGFzcz0iLSB0b3BpYy90Ym9keSAiPiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50
+cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2VudHJ5ICI+JSUlOSUlJQo8L2VudHJ5PiA8ZW50
+cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2VudHJ5ICI+JSUlMTAlJSUKPC9lbnRyeT4gPGVu
+dHJ5IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9w
+ICI+JSUlMTElJSUKPC9wPiA8dWwgY2xhc3M9Ii0gdG9waWMvdWwgIiBpZD0idWxfYWd4X3kybl9z
+eGIiPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFz
+cz0iLSB0b3BpYy9wICI+JSUlMTIlJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSIt
+IHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMTMlJSUKPC9w
+PiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBj
+bGFzcz0iLSB0b3BpYy9wICI+JSUlMTQlJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNz
+PSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMTUlJSUK
+PC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRy
+IiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlMTYlJSUKPC9wPiA8L2xpPiA8L3VsPiA8L2VudHJ5PiA8
+L3Jvdz4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IGRpcj0ibHRyIiBjbGFzcz0i
+LSB0b3BpYy9lbnRyeSAiPiUlJTE3JSUlCjwvZW50cnk+IDxlbnRyeSBkaXI9Imx0ciIgY2xhc3M9
+Ii0gdG9waWMvZW50cnkgIj4lJSUxOCUlJQo8L2VudHJ5PiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNz
+PSItIHRvcGljL2VudHJ5ICI+JSUlMTklJSUKPC9lbnRyeT4gPC9yb3c+IDwvdGJvZHk+IDwvdGdy
+b3VwPiA8L3RhYmxlPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPC9s
+ZWFybmluZ0NvbnRlbnQ+</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Domain and Range:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Examples</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Domain</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Property</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Range</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment state="initial" id="9">
+        <source xml:space="preserve">Contribution</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">role</source>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment state="initial" id="11">
+        <source xml:space="preserve">Agent</source>
+      </segment>
+    </unit>
+    <unit id="12">
+      <segment state="initial" id="12">
+        <source xml:space="preserve">Meeting</source>
+      </segment>
+    </unit>
+    <unit id="13">
+      <segment state="initial" id="13">
+        <source xml:space="preserve">Family</source>
+      </segment>
+    </unit>
+    <unit id="14">
+      <segment state="initial" id="14">
+        <source xml:space="preserve">Jurisdiction</source>
+      </segment>
+    </unit>
+    <unit id="15">
+      <segment state="initial" id="15">
+        <source xml:space="preserve">Organization </source>
+      </segment>
+    </unit>
+    <unit id="16">
+      <segment state="initial" id="16">
+        <source xml:space="preserve">Person</source>
+      </segment>
+    </unit>
+    <unit id="17">
+      <segment state="initial" id="17">
+        <source xml:space="preserve">[None]</source>
+      </segment>
+    </unit>
+    <unit id="18">
+      <segment state="initial" id="18">
+        <source xml:space="preserve">date</source>
+      </segment>
+    </unit>
+    <unit id="19">
+      <segment state="initial" id="19">
+        <source xml:space="preserve">Literal</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/from_spreadsheets_to_schemas_2.dita" id="9">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+Cjw/eG1sLW1vZGVsIGhyZWY9
+InVybjpvYXNpczpuYW1lczp0YzpkaXRhOnNwZWM6bGVhcm5pbmc6cm5nOmxlYXJuaW5nQ29udGVu
+dC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDovL3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAi
+Pz48bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImZyb21fc3ByZWFkc2hlZXRzX3RvX3NjaGVtYXNf
+MiI+IDx0aXRsZSBjbGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPHNob3J0
+ZGVzYyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIi8+IDxwcm9sb2cgY2xhc3M9Ii0gdG9waWMv
+cHJvbG9nICI+IDxjcml0ZGF0ZXMgY2xhc3M9Ii0gdG9waWMvY3JpdGRhdGVzICI+ICUlJTIlJSUK
+PCEtLSAgdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAgLS0+ICUlJTMlJSUKPCEtLSAgdGltb3Ro
+eS50aG9tcHNvbkB5YWxlLmVkdSAgLS0+ICUlJTQlJSUKPC9jcml0ZGF0ZXM+IDwvcHJvbG9nPiA8
+bGVhcm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVh
+cm5pbmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9keSAiPiA8bGNJ
+bnN0cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY0luc3RydWN0
+aW9uICI+IDxmaWcgc3RhdHVzPSJyZW1vdmVDb250ZW50IiBjb25rZXlyZWY9ImZpZ3VyZXMta2V5
+L2ZpZ19zMWZfMjFuX3N4YiIgY2xhc3M9Ii0gdG9waWMvZmlnICI+IDx0aXRsZSBjbGFzcz0iLSB0
+b3BpYy90aXRsZSAiPiUlJTUlJSUKPC90aXRsZT4gPGRlc2MgY2xhc3M9Ii0gdG9waWMvZGVzYyAi
+PiUlJTYlJSUKJSUlNyUlJQolJSU4JSUlCjwvZGVzYz4gPGltYWdlIGtleXJlZj0icGFydGljaXBh
+bnRzLXNwcmVhZHNoZWV0IiBwbGFjZW1lbnQ9ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2Ug
+IiBpZD0iaW1hZ2VfdDFmXzIxbl9zeGIiPiA8YWx0IGNsYXNzPSItIHRvcGljL2FsdCAiPiUlJTkl
+JSUKJSUlMTAlJSUKJSUlMTElJSUKJSUlMTIlJSUKJSUlMTMlJSUKJSUlMTQlJSUKJSUlMTUlJSUK
+JSUlMTYlJSUKJSUlMTclJSUKJSUlMTglJSUKJSUlMTklJSUKJSUlMjAlJSUKJSUlMjElJSUKPC9h
+bHQ+IDwvaW1hZ2U+IDwvZmlnPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9k
+eT4gPGxlYXJuaW5nU3VtbWFyeSBkb21haW5zPSIgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBjb25jZXB0KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAodG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCkgICAg
+ICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJbnRlcmFj
+dGlvbkJhc2UtZCBsZWFybmluZ0Fzc2Vzc21lbnQpICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgbGVhcm5pbmdCYXNlIGxlYXJuaW5nU3VtbWFyeSkgICAgICAgICAgICAgICAgICAgICAg
+ICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Z0NvbnRlbnQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdCYXNlK2xl
+YXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UyKSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQgbGVhcm5p
+bmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0ludGVyYWN0aW9u
+QmFzZS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rp
+b25CYXNlMi1kIGxlYXJuaW5nMi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxl
+YXJuaW5nSW50ZXJhY3Rpb25CYXNlMi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IGxlYXJuaW5nbWV0YS1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlZmVyZW5j
+ZSkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgdGFzaykgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3Bp
+YyB1dC1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCki
+IGNsYXNzPSItIHRvcGljL3RvcGljIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2UgICAgIGxlYXJu
+aW5nU3VtbWFyeS9sZWFybmluZ1N1bW1hcnkgIiBpZD0ibGVhcm5pbmdTdW1tYXJ5X2Yxal8zMW5f
+c3hiIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMjIlJSUKPC90aXRsZT4gPGxl
+YXJuaW5nU3VtbWFyeWJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJu
+aW5nQmFzZWJvZHkgbGVhcm5pbmdTdW1tYXJ5L2xlYXJuaW5nU3VtbWFyeWJvZHkgIj4gPGxjUmV2
+aWV3IGNsYXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNlL2xjUmV2aWV3ICIgaWQ9Imxj
+UmV2aWV3X3Riel8zMW5fc3hiIj4gPHAgY2xhc3M9Ii0gdG9waWMvcCAiPiA8dWwgY2xhc3M9Ii0g
+dG9waWMvdWwgIiBpZD0idWxfbHQzX3Nidl9zeGIiPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4l
+JSUyMyUlJQo8L2xpPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSUyNCUlJQolJSUyNSUlJQol
+JSUyNiUlJQo8L2xpPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkgIj4lJSUyNyUlJQo8L2xpPiA8bGkg
+Y2xhc3M9Ii0gdG9waWMvbGkgIj4lJSUyOCUlJQo8L2xpPiA8bGkgY2xhc3M9Ii0gdG9waWMvbGkg
+Ij4lJSUyOSUlJQo8L2xpPiA8L3VsPiA8L3A+IDwvbGNSZXZpZXc+IDwvbGVhcm5pbmdTdW1tYXJ5
+Ym9keT4gPC9sZWFybmluZ1N1bW1hcnk+IDwvbGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -340,21 +1381,21 @@ aW5nQ29udGVudD4=</skeleton>
     </unit>
     <unit id="23">
       <segment state="initial" id="23">
-        <source xml:space="preserve">Tabular data, such as what we find in spreadsheets, is not self-documenting.</source>
+        <source xml:space="preserve">Let's return to our spreadsheet data.</source>
       </segment>
     </unit>
     <unit id="24">
       <mda:metadata id="24">
         <mda:metaGroup category="attributes" id="ph0">
-          <mda:meta type="ctype">x-bold</mda:meta>
+          <mda:meta type="ctype">x-link</mda:meta>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
-        <data id="ph1">&lt;/b&gt;</data>
+        <data id="ph0">&lt;xref href="../../resources/data/spreadsheet_schema.ttl" class="- topic/xref " format="ttl"&gt;</data>
+        <data id="ph1">&lt;/xref&gt;</data>
       </originalData>
       <segment state="initial" id="24">
-        <source xml:space="preserve">We can guess about the meaning of columns and fields, but without a <ph id="ph0"/>semantic<ph id="ph1"/> schema, we can't be sure that our interpretation is correct.</source>
+        <source xml:space="preserve">Here is <ph id="ph0"/>an example<ph id="ph1"/> of a simple ontology expressed using RDFS.</source>
       </segment>
     </unit>
     <unit id="25">
@@ -367,7 +1408,7 @@ aW5nQ29udGVudD4=</skeleton>
         <data id="ph0">&lt;cite keyref="linked-data-manning" class="- topic/cite "&gt;</data>
       </originalData>
       <segment state="initial" id="25">
-        <source xml:space="preserve">Example inspired by the book <ph id="ph0"/>Linked Data:</source>
+        <source xml:space="preserve"> Example inspired by the book <ph id="ph0"/>Linked Data:</source>
       </segment>
     </unit>
     <unit id="26">
@@ -378,8 +1419,23 @@ aW5nQ29udGVudD4=</skeleton>
         <source xml:space="preserve"> Structured Data on the Web (Wood et al., 2013)<ph id="ph0"/>.</source>
       </segment>
     </unit>
+    <unit id="27">
+      <segment state="initial" id="27">
+        <source xml:space="preserve">It provides a semantic schema for the spreadsheet.</source>
+      </segment>
+    </unit>
+    <unit id="28">
+      <segment state="initial" id="28">
+        <source xml:space="preserve">It clearly identifies the entities and relationships in the data.</source>
+      </segment>
+    </unit>
+    <unit id="29">
+      <segment state="initial" id="29">
+        <source xml:space="preserve">It incorporates concepts from other linked data vocabularies, such as Friend of a Friend (FOAF) and Schema.org.</source>
+      </segment>
+    </unit>
   </file>
-  <file original="../day_1/lesson_3/ontology_design.dita" id="3">
+  <file original="../day_1/lesson_4/individuals.dita" id="10">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
 dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
 LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
@@ -403,29 +1459,24 @@ KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
 ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
 IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
 Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
-bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9Im9udG9sb2d5X2Rlc2lnbiI+IDx0aXRsZSBjbGFz
-cz0iLSB0b3BpYy90aXRsZSAiPiUlJTElJSUKPC90aXRsZT4gPHNob3J0ZGVzYyBjbGFzcz0iLSB0
-b3BpYy9zaG9ydGRlc2MgIi8+IDxwcm9sb2cgY2xhc3M9Ii0gdG9waWMvcHJvbG9nICI+IDxjcml0
-ZGF0ZXMgY2xhc3M9Ii0gdG9waWMvY3JpdGRhdGVzICI+ICUlJTIlJSUKPCEtLSB0aW1vdGh5LnRo
-b21wc29uQHlhbGUuZWR1IC0tPiAlJSUzJSUlCjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVk
-dSAtLT4gJSUlNCUlJQo8L2NyaXRkYXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0NvbnRlbnRib2R5
-IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vib2R5IGxlYXJu
-aW5nQ29udGVudC9sZWFybmluZ0NvbnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9uIGNsYXNzPSIt
-IHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPHVsIGNsYXNzPSIt
-IHRvcGljL3VsICIgaWQ9InVsX3Bzal9oM25fc3hiIj4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0
-b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8
-L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFz
-cz0iLSB0b3BpYy9wICI+JSUlNiUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0g
-dG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU3JSUlCjwvcD4g
-PC9saT4gPC91bD4gPC9sY0luc3RydWN0aW9uPiA8L2xlYXJuaW5nQ29udGVudGJvZHk+IDwvbGVh
-cm5pbmdDb250ZW50Pg==</skeleton>
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImluZGl2aWR1YWxzIj4gPHRpdGxlIGNsYXNzPSIt
+IHRvcGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGlj
+L3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9sb2cgIj4gPGNyaXRkYXRl
+cyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMiUlJQo8IS0tIHRpbW90aHkudGhvbXBz
+b25AeWFsZS5lZHUgLS0+ICUlJTMlJSUKPC9jcml0ZGF0ZXM+IDwvcHJvbG9nPiA8bGVhcm5pbmdD
+b250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVhcm5pbmdCYXNl
+Ym9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9keSAiPiA8bGNJbnN0cnVjdGlv
+biBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY0luc3RydWN0aW9uICI+IDxw
+IGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlNCUlJQogPGxxIGNsYXNzPSItIHRvcGlj
+L2xxICI+JSUlNSUlJQolJSU2JSUlCjwvbHE+PC9wPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5p
+bmdDb250ZW50Ym9keT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
     <mda:metadata>
       <mda:metaGroup category="format">
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -439,130 +1490,7 @@ cm5pbmdDb250ZW50Pg==</skeleton>
     </mda:metadata>
     <unit id="1">
       <segment state="initial" id="1">
-        <source xml:space="preserve">Ontology Design</source>
-      </segment>
-    </unit>
-    <unit id="2">
-      <originalData>
-        <data id="ph0">&lt;created date="</data>
-        <data id="ph1">" class="- topic/created "/&gt;</data>
-      </originalData>
-      <segment state="initial" id="2">
-        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
-      </segment>
-    </unit>
-    <unit id="3">
-      <originalData>
-        <data id="ph0">&lt;revised modified="</data>
-        <data id="ph1">" class="- topic/revised "/&gt;</data>
-      </originalData>
-      <segment state="initial" id="3">
-        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
-      </segment>
-    </unit>
-    <unit id="4">
-      <originalData>
-        <data id="ph0">&lt;revised modified="</data>
-        <data id="ph1">" class="- topic/revised "/&gt;</data>
-      </originalData>
-      <segment state="initial" id="4">
-        <source xml:space="preserve"><ph id="ph0"/>2023-06-10<ph id="ph1"/> </source>
-      </segment>
-    </unit>
-    <unit id="5">
-      <mda:metadata id="5">
-        <mda:metaGroup category="attributes" id="ph0">
-          <mda:meta type="ctype">x-bold</mda:meta>
-        </mda:metaGroup>
-      </mda:metadata>
-      <originalData>
-        <data id="ph0">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
-        <data id="ph1">&lt;/b&gt;</data>
-      </originalData>
-      <segment state="initial" id="5">
-        <source xml:space="preserve">One of the first steps toward creating an ontology is to develop a set of <ph id="ph0"/>competency questions<ph id="ph1"/>.</source>
-      </segment>
-    </unit>
-    <unit id="6">
-      <segment state="initial" id="6">
-        <source xml:space="preserve">These are questions that serve to define the scope of an ontology and test its usefulness later on.</source>
-      </segment>
-    </unit>
-    <unit id="7">
-      <segment state="initial" id="7">
-        <source xml:space="preserve">Based on these questions, we can begin to construct a data model, defining classes, properties, and individuals.</source>
-      </segment>
-    </unit>
-  </file>
-  <file original="../day_1/lesson_3/ontology_design_2.dita" id="4">
-    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
-dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
-LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
-Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
-cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
-ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
-ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
-ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
-aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
-b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
-ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
-Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
-cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
-ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
-Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
-YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
-bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
-cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
-bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
-KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
-ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
-IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
-Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
-bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9Im9udG9sb2d5X2Rlc2lnbl8yIj4gPHRpdGxlIGNs
-YXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSIt
-IHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9sb2cgIj4gPGNy
-aXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMiUlJQo8IS0tIHRpbW90aHku
-dGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTMlJSUKPC9jcml0ZGF0ZXM+IDwvcHJvbG9nPiA8bGVh
-cm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVhcm5p
-bmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9keSAiPiA8bGNJbnN0
-cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9sY0luc3RydWN0aW9u
-ICI+IDx1bCBjbGFzcz0iLSB0b3BpYy91bCAiIGlkPSJ1bF9hNHhfMzNuX3N4YiI+IDxsaSBkaXI9
-Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3Ag
-Ij4lJSU0JSUlCjwvcD4gPHVsIGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX2I0eF8zM25fc3hi
-Ij4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9
-Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRv
-cGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlNiUlJQo8L3A+IDwv
-bGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNz
-PSItIHRvcGljL3AgIj4lJSU3JSUlCjwvcD4gPC9saT4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0
-b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTglJSUKPC9wPiA8
-L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFz
-cz0iLSB0b3BpYy9wICI+JSUlOSUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0g
-dG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSUxMCUlJQo8L3A+
-IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNs
-YXNzPSItIHRvcGljL3AgIj4lJSUxMSUlJQolJSUxMiUlJQo8L3A+IDwvbGk+IDwvdWw+IDwvbGk+
-IDwvdWw+IDwvbGNJbnN0cnVjdGlvbj4gPC9sZWFybmluZ0NvbnRlbnRib2R5PiA8L2xlYXJuaW5n
-Q29udGVudD4=</skeleton>
-    <mda:metadata>
-      <mda:metaGroup category="format">
-        <mda:meta type="datatype">x-ditamap</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
-        <mda:meta type="build-number">0</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="tool">
-        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
-        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
-        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="PI">
-        <mda:meta type="encoding">utf-8</mda:meta>
-      </mda:metaGroup>
-    </mda:metadata>
-    <unit id="1">
-      <segment state="initial" id="1">
-        <source xml:space="preserve">Ontology Design</source>
+        <source xml:space="preserve">Individuals</source>
       </segment>
     </unit>
     <unit id="2">
@@ -585,172 +1513,381 @@ Q29udGVudD4=</skeleton>
     </unit>
     <unit id="4">
       <segment state="initial" id="4">
-        <source xml:space="preserve">For example, in an ontology about food and wine, we could ask competency questions like these:</source>
+        <source xml:space="preserve">Individuals are instances or members of a class.</source>
       </segment>
     </unit>
     <unit id="5">
       <segment state="initial" id="5">
-        <source xml:space="preserve">Which wine characteristics should I consider when choosing a wine?</source>
-      </segment>
-    </unit>
-    <unit id="6">
-      <segment state="initial" id="6">
-        <source xml:space="preserve">Is Bordeaux a red or white wine?</source>
-      </segment>
-    </unit>
-    <unit id="7">
-      <segment state="initial" id="7">
-        <source xml:space="preserve">Does Cabernet Sauvignon go well with seafood?</source>
-      </segment>
-    </unit>
-    <unit id="8">
-      <segment state="initial" id="8">
-        <source xml:space="preserve">What is the best choice of wine for grilled meat?</source>
-      </segment>
-    </unit>
-    <unit id="9">
-      <segment state="initial" id="9">
-        <source xml:space="preserve">Which characteristics of a wine affect its appropriateness for a dish?</source>
-      </segment>
-    </unit>
-    <unit id="10">
-      <segment state="initial" id="10">
-        <source xml:space="preserve">Does a bouquet or body of a specific wine change with vintage year?</source>
-      </segment>
-    </unit>
-    <unit id="11">
-      <segment state="initial" id="11">
-        <source xml:space="preserve">What were good vintages for Napa Zinfandel?</source>
-      </segment>
-    </unit>
-    <unit id="12">
-      <mda:metadata id="12">
-        <mda:metaGroup category="attributes" id="ph0">
-          <mda:meta type="ctype">x-link</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph1">
-          <mda:meta type="ctype">x-underlined</mda:meta>
-        </mda:metaGroup>
-      </mda:metadata>
-      <originalData>
-        <data id="ph0">&lt;xref href="https://protege.stanford.edu/publications/ontology_development/ontology101.pdf" scope="external" class="- topic/xref " format="html"&gt;</data>
-        <data id="ph1">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
-        <data id="ph2">&lt;/u&gt;</data>
-        <data id="ph3">&lt;/xref&gt;</data>
-      </originalData>
-      <segment state="initial" id="12">
-        <source xml:space="preserve"> (<ph id="ph0"/><ph id="ph1"/>Ontology 101<ph id="ph2"/><ph id="ph3"/>)</source>
-      </segment>
-    </unit>
-  </file>
-  <file original="../day_1/lesson_3/what_is_an_ontology.dita" id="5">
-    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
-dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
-LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
-Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
-cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
-ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
-ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
-ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
-aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
-b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
-ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
-Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
-cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
-ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
-Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
-YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
-bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
-cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
-bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
-KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
-ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
-IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
-Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
-bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImRheV8xX2xlc3Nvbl8zIj4gPHRpdGxlIGNsYXNz
-PSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNzPSItIHRv
-cGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9sb2cgIj4gPGNyaXRk
-YXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gPCEtLSB0aW1vdGh5LnRob21wc29uQHlh
-bGUuZWR1IC0tPiAlJSUyJSUlCjwhLS0gdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUl
-MyUlJQo8L2NyaXRkYXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0NvbnRlbnRib2R5IGNsYXNzPSIt
-IHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vib2R5IGxlYXJuaW5nQ29udGVu
-dC9sZWFybmluZ0NvbnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9uIGNsYXNzPSItIHRvcGljL3Nl
-Y3Rpb24gbGVhcm5pbmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSIt
-IHRvcGljL3AgIj4gPHVsIGNsYXNzPSItIHRvcGljL3VsICI+IDxsaSBkaXI9Imx0ciIgY2xhc3M9
-Ii0gdG9waWMvbGkgIj4lJSU0JSUlCiA8bHEgY2xhc3M9Ii0gdG9waWMvbHEgIj48aSBjbGFzcz0i
-KyB0b3BpYy9waCBoaS1kL2kgIj4lJSU1JSUlCiUlJTYlJSUKPC9scT48L2xpPiA8bGkgY2xhc3M9
-Ii0gdG9waWMvbGkgIj4lJSU3JSUlCjwvbGk+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTgl
-JSUKPC9saT4gPC91bD4gPC9wPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9k
-eT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
-    <mda:metadata>
-      <mda:metaGroup category="format">
-        <mda:meta type="datatype">x-ditamap</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
-        <mda:meta type="build-number">0</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="tool">
-        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
-        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
-        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
-      </mda:metaGroup>
-      <mda:metaGroup category="PI">
-        <mda:meta type="encoding">utf-8</mda:meta>
-      </mda:metaGroup>
-    </mda:metadata>
-    <unit id="1">
-      <segment state="initial" id="1">
-        <source xml:space="preserve">What Is an Ontology?</source>
-      </segment>
-    </unit>
-    <unit id="2">
-      <originalData>
-        <data id="ph0">&lt;revised modified="</data>
-        <data id="ph1">" class="- topic/revised "/&gt;</data>
-      </originalData>
-      <segment state="initial" id="2">
-        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
-      </segment>
-    </unit>
-    <unit id="3">
-      <originalData>
-        <data id="ph0">&lt;revised modified="</data>
-        <data id="ph1">" class="- topic/revised "/&gt;</data>
-      </originalData>
-      <segment state="initial" id="3">
-        <source xml:space="preserve"><ph id="ph0"/>2023-06-08<ph id="ph1"/> </source>
-      </segment>
-    </unit>
-    <unit id="4">
-      <segment state="initial" id="4">
-        <source xml:space="preserve">In computer science, an ontology is defined as:</source>
-      </segment>
-    </unit>
-    <unit id="5">
-      <segment state="initial" id="5">
-        <source xml:space="preserve">A formal definition of types, properties, and relationships between entities that actually or fundamentally exist within a particular domain of discourse.</source>
+        <source xml:space="preserve">For example, an individual named Deborah can be described as a member of the class Person, and the property hasEmployer can be used to relate her to the individual StanfordUniversity.</source>
       </segment>
     </unit>
     <unit id="6">
       <mda:metadata id="6">
-        <mda:metaGroup category="attributes" id="ph1">
+        <mda:metaGroup category="attributes" id="ph0">
           <mda:meta type="ctype">x-link</mda:meta>
         </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph2">
+        <mda:metaGroup category="attributes" id="ph1">
           <mda:meta type="ctype">x-underlined</mda:meta>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
-        <data id="ph0">&lt;/i&gt;</data>
-        <data id="ph1">&lt;xref href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa_(inform%C3%A1tica)" scope="external" class="- topic/xref " format="html"&gt;</data>
-        <data id="ph2">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
-        <data id="ph3">&lt;/u&gt;</data>
-        <data id="ph4">&lt;/xref&gt;</data>
+        <data id="ph0">&lt;xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
+        <data id="ph2">&lt;/u&gt;</data>
+        <data id="ph3">&lt;/xref&gt;</data>
       </originalData>
       <segment state="initial" id="6">
-        <source xml:space="preserve"> <ph id="ph0"/>(<ph id="ph1"/><ph id="ph2"/>Wikipedia<ph id="ph3"/><ph id="ph4"/>)</source>
+        <source xml:space="preserve"> (<ph id="ph0"/><ph id="ph1"/>W3C<ph id="ph2"/><ph id="ph3"/>)</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/individuals_examples.dita" id="11">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+Cjw/eG1sLW1vZGVsIGhyZWY9
+InVybjpvYXNpczpuYW1lczp0YzpkaXRhOnNwZWM6bGVhcm5pbmc6cm5nOmxlYXJuaW5nQ29udGVu
+dC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDovL3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAi
+Pz48bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9ImluZGl2aWR1YWxzX2V4YW1wbGUiPiA8dGl0bGUg
+Y2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUxJSUlCiUlJTIlJSUKPC90aXRsZT4gPHNob3J0ZGVz
+YyBjbGFzcz0iLSB0b3BpYy9zaG9ydGRlc2MgIi8+IDxwcm9sb2cgY2xhc3M9Ii0gdG9waWMvcHJv
+bG9nICI+IDxjcml0ZGF0ZXMgY2xhc3M9Ii0gdG9waWMvY3JpdGRhdGVzICI+ICUlJTMlJSUKPCEt
+LSAgdGltb3RoeS50aG9tcHNvbkB5YWxlLmVkdSAgLS0+ICUlJTQlJSUKPC9jcml0ZGF0ZXM+IDwv
+cHJvbG9nPiA8bGVhcm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5ICBsZWFybmlu
+Z0Jhc2UvbGVhcm5pbmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdDb250ZW50Ym9k
+eSAiPiA8bGNJbnN0cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJuaW5nQmFzZS9s
+Y0luc3RydWN0aW9uICI+IDxmaWcgc3RhdHVzPSJyZW1vdmVDb250ZW50IiBjb25rZXlyZWY9ImZp
+Z3VyZXMta2V5L2ZpZ19jY3JfaGpiX3R4YiIgY2xhc3M9Ii0gdG9waWMvZmlnICI+IDx0aXRsZSBj
+bGFzcz0iLSB0b3BpYy90aXRsZSAiPiUlJTUlJSUKPC90aXRsZT4gPGRlc2MgY2xhc3M9Ii0gdG9w
+aWMvZGVzYyAiPiUlJTYlJSUKJSUlNyUlJQo8L2Rlc2M+IDxpbWFnZSBrZXlyZWY9ImJmLXBhdHRl
+cm5zLWNvbnRyaWJ1dGlvbiIgcGxhY2VtZW50PSJpbmxpbmUiIGNsYXNzPSItIHRvcGljL2ltYWdl
+ICIgaWQ9ImltYWdlX2Rjcl9oamJfdHhiIj4gPGFsdCBjbGFzcz0iLSB0b3BpYy9hbHQgIj4lJSU4
+JSUlCiUlJTklJSUKJSUlMTAlJSUKPC9hbHQ+IDwvaW1hZ2U+IDwvZmlnPiA8L2xjSW5zdHJ1Y3Rp
+b24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPCEtLSAgPGxlYXJuaW5nU3VtbWFyeSBpZD0iaW5k
+aXZpZHVhbHNfZXhhbXBsZV9zdW1tYXJ5Ij4KICAgICAgICA8dGl0bGU+U3VtbWFyeTwvdGl0bGU+
+CiAgICAgICAgPGxlYXJuaW5nU3VtbWFyeWJvZHk+CiAgICAgICAgICAgIDxsY1Jldmlldz4KICAg
+ICAgICAgICAgICAgIAogICAgICAgICAgICA8L2xjUmV2aWV3PgogICAgICAgIDwvbGVhcm5pbmdT
+dW1tYXJ5Ym9keT4KICAgIDwvbGVhcm5pbmdTdW1tYXJ5PiAgLS0+IDwvbGVhcm5pbmdDb250ZW50
+Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">UTF-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Individuals:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Example</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">Describing Individuals</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Diagram showing the model for recording information about an individual stamp on a book held by Yale University Library.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve"> This example references the Art and Rare Materials (ARM) ontology, which builds on BIBFRAME to support detailed described of rare materials and special collections.</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">Network diagram showing an example BIBFRAME model for contributors to an inscription.</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment state="initial" id="9">
+        <source xml:space="preserve"> The Inscription class comes from the ARM ontology.</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve"> One contribution is defined with role giver and agent Zora Neale Hurston (Person), and another is defined with role receiver and agent Carl Van Vechten (Person).</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/ontologies_and_controlled_vocabularies.dita" id="12">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9Im9udG9sb2dpZXNfYW5kX2NvbnRyb2xsZWRfdm9j
+YWJ1bGFyaWVzIj4gPHRpdGxlIGNsYXNzPSItIHRvcGljL3RpdGxlICI+JSUlMSUlJQo8L3RpdGxl
+PiA8c2hvcnRkZXNjIGNsYXNzPSItIHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0i
+LSB0b3BpYy9wcm9sb2cgIj4gPGNyaXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4g
+JSUlMiUlJQo8IS0tIHRpbW90aHkudGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTMlJSUKPC9jcml0
+ZGF0ZXM+IDwvcHJvbG9nPiA8bGVhcm5pbmdDb250ZW50Ym9keSBjbGFzcz0iLSB0b3BpYy9ib2R5
+ICBsZWFybmluZ0Jhc2UvbGVhcm5pbmdCYXNlYm9keSBsZWFybmluZ0NvbnRlbnQvbGVhcm5pbmdD
+b250ZW50Ym9keSAiPiA8bGNJbnN0cnVjdGlvbiBjbGFzcz0iLSB0b3BpYy9zZWN0aW9uIGxlYXJu
+aW5nQmFzZS9sY0luc3RydWN0aW9uICI+IDx1bCBjbGFzcz0iLSB0b3BpYy91bCAiIGlkPSJ1bF9w
+bXdfMTNuX3N4YiI+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJs
+dHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU0JSUlCjwvcD4gPC9saT4gPC91bD4gPHVsIGNsYXNz
+PSItIHRvcGljL3VsICIgaWQ9InVsX3Ftd18xM25fc3hiIj4gPGxpIGRpcj0ibHRyIiBjbGFzcz0i
+LSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTUlJSUKPC9w
+PiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBj
+bGFzcz0iLSB0b3BpYy9wICI+JSUlNiUlJQo8L3A+IDwvbGk+IDxsaSBkaXI9Imx0ciIgY2xhc3M9
+Ii0gdG9waWMvbGkgIj4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU3JSUlCjwv
+cD4gPC9saT4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIg
+Y2xhc3M9Ii0gdG9waWMvcCAiPiUlJTglJSUKPC9wPiA8L2xpPiA8L3VsPiA8L2xjSW5zdHJ1Y3Rp
+b24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Ontologies and Controlled Vocabularies</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <segment state="initial" id="4">
+        <source xml:space="preserve">An ontology allows us to define a data model that reflects reality in all its complexity.</source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">For its part, a controlled vocabulary has a simpler intent.</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">It defines a list of concepts that can have hierarchical relationships, but that do not reflect a view of the world in an explicit way.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">However, controlled vocabularies can also be created using linked data standards.</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <mda:metadata id="8">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-link</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;xref href="https://www.w3.org/TR/2009/REC-skos-reference-20090818/" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;/xref&gt;</data>
+      </originalData>
+      <segment state="initial" id="8">
+        <source xml:space="preserve">The <ph id="ph0"/>Simple Knowledge Organization System<ph id="ph1"/> (SKOS) was created to design thesauri and controlled vocabularies in RDF.</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/properties.dita" id="13">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9InByb3BlcnRpZXMiPiA8dGl0bGUgY2xhc3M9Ii0g
+dG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMv
+c2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3Byb2xvZyAiPiA8Y3JpdGRhdGVz
+IGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwhLS0gdGltb3RoeS50aG9tcHNv
+bkB5YWxlLmVkdSAtLT4gJSUlMyUlJQo8L2NyaXRkYXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0Nv
+bnRlbnRib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vi
+b2R5IGxlYXJuaW5nQ29udGVudC9sZWFybmluZ0NvbnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9u
+IGNsYXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPHVs
+IGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX2JndF94Y25fc3hiIj4gPGxpIGRpcj0ibHRyIiBj
+bGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQl
+JSUKIDxscSBjbGFzcz0iLSB0b3BpYy9scSAiPiUlJTUlJSUKJSUlNiUlJQo8L2xxPjwvcD4gPC9s
+aT4gPGxpIGNsYXNzPSItIHRvcGljL2xpICI+PHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3Ag
+Ij4lJSU3JSUlCjwvcD48L2xpPiA8L3VsPiA8L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250
+ZW50Ym9keT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Properties</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <segment state="initial" id="4">
+        <source xml:space="preserve">According to the W3C:</source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">Properties can be used to establish relationships between individuals or individuals and literal data values.</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <mda:metadata id="6">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-link</mda:meta>
+        </mda:metaGroup>
+        <mda:metaGroup category="attributes" id="ph1">
+          <mda:meta type="ctype">x-underlined</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;xref href="https://www.w3.org/2007/09/OWL-Overview-es.html#s3.1" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;u class="+ topic/ph hi-d/u "&gt;</data>
+        <data id="ph2">&lt;/u&gt;</data>
+        <data id="ph3">&lt;/xref&gt;</data>
+      </originalData>
+      <segment state="initial" id="6">
+        <source xml:space="preserve"> (<ph id="ph0"/><ph id="ph1"/>W3C<ph id="ph2"/><ph id="ph3"/>)</source>
       </segment>
     </unit>
     <unit id="7">
@@ -758,43 +1895,283 @@ eT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
         <mda:metaGroup category="attributes" id="ph0">
           <mda:meta type="ctype">x-bold</mda:meta>
         </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph2">
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
+        <data id="ph1">&lt;/b&gt;</data>
+      </originalData>
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Properties are usually written with a lowercase letter, or using "Camel Case" (e.g., <ph id="ph0"/>accountName<ph id="ph1"/>).</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/properties_2.dita" id="14">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9InByb3BlcnRpZXNfMiI+IDx0aXRsZSBjbGFzcz0i
+LSB0b3BpYy90aXRsZSAiPiUlJTElJSUKJSUlMiUlJQo8L3RpdGxlPiA8c2hvcnRkZXNjIGNsYXNz
+PSItIHRvcGljL3Nob3J0ZGVzYyAiLz4gPHByb2xvZyBjbGFzcz0iLSB0b3BpYy9wcm9sb2cgIj4g
+PGNyaXRkYXRlcyBjbGFzcz0iLSB0b3BpYy9jcml0ZGF0ZXMgIj4gJSUlMyUlJQo8IS0tIHRpbW90
+aHkudGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTQlJSUKPCEtLSB0aW1vdGh5LnRob21wc29uQHlh
+bGUuZWR1IC0tPiAlJSU1JSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4gPGxlYXJuaW5nQ29udGVu
+dGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZWJvZHkg
+bGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxjSW5zdHJ1Y3Rpb24gY2xh
+c3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVjdGlvbiAiPiA8dGFibGUg
+Y2xhc3M9Ii0gdG9waWMvdGFibGUgIiBpZD0idGFibGVfanhoX2Rkbl9zeGIiPiA8dGl0bGUgY2xh
+c3M9Ii0gdG9waWMvdGl0bGUgIj4lJSU2JSUlCjwvdGl0bGU+IDx0Z3JvdXAgY2xhc3M9Ii0gdG9w
+aWMvdGdyb3VwICIgY29scz0iMSI+IDxjb2xzcGVjIGNsYXNzPSItIHRvcGljL2NvbHNwZWMgIiBj
+b2xuYW1lPSJjb2wxIiBjb2xudW09IjEiIGNvbHdpZHRoPSI3NjBweCIvPiA8dGhlYWQgY2xhc3M9
+Ii0gdG9waWMvdGhlYWQgIj4gPHJvdyBjbGFzcz0iLSB0b3BpYy9yb3cgIj4gPGVudHJ5IGNsYXNz
+PSItIHRvcGljL2VudHJ5ICI+JSUlNyUlJQo8L2VudHJ5PiA8L3Jvdz4gPC90aGVhZD4gPHRib2R5
+IGNsYXNzPSItIHRvcGljL3Rib2R5ICI+IDxyb3cgY2xhc3M9Ii0gdG9waWMvcm93ICI+IDxlbnRy
+eSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvZW50cnkgIj48YiBjbGFzcz0iKyB0b3BpYy9waCBo
+aS1kL2IgIj4lJSU4JSUlCjwvYj48L2VudHJ5PiA8L3Jvdz4gPHJvdyBjbGFzcz0iLSB0b3BpYy9y
+b3cgIj4gPGVudHJ5IGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9lbnRyeSAiPjxiIGNsYXNzPSIr
+IHRvcGljL3BoIGhpLWQvYiAiPiUlJTklJSUKPC9iPjwvZW50cnk+IDwvcm93PiA8cm93IGNsYXNz
+PSItIHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2VudHJ5ICI+
+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTAlJSUKPC9iPjwvZW50cnk+IDwvcm93
+PiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIiIGNsYXNzPSItIHRv
+cGljL2VudHJ5ICI+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTElJSUKPC9iPjwv
+ZW50cnk+IDwvcm93PiA8cm93IGNsYXNzPSItIHRvcGljL3JvdyAiPiA8ZW50cnkgZGlyPSJsdHIi
+IGNsYXNzPSItIHRvcGljL2VudHJ5ICI+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUl
+MTIlJSUKPC9iPjwvZW50cnk+IDwvcm93PiA8L3Rib2R5PiA8L3Rncm91cD4gPC90YWJsZT4gPC9s
+Y0luc3RydWN0aW9uPiA8L2xlYXJuaW5nQ29udGVudGJvZHk+IDwvbGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Properties:</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <segment state="initial" id="2">
+        <source xml:space="preserve"> Examples</source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="5">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-09<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Example BIBFRAME Properties</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Property</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">agent</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment state="initial" id="9">
+        <source xml:space="preserve">contribution</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">date</source>
+      </segment>
+    </unit>
+    <unit id="11">
+      <segment state="initial" id="11">
+        <source xml:space="preserve">marked by (markedBy)</source>
+      </segment>
+    </unit>
+    <unit id="12">
+      <segment state="initial" id="12">
+        <source xml:space="preserve">role</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../day_1/lesson_4/rdf_schema.dita" id="15">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
+dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdDb250ZW50
+LnJuZyIgc2NoZW1hdHlwZW5zPSJodHRwOi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/
+Pgo8bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9InJkZl9zY2hlbWEiPiA8dGl0bGUgY2xhc3M9Ii0g
+dG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9Ii0gdG9waWMv
+c2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3Byb2xvZyAiPiA8Y3JpdGRhdGVz
+IGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwhLS0gdGltb3RoeS50aG9tcHNv
+bkB5YWxlLmVkdSAtLT4gJSUlMyUlJQo8L2NyaXRkYXRlcz4gPC9wcm9sb2c+IDxsZWFybmluZ0Nv
+bnRlbnRib2R5IGNsYXNzPSItIHRvcGljL2JvZHkgIGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2Vi
+b2R5IGxlYXJuaW5nQ29udGVudC9sZWFybmluZ0NvbnRlbnRib2R5ICI+IDxsY0luc3RydWN0aW9u
+IGNsYXNzPSItIHRvcGljL3NlY3Rpb24gbGVhcm5pbmdCYXNlL2xjSW5zdHJ1Y3Rpb24gIj4gPHVs
+IGNsYXNzPSItIHRvcGljL3VsICIgaWQ9InVsX2t5c194em1fc3hiIj4gPGxpIGRpcj0ibHRyIiBj
+bGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTQl
+JSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0i
+bHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+JSUlNSUlJQo8L3A+IDx1bCBjbGFzcz0iLSB0b3BpYy91
+bCAiIGlkPSJ1bF9seXNfeHptX3N4YiI+IDxsaSBkaXI9Imx0ciIgY2xhc3M9Ii0gdG9waWMvbGkg
+Ij4gPHAgZGlyPSJsdHIiIGNsYXNzPSItIHRvcGljL3AgIj4lJSU2JSUlCjwvcD4gPC9saT4gPGxp
+IGNsYXNzPSItIHRvcGljL2xpICI+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlNyUl
+JQo8L2I+PC9saT4gPGxpIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9saSAiPiA8cCBkaXI9Imx0
+ciIgY2xhc3M9Ii0gdG9waWMvcCAiPiUlJTglJSUKPC9wPiA8L2xpPiA8bGkgZGlyPSJsdHIiIGNs
+YXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+PGIgY2xh
+c3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlOSUlJQo8L2I+PC9wPiA8L2xpPiA8bGkgZGlyPSJs
+dHIiIGNsYXNzPSItIHRvcGljL2xpICI+IDxwIGRpcj0ibHRyIiBjbGFzcz0iLSB0b3BpYy9wICI+
+PGIgY2xhc3M9IisgdG9waWMvcGggaGktZC9iICI+JSUlMTAlJSUKPC9iPjwvcD4gPC9saT4gPC91
+bD4gPC9saT4gPC91bD4gPC9sY0luc3RydWN0aW9uPiA8L2xlYXJuaW5nQ29udGVudGJvZHk+IDwv
+bGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">utf-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">RDF Schema</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <mda:metadata id="4">
+        <mda:metaGroup category="attributes" id="ph0">
+          <mda:meta type="ctype">x-link</mda:meta>
+        </mda:metaGroup>
+      </mda:metadata>
+      <originalData>
+        <data id="ph0">&lt;xref href="https://www.w3.org/TR/rdf12-schema/" scope="external" class="- topic/xref " format="html"&gt;</data>
+        <data id="ph1">&lt;/xref&gt;</data>
+      </originalData>
+      <segment state="initial" id="4">
+        <source xml:space="preserve">RDF includes a schema extension focused on laying the foundation for ontology development and semantic data modeling, <ph id="ph0"/>RDF Schema<ph id="ph1"/> (RDFS) </source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">It defines modeling concepts such as:</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <mda:metadata id="6">
+        <mda:metaGroup category="attributes" id="ph0">
           <mda:meta type="ctype">x-bold</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph3">
-          <mda:meta type="ctype">x-other</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph6">
-          <mda:meta type="ctype">x-bold</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph7">
-          <mda:meta type="ctype">x-other</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph10">
-          <mda:meta type="ctype">x-bold</mda:meta>
-        </mda:metaGroup>
-        <mda:metaGroup category="attributes" id="ph11">
-          <mda:meta type="ctype">x-other</mda:meta>
         </mda:metaGroup>
       </mda:metadata>
       <originalData>
         <data id="ph0">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
         <data id="ph1">&lt;/b&gt;</data>
-        <data id="ph2">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
-        <data id="ph3">&lt;term class="- topic/term "&gt;</data>
-        <data id="ph4">&lt;/term&gt;</data>
-        <data id="ph5">&lt;/b&gt;</data>
-        <data id="ph6">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
-        <data id="ph7">&lt;term class="- topic/term "&gt;</data>
-        <data id="ph8">&lt;/term&gt;</data>
-        <data id="ph9">&lt;/b&gt;</data>
-        <data id="ph10">&lt;b class="+ topic/ph hi-d/b "&gt;</data>
-        <data id="ph11">&lt;term class="- topic/term "&gt;</data>
-        <data id="ph12">&lt;/term&gt;</data>
-        <data id="ph13">&lt;/b&gt;</data>
       </originalData>
+      <segment state="initial" id="6">
+        <source xml:space="preserve"><ph id="ph0"/>Class<ph id="ph1"/> (and subclass)</source>
+      </segment>
+    </unit>
+    <unit id="7">
       <segment state="initial" id="7">
-        <source xml:space="preserve">An ontology is a <ph id="ph0"/>model of reality<ph id="ph1"/> expressed as a formal specification of <ph id="ph2"/><ph id="ph3"/>classes<ph id="ph4"/><ph id="ph5"/>, <ph id="ph6"/><ph id="ph7"/>properties<ph id="ph8"/><ph id="ph9"/>, and <ph id="ph10"/><ph id="ph11"/>individuals<ph id="ph12"/><ph id="ph13"/>.</source>
+        <source xml:space="preserve">Literal</source>
       </segment>
     </unit>
     <unit id="8">
@@ -808,11 +2185,161 @@ eT4gPC9sZWFybmluZ0NvbnRlbnQ+</skeleton>
         <data id="ph1">&lt;/b&gt;</data>
       </originalData>
       <segment state="initial" id="8">
-        <source xml:space="preserve">An ontology is a <ph id="ph0"/>semantic schema<ph id="ph1"/> that documents the meaning of our data.</source>
+        <source xml:space="preserve"><ph id="ph0"/>Property<ph id="ph1"/> (and subproperty)</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment state="initial" id="9">
+        <source xml:space="preserve">Domain</source>
+      </segment>
+    </unit>
+    <unit id="10">
+      <segment state="initial" id="10">
+        <source xml:space="preserve">Range</source>
       </segment>
     </unit>
   </file>
-  <file original="../img/bibframe_etc/arm_inscription_bf_contributions.svg" id="6">
+  <file original="../day_1/lesson_4/rdf_schema_overview.dita" id="16">
+    <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+Cjw/eG1sLW1vZGVsIGhyZWY9
+InVybjpvYXNpczpuYW1lczp0YzpkaXRhOnNwZWM6bGVhcm5pbmc6cm5nOmxlYXJuaW5nQ29udGVu
+dC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDovL3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAi
+Pz48bGVhcm5pbmdDb250ZW50IGRvbWFpbnM9IiAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGNvbmNlcHQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgaGktZCkgICAgICAg
+ICAgICAgICAgICAgICAgICAgICh0b3BpYyBpbmRleGluZy1kKSAgICAgICAgICAgICAgICAgICAg
+ICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0
+aW9uQmFzZS1kIGxlYXJuaW5nQXNzZXNzbWVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0
+b3BpYyBsZWFybmluZ0Jhc2UgbGVhcm5pbmdTdW1tYXJ5KSAgICAgICAgICAgICAgICAgICAgICAg
+ICAgKHRvcGljIGxlYXJuaW5nQmFzZStsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kIGxlYXJuaW5n
+Q29udGVudCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UtZCtsZWFybmluZ0ludGVyYWN0aW9uQmFzZTIpICAgICAgICAg
+ICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmlu
+Zy1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25C
+YXNlLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdJbnRlcmFjdGlv
+bkJhc2UyLWQgbGVhcm5pbmcyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVh
+cm5pbmdJbnRlcmFjdGlvbkJhc2UyLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+bGVhcm5pbmdtZXRhLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgcmVmZXJlbmNl
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlbG1nbXQtZCkgICAgICAgICAgICAg
+ICAgICAgICAgICAgICh0b3BpYyB0YXNrKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGlj
+IHV0LWQpICAgICAgICAgICAgICAgICAgICAgICAgICBhKHByb3BzIGRlbGl2ZXJ5VGFyZ2V0KSIg
+Y2xhc3M9Ii0gdG9waWMvdG9waWMgbGVhcm5pbmdCYXNlL2xlYXJuaW5nQmFzZSBsZWFybmluZ0Nv
+bnRlbnQvbGVhcm5pbmdDb250ZW50ICIgaWQ9InJkZl9zY2hlbWFfb3ZlcnZpZXciPiA8dGl0bGUg
+Y2xhc3M9Ii0gdG9waWMvdGl0bGUgIj4lJSUxJSUlCjwvdGl0bGU+IDxzaG9ydGRlc2MgY2xhc3M9
+Ii0gdG9waWMvc2hvcnRkZXNjICIvPiA8cHJvbG9nIGNsYXNzPSItIHRvcGljL3Byb2xvZyAiPiA8
+Y3JpdGRhdGVzIGNsYXNzPSItIHRvcGljL2NyaXRkYXRlcyAiPiAlJSUyJSUlCjwhLS0gIHRpbW90
+aHkudGhvbXBzb25AeWFsZS5lZHUgIC0tPiAlJSUzJSUlCjwvY3JpdGRhdGVzPiA8L3Byb2xvZz4g
+PGxlYXJuaW5nQ29udGVudGJvZHkgY2xhc3M9Ii0gdG9waWMvYm9keSAgbGVhcm5pbmdCYXNlL2xl
+YXJuaW5nQmFzZWJvZHkgbGVhcm5pbmdDb250ZW50L2xlYXJuaW5nQ29udGVudGJvZHkgIj4gPGxj
+SW5zdHJ1Y3Rpb24gY2xhc3M9Ii0gdG9waWMvc2VjdGlvbiBsZWFybmluZ0Jhc2UvbGNJbnN0cnVj
+dGlvbiAiPiA8ZmlnIHN0YXR1cz0icmVtb3ZlQ29udGVudCIgY29ua2V5cmVmPSJmaWd1cmVzLWtl
+eS9maWdfbWttX2Njbl9zeGIiIGNsYXNzPSItIHRvcGljL2ZpZyAiPiA8dGl0bGUgY2xhc3M9Ii0g
+dG9waWMvdGl0bGUgIj4lJSU0JSUlCjwvdGl0bGU+IDxkZXNjIGNsYXNzPSItIHRvcGljL2Rlc2Mg
+Ij4lJSU1JSUlCjwvZGVzYz4gPGltYWdlIGtleXJlZj0icmRmcy1kaWFncmFtIiBwbGFjZW1lbnQ9
+ImlubGluZSIgY2xhc3M9Ii0gdG9waWMvaW1hZ2UgIiBpZD0iaW1hZ2VfbmttX2Njbl9zeGIiPiA8
+YWx0IGNsYXNzPSItIHRvcGljL2FsdCAiPiUlJTYlJSUKPC9hbHQ+IDwvaW1hZ2U+IDwvZmlnPiA8
+L2xjSW5zdHJ1Y3Rpb24+IDwvbGVhcm5pbmdDb250ZW50Ym9keT4gPGxlYXJuaW5nU3VtbWFyeSBk
+b21haW5zPSIgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBjb25jZXB0KSAgICAgICAg
+ICAgICAgICAgICAgICAgICAgKHRvcGljIGhpLWQpICAgICAgICAgICAgICAgICAgICAgICAgICAo
+dG9waWMgaW5kZXhpbmctZCkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmlu
+Z0Jhc2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCkgICAgICAgICAgICAgICAgICAgICAgICAg
+ICh0b3BpYyBsZWFybmluZ0Jhc2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmluZ0Fz
+c2Vzc21lbnQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdCYXNlIGxl
+YXJuaW5nU3VtbWFyeSkgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyBsZWFybmluZ0Jh
+c2UrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UtZCBsZWFybmluZ0NvbnRlbnQpICAgICAgICAgICAg
+ICAgICAgICAgICAgICAodG9waWMgbGVhcm5pbmdCYXNlK2xlYXJuaW5nSW50ZXJhY3Rpb25CYXNl
+LWQrbGVhcm5pbmdJbnRlcmFjdGlvbkJhc2UyKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRv
+cGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNlLWQgbGVhcm5pbmctZCkgICAgICAgICAgICAgICAg
+ICAgICAgICAgICh0b3BpYyBsZWFybmluZ0ludGVyYWN0aW9uQmFzZS1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNlMi1kIGxlYXJuaW5nMi1k
+KSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nSW50ZXJhY3Rpb25CYXNl
+Mi1kKSAgICAgICAgICAgICAgICAgICAgICAgICAgKHRvcGljIGxlYXJuaW5nbWV0YS1kKSAgICAg
+ICAgICAgICAgICAgICAgICAgICAgKHRvcGljIHJlZmVyZW5jZSkgICAgICAgICAgICAgICAgICAg
+ICAgICAgICh0b3BpYyByZWxtZ210LWQpICAgICAgICAgICAgICAgICAgICAgICAgICAodG9waWMg
+dGFzaykgICAgICAgICAgICAgICAgICAgICAgICAgICh0b3BpYyB1dC1kKSAgICAgICAgICAgICAg
+ICAgICAgICAgICAgYShwcm9wcyBkZWxpdmVyeVRhcmdldCkiIGNsYXNzPSItIHRvcGljL3RvcGlj
+IGxlYXJuaW5nQmFzZS9sZWFybmluZ0Jhc2UgICAgIGxlYXJuaW5nU3VtbWFyeS9sZWFybmluZ1N1
+bW1hcnkgIiBpZD0ibGVhcm5pbmdTdW1tYXJ5X2Yxal8zMW5fc3hiIj4gPHRpdGxlIGNsYXNzPSIt
+IHRvcGljL3RpdGxlICI+JSUlNyUlJQo8L3RpdGxlPiA8bGVhcm5pbmdTdW1tYXJ5Ym9keSBjbGFz
+cz0iLSB0b3BpYy9ib2R5ICBsZWFybmluZ0Jhc2UvbGVhcm5pbmdCYXNlYm9keSBsZWFybmluZ1N1
+bW1hcnkvbGVhcm5pbmdTdW1tYXJ5Ym9keSAiPiA8bGNSZXZpZXcgY2xhc3M9Ii0gdG9waWMvc2Vj
+dGlvbiBsZWFybmluZ0Jhc2UvbGNSZXZpZXcgIiBpZD0ibGNSZXZpZXdfdGJ6XzMxbl9zeGIiPiA8
+cCBjbGFzcz0iLSB0b3BpYy9wICI+IDx1bCBjbGFzcz0iLSB0b3BpYy91bCAiIGlkPSJ1bF96bDFf
+Z2NuX3N4YiI+IDxsaSBjbGFzcz0iLSB0b3BpYy9saSAiPiUlJTglJSUKPC9saT4gPGxpIGNsYXNz
+PSItIHRvcGljL2xpICI+JSUlOSUlJQo8L2xpPiA8L3VsPiA8L3A+IDwvbGNSZXZpZXc+IDwvbGVh
+cm5pbmdTdW1tYXJ5Ym9keT4gPC9sZWFybmluZ1N1bW1hcnk+IDwvbGVhcm5pbmdDb250ZW50Pg==</skeleton>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">x-ditamap</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="project-data">
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
+        <mda:meta type="build-number">0</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">3.8.0 20230606_1005</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">UTF-8</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit id="1">
+      <segment state="initial" id="1">
+        <source xml:space="preserve">Overview of RDF Schema</source>
+      </segment>
+    </unit>
+    <unit id="2">
+      <originalData>
+        <data id="ph0">&lt;created date="</data>
+        <data id="ph1">" class="- topic/created "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="2">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="3">
+      <originalData>
+        <data id="ph0">&lt;revised modified="</data>
+        <data id="ph1">" class="- topic/revised "/&gt;</data>
+      </originalData>
+      <segment state="initial" id="3">
+        <source xml:space="preserve"><ph id="ph0"/>2023-06-07<ph id="ph1"/> </source>
+      </segment>
+    </unit>
+    <unit id="4">
+      <segment state="initial" id="4">
+        <source xml:space="preserve">RDF Schema</source>
+      </segment>
+    </unit>
+    <unit id="5">
+      <segment state="initial" id="5">
+        <source xml:space="preserve">Overview of RDFS Classes and Properties</source>
+      </segment>
+    </unit>
+    <unit id="6">
+      <segment state="initial" id="6">
+        <source xml:space="preserve">Network diagram showing the main classes and properties defined in the RDF Schema vocabulary.</source>
+      </segment>
+    </unit>
+    <unit id="7">
+      <segment state="initial" id="7">
+        <source xml:space="preserve">Summary</source>
+      </segment>
+    </unit>
+    <unit id="8">
+      <segment state="initial" id="8">
+        <source xml:space="preserve">With RDFS, we can begin to define hierarchies of classes and properties.</source>
+      </segment>
+    </unit>
+    <unit id="9">
+      <segment state="initial" id="9">
+        <source xml:space="preserve">The Web Ontology Language (OWL) builds on these basic features and adds much more advanced functionality.</source>
+      </segment>
+    </unit>
+  </file>
+  <file original="../img/bibframe_etc/arm_inscription_bf_contributions.svg" id="17">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -954,8 +2481,8 @@ ICAgPC9nPgo8L3N2Zz4=</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -1113,7 +2640,7 @@ ICAgPC9nPgo8L3N2Zz4=</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/bibframe_etc/bf_graph.svg" id="7">
+  <file original="../img/bibframe_etc/bf_graph.svg" id="18">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -1332,8 +2859,8 @@ ICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -1576,7 +3103,7 @@ ICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/bibframe_etc/bf_landscape.svg" id="8">
+  <file original="../img/bibframe_etc/bf_landscape.svg" id="19">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -1746,8 +3273,8 @@ IDwvZz4KPC9zdmc+</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -1935,7 +3462,7 @@ IDwvZz4KPC9zdmc+</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/bibframe_etc/bf_provision.svg" id="9">
+  <file original="../img/bibframe_etc/bf_provision.svg" id="20">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -2054,8 +3581,8 @@ ICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -2188,7 +3715,7 @@ ICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/bibframe_etc/bf_title.svg" id="10">
+  <file original="../img/bibframe_etc/bf_title.svg" id="21">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -2311,8 +3838,8 @@ CiAgICA8L2c+Cjwvc3ZnPg==</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -2440,7 +3967,7 @@ CiAgICA8L2c+Cjwvc3ZnPg==</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/ontology/domain_range.svg" id="11">
+  <file original="../img/ontology/domain_range.svg" id="22">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -2482,8 +4009,8 @@ ICA8L2c+Cjwvc3ZnPg==</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -2531,7 +4058,7 @@ ICA8L2c+Cjwvc3ZnPg==</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/ontology/rdfs_diagram.svg" id="12">
+  <file original="../img/ontology/rdfs_diagram.svg" id="23">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjwh
 RE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIKICJodHRwOi8vd3d3
 LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8IS0tIEdlbmVyYXRlZCBi
@@ -2774,8 +4301,8 @@ ZSI+JSUlNDglJSUKPC90ZXh0PgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -3028,7 +4555,7 @@ ZSI+JSUlNDglJSUKPC90ZXh0PgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/rdf/rdf1.svg" id="13">
+  <file original="../img/rdf/rdf1.svg" id="24">
     <skeleton>PHN2ZyBoZWlnaHQ9IjIyMnB4IiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3
 LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQ0OHB4IiB2aWV3Qm94PSItMC41IC0wLjUgMjQ0
 OCAyMjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnMvPjxnPjxyZWN0
@@ -3152,8 +4679,8 @@ dC1hbmNob3I9Im1pZGRsZSI+JSUlNyUlJQo8L3RleHQ+PC9hPjwvc3dpdGNoPjwvc3ZnPg==</skelet
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -3201,7 +4728,7 @@ dC1hbmNob3I9Im1pZGRsZSI+JSUlNyUlJQo8L3RleHQ+PC9hPjwvc3dpdGNoPjwvc3ZnPg==</skelet
       </segment>
     </unit>
   </file>
-  <file original="../img/rdf/rdf2.svg" id="14">
+  <file original="../img/rdf/rdf2.svg" id="25">
     <skeleton>PHN2ZyBoZWlnaHQ9IjYwM3B4IiB2ZXJzaW9uPSIxLjEiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3
 LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjQzM3B4IiB2aWV3Qm94PSItMC41IC0wLjUgMjQz
 MyA2MDMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnMvPjxnPjxlbGxp
@@ -3334,8 +4861,8 @@ dD48L2E+PC9zd2l0Y2g+PC9zdmc+</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -3383,7 +4910,7 @@ dD48L2E+PC9zd2l0Y2g+PC9zdmc+</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="../img/rdf/rdf3.svg" id="15">
+  <file original="../img/rdf/rdf3.svg" id="26">
     <skeleton>PHN2ZyBoZWlnaHQ9IjE0NDNweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDovL3d3
 dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjE3MDZweCIgdmlld0JveD0iLTAuNSAtMC41IDE3
 MDYgMTQ0MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcy8+PGc+PGVs
@@ -3720,8 +5247,8 @@ Y2hvcj0ibWlkZGxlIj4lJSUxNyUlJQo8L3RleHQ+PC9hPjwvc3dpdGNoPjwvc3ZnPg==</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -3819,7 +5346,7 @@ Y2hvcj0ibWlkZGxlIj4lJSUxNyUlJQo8L3RleHQ+PC9hPjwvc3dpdGNoPjwvc3ZnPg==</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="course_keys.ditamap" id="16">
+  <file original="course_keys.ditamap" id="27">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
 dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6cm5nOm1hcC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDov
 L3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAiPz4KPG1hcCBkb21haW5zPSIgICAgICAgICAg
@@ -3981,8 +5508,8 @@ Ii8+IDwvdG9waWNncm91cD4gPC9tYXA+</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -4120,7 +5647,7 @@ Ii8+IDwvdG9waWNncm91cD4gPC9tYXA+</skeleton>
       </segment>
     </unit>
   </file>
-  <file original="day_1_lesson_3.ditamap" id="17">
+  <file original="day_1_lesson_4.ditamap" id="28">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
 dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6c3BlYzpsZWFybmluZzpybmc6bGVhcm5pbmdHcm91cE1h
 cC5ybmciIHNjaGVtYXR5cGVucz0iaHR0cDovL3JlbGF4bmcub3JnL25zL3N0cnVjdHVyZS8xLjAi
@@ -4150,39 +5677,67 @@ aG9tcHNvbkB5YWxlLmVkdSAtLT4gJSUlMTElJSUKPCEtLSB0aW1vdGh5LnRob21wc29uQHlhbGUu
 ZWR1IC0tPiAlJSUxMiUlJQo8IS0tIHRpbW90aHkudGhvbXBzb25AeWFsZS5lZHUgLS0+ICUlJTEz
 JSUlCjwvY3JpdGRhdGVzPiA8L3RvcGljbWV0YT4gPGxlYXJuaW5nR3JvdXAgY29sbGVjdGlvbi10
 eXBlPSJzZXF1ZW5jZSIgY2xhc3M9IisgbWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5p
-bmdHcm91cCAiPiA8IS0tICBMZXNzb24gMzogT250b2xvZ3kgRGV2ZWxvcG1lbnQgYW5kIENvbXBl
-dGVuY3kgUXVlc3Rpb25zICAtLT4gPGxlYXJuaW5nT2JqZWN0IGNvbGxlY3Rpb24tdHlwZT0ic2Vx
-dWVuY2UiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xlYXJuaW5nT2JqZWN0
-ICI+IDx0b3BpY21ldGEgY2xhc3M9Ii0gbWFwL3RvcGljbWV0YSAiPiA8bmF2dGl0bGUgY2xhc3M9
-Ii0gdG9waWMvbmF2dGl0bGUgIj4lJSUxNCUlJQo8L25hdnRpdGxlPiA8L3RvcGljbWV0YT4gPCEt
-LSAgTGVhcm5pbmcgUGxhbiByZWZsZWN0cyBhbiBlYXJsaWVyIHZlcnNpb24gb2YgdGhlIHRyYWlu
-aW5nLgogICAgICAgICAgICAgICAgPGxlYXJuaW5nUGxhblJlZiBocmVmPSIuLi9kYXlfMS9sZXNz
-b25fMy9vbnRvbG9naWVzX2FuZF9jb21wZXRlbmN5X3F1ZXN0aW9uc19sZWFybmluZ19wbGFuLmRp
-dGEiLz4KICAgICAgICAgICAgIC0tPiA8bGVhcm5pbmdDb250ZW50UmVmIGhyZWY9Ii4uL2RheV8x
-L2xlc3Nvbl8zL3doYXRfaXNfYW5fb250b2xvZ3kuZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNs
-YXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xlYXJuaW5nQ29udGVudFJlZiAiLz4g
-PGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fMy9vbnRvbG9neV9kZXNp
-Z24uZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmlu
-Z21hcC1kL2xlYXJuaW5nQ29udGVudFJlZiAiLz4gPGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIu
-Li9kYXlfMS9sZXNzb25fMy9vbnRvbG9neV9kZXNpZ25fMi5kaXRhIiBjaHVuaz0idG8tY29udGVu
-dCIgY2xhc3M9IisgbWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVm
-ICIvPiA8bGVhcm5pbmdDb250ZW50UmVmIGhyZWY9Ii4uL2RheV8xL2xlc3Nvbl8zL2Zyb21fc3By
-ZWFkc2hlZXRzX3RvX3NjaGVtYXMuZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1h
+bmdHcm91cCAiPiA8IS0tICBMZXNzb24gNDogT250b2xvZ2llcyBhbmQgU2VtYW50aWMgRGF0YSBN
+b2RlbGluZyAgLS0+IDxsZWFybmluZ09iamVjdCBjb2xsZWN0aW9uLXR5cGU9InNlcXVlbmNlIiBj
+bGFzcz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAtZC9sZWFybmluZ09iamVjdCAiPiA8dG9w
+aWNtZXRhIGNsYXNzPSItIG1hcC90b3BpY21ldGEgIj4gPG5hdnRpdGxlIGNsYXNzPSItIHRvcGlj
+L25hdnRpdGxlICI+JSUlMTQlJSUKPC9uYXZ0aXRsZT4gPC90b3BpY21ldGE+IDwhLS0gIExlYXJu
+aW5nIFBsYW4gcmVmbGVjdHMgYW4gZWFybGllciB2ZXJzaW9uIG9mIHRoZSB0cmFpbmluZy4KICAg
+ICAgICAgICAgICAgIDxsZWFybmluZ1BsYW5SZWYgaHJlZj0iLi4vZGF5XzEvbGVzc29uXzQvb250
+b2xvZ3lfZGV2ZWxvcG1lbnRfbGVhcm5pbmdfcGxhbi5kaXRhIi8+CiAgICAgICAgICAgICAtLT4g
+PGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fNC9yZGZfc2NoZW1hLmRp
+dGEiIGNodW5rPSJ0by1jb250ZW50IiBjbGFzcz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAt
+ZC9sZWFybmluZ0NvbnRlbnRSZWYgIi8+IDxsZWFybmluZ0NvbnRlbnRSZWYgaHJlZj0iLi4vZGF5
+XzEvbGVzc29uXzQvcmRmX3NjaGVtYV9vdmVydmlldy5kaXRhIiBjaHVuaz0idG8tY29udGVudCIg
+Y2xhc3M9IisgbWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVmICIv
+PiA8bGVhcm5pbmdDb250ZW50UmVmIGhyZWY9Ii4uL2RheV8xL2xlc3Nvbl80L2NsYXNzZXMuZGl0
+YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1k
+L2xlYXJuaW5nQ29udGVudFJlZiAiLz4gPGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlf
+MS9sZXNzb25fNC9jbGFzc2VzXzIuZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1h
 cC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xlYXJuaW5nQ29udGVudFJlZiAiLz4gPGxlYXJuaW5n
-Q29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fMy9hY3Rpdml0eV9jb21wZXRlbmN5X3F1
-ZXN0aW9ucy5kaXRhIiBjaHVuaz0idG8tY29udGVudCIgY2xhc3M9IisgbWFwL3RvcGljcmVmIGxl
-YXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVmICIvPiA8L2xlYXJuaW5nT2JqZWN0PiA8bGVh
-cm5pbmdPYmplY3RNYXBSZWYgaHJlZj0iY291cnNlX2tleXMuZGl0YW1hcCIgcHJvY2Vzc2luZy1y
-b2xlPSJyZXNvdXJjZS1vbmx5IiBjbGFzcz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAtZC9s
-ZWFybmluZ09iamVjdE1hcFJlZiAiIGZvcm1hdD0iZGl0YW1hcCIvPiA8L2xlYXJuaW5nR3JvdXA+
-IDwvbGVhcm5pbmdHcm91cE1hcD4=</skeleton>
+Q29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fNC9wcm9wZXJ0aWVzLmRpdGEiIGNodW5r
+PSJ0by1jb250ZW50IiBjbGFzcz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAtZC9sZWFybmlu
+Z0NvbnRlbnRSZWYgIi8+IDxsZWFybmluZ0NvbnRlbnRSZWYgaHJlZj0iLi4vZGF5XzEvbGVzc29u
+XzQvcHJvcGVydGllc18yLmRpdGEiIGNodW5rPSJ0by1jb250ZW50IiBjbGFzcz0iKyBtYXAvdG9w
+aWNyZWYgbGVhcm5pbmdtYXAtZC9sZWFybmluZ0NvbnRlbnRSZWYgIi8+IDxsZWFybmluZ0NvbnRl
+bnRSZWYgaHJlZj0iLi4vZGF5XzEvbGVzc29uXzQvaW5kaXZpZHVhbHMuZGl0YSIgY2h1bms9InRv
+LWNvbnRlbnQiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xlYXJuaW5nQ29u
+dGVudFJlZiAiLz4gPGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fNC9p
+bmRpdmlkdWFsc19leGFtcGxlcy5kaXRhIiBjaHVuaz0idG8tY29udGVudCIgY2xhc3M9IisgbWFw
+L3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVmICIvPiA8bGVhcm5pbmdD
+b250ZW50UmVmIGhyZWY9Ii4uL2RheV8xL2xlc3Nvbl80L2RvbWFpbl9hbmRfcmFuZ2UuZGl0YSIg
+Y2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xl
+YXJuaW5nQ29udGVudFJlZiAiLz4gPGxlYXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9s
+ZXNzb25fNC9kb21haW5fYW5kX3JhbmdlXzIuZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNz
+PSIrIG1hcC90b3BpY3JlZiBsZWFybmluZ21hcC1kL2xlYXJuaW5nQ29udGVudFJlZiAiLz4gPGxl
+YXJuaW5nQ29udGVudFJlZiBocmVmPSIuLi9kYXlfMS9sZXNzb25fNC9vbnRvbG9naWVzX2FuZF9j
+b250cm9sbGVkX3ZvY2FidWxhcmllcy5kaXRhIiBjaHVuaz0idG8tY29udGVudCIgY2xhc3M9Iisg
+bWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVmICIvPiA8bGVhcm5p
+bmdDb250ZW50UmVmIGhyZWY9Ii4uL2RheV8xL2xlc3Nvbl80L2Zyb21fc3ByZWFkc2hlZXRzX3Rv
+X3NjaGVtYXNfMi5kaXRhIiBjaHVuaz0idG8tY29udGVudCIgY2xhc3M9IisgbWFwL3RvcGljcmVm
+IGxlYXJuaW5nbWFwLWQvbGVhcm5pbmdDb250ZW50UmVmICIvPiA8bGVhcm5pbmdDb250ZW50UmVm
+IGhyZWY9Ii4uL2RheV8xL2xlc3Nvbl80L2FjdGl2aXR5X2NhcmRfc29ydGluZy5kaXRhIiBjaHVu
+az0idG8tY29udGVudCIgY2xhc3M9IisgbWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5p
+bmdDb250ZW50UmVmICIvPiA8bGVhcm5pbmdDb250ZW50UmVmIGhyZWY9Ii4uL2RheV8xL2xlc3Nv
+bl80L2FjdGl2aXR5X2NhcmRfc29ydGluZ18yLmRpdGEiIGNodW5rPSJ0by1jb250ZW50IiBjbGFz
+cz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAtZC9sZWFybmluZ0NvbnRlbnRSZWYgIi8+IDxs
+ZWFybmluZ0NvbnRlbnRSZWYgaHJlZj0iLi4vZGF5XzEvbGVzc29uXzQvYWN0aXZpdHlfY2FyZF9z
+b3J0aW5nXzMuZGl0YSIgY2h1bms9InRvLWNvbnRlbnQiIGNsYXNzPSIrIG1hcC90b3BpY3JlZiBs
+ZWFybmluZ21hcC1kL2xlYXJuaW5nQ29udGVudFJlZiAiLz4gPGxlYXJuaW5nQ29udGVudFJlZiBo
+cmVmPSIuLi9kYXlfMS9sZXNzb25fNC9hY3Rpdml0eV9jYXJkX3NvcnRpbmdfNC5kaXRhIiBjaHVu
+az0idG8tY29udGVudCIgY2xhc3M9IisgbWFwL3RvcGljcmVmIGxlYXJuaW5nbWFwLWQvbGVhcm5p
+bmdDb250ZW50UmVmICIvPiA8L2xlYXJuaW5nT2JqZWN0PiA8bGVhcm5pbmdPYmplY3RNYXBSZWYg
+aHJlZj0iY291cnNlX2tleXMuZGl0YW1hcCIgcHJvY2Vzc2luZy1yb2xlPSJyZXNvdXJjZS1vbmx5
+IiBjbGFzcz0iKyBtYXAvdG9waWNyZWYgbGVhcm5pbmdtYXAtZC9sZWFybmluZ09iamVjdE1hcFJl
+ZiAiIGZvcm1hdD0iZGl0YW1hcCIvPiA8L2xlYXJuaW5nR3JvdXA+IDwvbGVhcm5pbmdHcm91cE1h
+cD4=</skeleton>
     <mda:metadata>
       <mda:metaGroup category="format">
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
@@ -4198,7 +5753,7 @@ IDwvbGVhcm5pbmdHcm91cE1hcD4=</skeleton>
     </mda:metadata>
     <unit id="1">
       <segment state="initial" id="1">
-        <source xml:space="preserve">Day 1, Lesson 3</source>
+        <source xml:space="preserve">Day 1, Lesson 4</source>
       </segment>
     </unit>
     <unit id="2">
@@ -4311,11 +5866,11 @@ IDwvbGVhcm5pbmdHcm91cE1hcD4=</skeleton>
     </unit>
     <unit id="14">
       <segment state="initial" id="14">
-        <source xml:space="preserve">Ontology Development and Competency Questions</source>
+        <source xml:space="preserve">Ontologies and Semantic Data Modeling</source>
       </segment>
     </unit>
   </file>
-  <file original="figures.dita" id="18">
+  <file original="figures.dita" id="29">
     <skeleton>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPD94bWwtbW9kZWwgaHJlZj0i
 dXJuOm9hc2lzOm5hbWVzOnRjOmRpdGE6cm5nOnRvcGljLnJuZyIgc2NoZW1hdHlwZW5zPSJodHRw
 Oi8vcmVsYXhuZy5vcmcvbnMvc3RydWN0dXJlLzEuMCI/Pgo8dG9waWMgZG9tYWlucz0iKHRvcGlj
@@ -4541,8 +6096,8 @@ bWFnZT4gPC9maWc+IDwvYm9keT4gPC90b3BpYz4=</skeleton>
         <mda:meta type="datatype">x-ditamap</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="project-data">
-        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 3 (ES)</mda:meta>
-        <mda:meta type="project-id">1688002972534</mda:meta>
+        <mda:meta type="product-name">EBSCO Linked Data Training, Day 1, Lesson 4 (ES)</mda:meta>
+        <mda:meta type="project-id">1688003275206</mda:meta>
         <mda:meta type="build-number">0</mda:meta>
       </mda:metaGroup>
       <mda:metaGroup category="tool">
