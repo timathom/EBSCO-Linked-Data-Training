@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 1, Lesson 1</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-28"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">
+        
+        <!-- Lesson 1: RDF, the Basics -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>RDF: the Basics</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_1/rdf_basics_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_1/five_star_linked_data.dita"/>
+            <learningContentRef href="../day_1/lesson_1/linked_data_standards.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_is_a_graph.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_is_a_knowledge_graph.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data_2.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_linked_data_3.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_5.dita"/>
+            <learningContentRef href="../day_1/lesson_1/rdf_6.dita">
+                <learningContentComponentRef href="../day_1/lesson_1/json-ld.dita"/>
+                <learningContentComponentRef href="../day_1/lesson_1/json-ld_2.dita"/>
+            </learningContentRef>
+        </learningObject>
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+    </learningGroup>
+</learningGroupMap>

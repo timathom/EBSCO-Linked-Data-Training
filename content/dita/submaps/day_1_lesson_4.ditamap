@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 1, Lesson 4</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-28"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">
+        
+        <!-- Lesson 4: Ontologies and Semantic Data Modeling -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Ontologies and Semantic Data Modeling</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_4/ontology_development_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_4/rdf_schema.dita"/>
+            <learningContentRef href="../day_1/lesson_4/rdf_schema_overview.dita"/>
+            <learningContentRef href="../day_1/lesson_4/classes.dita"/>
+            <learningContentRef href="../day_1/lesson_4/classes_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/properties.dita"/>
+            <learningContentRef href="../day_1/lesson_4/properties_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/individuals.dita"/>
+            <learningContentRef href="../day_1/lesson_4/individuals_examples.dita"/>
+            <learningContentRef href="../day_1/lesson_4/domain_and_range.dita"/>
+            <learningContentRef href="../day_1/lesson_4/domain_and_range_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/ontologies_and_controlled_vocabularies.dita"/>
+            <learningContentRef href="../day_1/lesson_4/from_spreadsheets_to_schemas_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_2.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_3.dita"/>
+            <learningContentRef href="../day_1/lesson_4/activity_card_sorting_4.dita"/>        
+        </learningObject>
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+    </learningGroup>
+</learningGroupMap>

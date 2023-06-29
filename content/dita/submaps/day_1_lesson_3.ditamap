@@ -2,7 +2,7 @@
 <?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
     <topicmeta>
-        <navtitle>Day 1</navtitle>
+        <navtitle>Day 1, Lesson 3</navtitle>
         <critdates>
             <!--timothy.thompson@yale.edu-->
             <revised modified="2023-05-04"/>
@@ -30,18 +30,24 @@
             <revised modified="2023-06-28"/>
         </critdates>
     </topicmeta>
-    <learningGroup collection-type="sequence">                
-        <!-- Day 1, Lesson 0 -->
-        <learningGroupMapRef href="day_1_lesson_0.ditamap" format="ditamap"/>
-        <!-- Day 1, Lesson 1 -->
-        <learningGroupMapRef href="day_1_lesson_1.ditamap" format="ditamap"/>
-        <!-- Day 1, Lesson 2 -->
-        <learningGroupMapRef href="day_1_lesson_2.ditamap" format="ditamap"/>
-        <!-- Day 1, Lesson 3 -->
-        <learningGroupMapRef href="day_1_lesson_3.ditamap" format="ditamap"/>
-        <!-- Day 1, Lesson 4 -->
-        <learningGroupMapRef href="day_1_lesson_4.ditamap" format="ditamap"/>
-        <!-- Day 1, Lesson 5 -->
-        <learningGroupMapRef href="day_1_lesson_5.ditamap" format="ditamap"/>        
+    <learningGroup collection-type="sequence">
+       
+        <!-- Lesson 3: Ontology Development and Competency Questions -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Ontology Development and Competency Questions</navtitle>
+            </topicmeta>
+            
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_3/ontologies_and_competency_questions_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_3/what_is_an_ontology.dita"/>
+            <learningContentRef href="../day_1/lesson_3/ontology_design.dita"/>
+            <learningContentRef href="../day_1/lesson_3/ontology_design_2.dita"/>
+            <learningContentRef href="../day_1/lesson_3/from_spreadsheets_to_schemas.dita"/>
+            <learningContentRef href="../day_1/lesson_3/activity_competency_questions.dita"/>
+        </learningObject>
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
     </learningGroup>
 </learningGroupMap>

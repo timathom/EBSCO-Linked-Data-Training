@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 2, Lesson 2</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-28"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">        
+        <!-- Lesson 2: Example Use Cases and Applications -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Example Use Cases and Applications</navtitle>
+            </topicmeta>
+            <learningContentRef href="../day_2/lesson_2/lux_yale_collections_discovery.dita"/>
+            <learningContentRef
+                href="../day_2/lesson_2/lux_yale_collections_discovery_competency_questions.dita"/>
+            <learningContentRef
+                href="../day_2/lesson_2/lux_yale_collections_discovery_activity.dita"/>
+        </learningObject>
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+    </learningGroup>
+</learningGroupMap>

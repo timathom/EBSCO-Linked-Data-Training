@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 1, Lesson 0</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-28"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">
+        <learningObject collection-type="sequence">      
+            <learningContentRef href="../attribution.dita"/>      
+        </learningObject>
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Suggested Schedule for Day 1</navtitle>
+            </topicmeta>
+            <learningContentRef href="../day_1/suggested_schedule.dita"/>
+        </learningObject>
+        <!-- Lesson 0: Introduction and Overview: Why Is Linked Data Important? -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Introduction and Overview: Why Is Linked Data Important?</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training. 
+                <learningPlanRef href="../day_1/lesson_0/introduction_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_0/what_is_linked_open_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/what_is_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/is_this_data.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_deluge.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_mining.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_reading.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_translating.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_semantics.dita"/>
+            <learningContentRef href="../day_1/lesson_0/the_web.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_misunderstanding.dita"/>
+            <learningContentRef href="../day_1/lesson_0/data_semantics_2.dita"/>
+            <learningContentRef href="../day_1/lesson_0/deconstructing_the_web.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_understanding.dita"/>
+            <learningContentRef href="../day_1/lesson_0/machine_understanding_2.dita"/>
+            <learningContentRef href="../day_1/lesson_0/chatgpt_limits_and_possibilities.dita"/>
+            <learningContentRef href="../day_1/lesson_0/semantic_web_won.dita"/>
+            <learningContentRef href="../day_1/lesson_0/snow_white_problem.dita"/>
+            <learningContentRef href="../day_1/lesson_0/chatgpt_limits_and_possibilities_2.dita"/>
+        </learningObject>       
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+    </learningGroup>
+</learningGroupMap>

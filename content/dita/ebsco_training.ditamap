@@ -37,12 +37,11 @@
       <revised modified="2023-06-09"/>
       <!--timothy.thompson@yale.edu-->
       <revised modified="2023-06-10"/>
+      <!--timothy.thompson@yale.edu-->
+      <revised modified="2023-06-28"/>
     </critdates>
   </topicmeta>
-  <learningGroup collection-type="sequence">
-    <learningObject collection-type="sequence">      
-      <learningContentRef href="attribution.dita"/>      
-    </learningObject>
+  <learningGroup collection-type="sequence">    
     <!-- Day 1 -->
     <learningGroupMapRef href="submaps/day_1.ditamap" format="ditamap"/>
     <!-- Day 2 -->

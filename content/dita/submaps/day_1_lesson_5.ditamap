@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="urn:oasis:names:tc:dita:spec:learning:rng:learningGroupMap.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<learningGroupMap collection-type="sequence" processing-role="normal" toc="yes">
+    <topicmeta>
+        <navtitle>Day 1, Lesson 5</navtitle>
+        <critdates>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-05-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-04"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-05"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-06"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-07"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-08"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-09"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-10"/>
+            <!--timothy.thompson@yale.edu-->
+            <revised modified="2023-06-28"/>
+        </critdates>
+    </topicmeta>
+    <learningGroup collection-type="sequence">
+        
+        <!-- Lesson 5: Semantic Models for Libraries: BIBFRAME -->
+        <learningObject collection-type="sequence">
+            <topicmeta>
+                <navtitle>Semantic Models for Libraries: BIBFRAME</navtitle>
+            </topicmeta>
+            <!-- Learning Plan reflects an earlier version of the training.
+                <learningPlanRef href="../day_1/lesson_5/topic_1/bibframe_learning_plan.dita"/>
+            -->
+            
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_in_the_metadata_landscape.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/brief_history_of_bibframe.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_model_2.dita"/>
+            <learningContentRef
+                href="../day_1/lesson_5/topic_1/bibframe_patterns_work_instance_item.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_patterns_contribution.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_patterns_title.dita"/>
+            <learningContentRef
+                href="../day_1/lesson_5/topic_1/bibframe_patterns_provision_publication.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/from_marc_to_bibframe.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/bibframe_ecosystem.dita"/>
+            <learningContentRef href="../day_1/lesson_5/topic_1/cataloging_activity.dita"/>
+        </learningObject>
+        <!-- 
+            In an earlier version, separate modules were envisioned for MADS/RDF and Library of Congress Vocabularies.
+            This might be a possibility for expansion in the future.
+            
+            <learningGroupMapRef href="semantic_models_for_libraries.ditamap" format="ditamap"/>
+        -->
+        <learningObjectMapRef href="course_keys.ditamap" format="ditamap" processing-role="resource-only"/>
+    </learningGroup>
+</learningGroupMap>
